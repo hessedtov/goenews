@@ -1,0 +1,166 @@
+{
+ "issue": "2026-07-31",
+ "built_at": "2026-07-31T08:16:53+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "대통령금배 결승전 리턴매치는 보인고가 승리 [현장 화보]",
+     "url": "https://www.khan.co.kr/article/202607310240001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "계속되는 ‘극한 폭염’… 올해 온열사망 12명으로 늘어",
+     "url": "https://www.donga.com/news/Society/article/all/20260731/134398522/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "밤에도 식지 않는 살인 더위… 폭염·열대야 일수 더 길어진다",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20260731008006",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "수원 매원고 김동욱·김연우, 학교대항배드민턴선수권 남고부 복식 정상",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732816",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "파주교육지원청, ‘폰은 OFF, 배움과 웃음은 ON!’",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732808",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "수원특례시, 2027학년도 대학입시박람회 개최… 67개 대학 참여",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732785",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "정종혁 인천시의회 교육위원장 “보여주기식 예산 털어내고 학생·교직원에 집중”",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732784",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "안산시육종, 내달 21일까지 영유아 여름 물놀이 체험 운영",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732783",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "경기테크노파크, 안산 고교생 대상 ASV 직무탐험 투어 참가자 모집",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328509",
+     "date": "2026-07-31",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "황소제 광주시의원 “오포중 통학안전·신현1중 개교 지연, 더는 미룰 수 없어”",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328493",
+     "date": "2026-07-31",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "경민고 김재민, 경찰청장기 사격 남고부 10m 무빙타깃 정상 금빛총성",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732814",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "가천대 길병원, 급성기뇌졸중 적정성평가 1등급…종합점수 100점 획득",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732811",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "“물 한잔 드시고 쉬었다 가세요”…폭염 식히는 시민들의 자발적인 ‘선한 영향력’",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732806",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "다양한 악기 연주도 듣고, 노래도 따라 부르고",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732789",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "송영길 후보, 하의도 찾아 “김대중 대통령 성공방정식 내가 잇겠다”",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328505",
+     "date": "2026-07-31",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "[인천 언론사, 사료로 읽다] 10. 교과서를 정정하게 한 특종 보도",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328499",
+     "date": "2026-07-31",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "좋은 이웃이 되어보려고[고수리의 관계의 재발견]",
+     "url": "https://www.donga.com/news/Opinion/article/all/20260730/134397899/2",
+     "date": "2026-07-30",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[변호인들] 중개사고 손해배상과 공인중개사협회를 상대로 한 공제금청구",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363732705",
+     "date": "2026-07-31",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "[사설] 교권보호전담관이 제 역할을 해 내려면",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328548",
+     "date": "2026-07-31",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
