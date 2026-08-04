@@ -1,0 +1,505 @@
+{
+ "issue": "2026-08-05",
+ "built_at": "2026-08-05T08:15:47+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "[경제밥도둑]AI, 요샌 이렇게도 씁니다···‘음쓰’ 감축부터 가품·과대포장 검사까지",
+     "url": "https://www.khan.co.kr/article/202608050600091/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "18번째 백두장사 오른 김민재, 이만기와 타이",
+     "url": "https://www.donga.com/news/Sports/article/all/20260805/134421572/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "마트 ‘金삼겹’ 알고 보니… 6년간 1.2조 담합 있었다",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20260805010009",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청 블로그, '네이버 메이트' 선정 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11Rk9lSjlDaFNzV2pGOW1YTTFVa1doNXBPdkk2RnFxbmdyRVJUYXU4cVk4d0l2WWNycENXWXR3T0VWRkZHSkpxNEJSeWVQcVFqVE0yOExmd1VWM1dVTFRZbVpOY20?oc=5",
+     "date": "2026-08-04",
+     "press": "경기신문",
+     "related": [
+      "공감신문",
+      "웹이코노미",
+      "미디어와이",
+      "경기평화신문",
+      "뉴스잡"
+     ]
+    },
+    {
+     "title": "‘AI 시대 첫 교육감’에 발맞춰 변화한 경기도교육청 블로그, ‘네이버 메이트’로 선정! - 뉴스 따옴",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJSTEyN0NKcjk3M3RGNWNBdk4tWjkyTUpIS08zc0U0YkRsajR5TEwtNU5UMDNFcnFfdkNRaVFxa1dHMVY3UktoVlhzN1pGY1hNWHd0OUJiZkdjRFBDYTdNNElDV1FVSDBjVmNtRWpySdIBckFVX3lxTE5wMFBoYzgxT1ZGeU1RMHh2OFg5TTQwbVBJUlFjQ1dGUWs0TUhzOU1mSVFfZWh4eVJZZEl0Z19oMjFDWElMeGRVcTlQWVMycUt6RVZWU05WQmZucXBzeG9fUFJWVUlYUktiZ0ZQTmcweVlpQQ?oc=5",
+     "date": "2026-08-04",
+     "press": "뉴스 따옴",
+     "related": [
+      "뉴스팍",
+      "아시아뉴스통신",
+      "엔디엔뉴스",
+      "중부시사신문"
+     ]
+    },
+    {
+     "title": "경기도교육청미래과학교육원, 올 여름 ‘미과원 과학 바캉스’ 운영 - 글로벌뉴스통신GNA",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RX0twUUR4N2ZFUUJUbC1yNXJLd1hpV2NTdEJzbWdISkw2ckRObnNSNWtsSHRScm9aUFpJRWRxVF9rcHFhaXBUaEt3REJRdTJ6VHpNdkFoX0NQY3BhWlJYaDAyRVZ0SmVRSWQxYVhXSkdWNTJG?oc=5",
+     "date": "2026-08-04",
+     "press": "글로벌뉴스통신GNA",
+     "related": [
+      "도민연합뉴스",
+      "경기탑뉴스",
+      "엔디엔뉴스",
+      "뉴스잡"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교육부 중앙투자심사 6개교 모두 통과 - onulnews.com",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oTUZDaEFMV2dUMWc3azNHMkhKY1BnLVozek93ckQ4b0RWZHdoSE9ZODY4WTJ4dGM1anNOM0dEeHQweXdF?oc=5",
+     "date": "2026-08-04",
+     "press": "onulnews.com",
+     "related": [
+      "경기헤럴드",
+      "김포시민신문",
+      "더코리아",
+      "newsfreezone.co.kr"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교육부 중앙투자심사 6개교 모두 통과 신도시 교육여건 및 특수교육 개선 '속도' - 뉴스인오늘",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qckdsMjloRW9DLURqVV9tUWt3anBBdHBWSG1Ra2ZZT1V0Ujk0Y3hkbkNlems2ei1tMFpwZ1ZvSnRTakpneFdpYVZLbjdUWUJwSFVZU2lwb1pRcHN1MnhtMF9Nb9IBY0FVX3lxTE5qckdsMjloRW9DLURqVV9tUWt3anBBdHBWSG1Ra2ZZT1V0Ujk0Y3hkbkNlems2ei1tMFpwZ1ZvSnRTakpneFdpYVZLbjdUWUJwSFVZU2lwb1pRcHN1MnhtMF9Nbw?oc=5",
+     "date": "2026-08-04",
+     "press": "뉴스인오늘",
+     "related": [
+      "대한투데이",
+      "중부시사신문",
+      "화성인터넷신문",
+      "신문고뉴스"
+     ]
+    },
+    {
+     "title": "경기도의회 심상록 의원, 안민석 교육감 만나 ‘광명지역 고교 학생 배정 개선 방안’ 논의 - jonghapnews.com",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aX2lXZWs1SHRNRnBsYW1ST3UzRmxUWjRPYUFqZnVRUFVvMmp0NllTcUhsVUdZd2haSlZRNEpaRm5jVkhTdmNGMl9URV9kelJ5X01xc0l1RlN1N3VGM1VRYWp5SnowMWRpMUh1bVlsNUxtUdIBckFVX3lxTE5aX2lXZWs1SHRNRnBsYW1ST3UzRmxUWjRPYUFqZnVRUFVvMmp0NllTcUhsVUdZd2haSlZRNEpaRm5jVkhTdmNGMl9URV9kelJ5X01xc0l1RlN1N3VGM1VRYWp5SnowMWRpMUh1bVlsNUxtUQ?oc=5",
+     "date": "2026-08-04",
+     "press": "jonghapnews.com",
+     "related": [
+      "아시아뉴스통신",
+      "케이에스피뉴스",
+      "news.nate.com",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "조용호 오산시장, 안민석 교육감 만나 지역 교육 현안 건의",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328819",
+     "date": "2026-08-05",
+     "press": "인천일보",
+     "related": [
+      "경인매일",
+      "경기헤드뉴스",
+      "엔디엔뉴스",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기도교육청평생학습관, 그림책과 예술이 함께하는 여름 독서교실 운영 - 경기시사투데이",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNzNhRjNUa2JKUVFINzVhX2JvZnhnRHJHZDNFMGJaZ1FyR3JwMVRlODQ2ZHJyMFBtNlYzSXR5NU1zRkFBamJZZEl4RE9oZndsdVRyUG50VV9McTBSbFplMjJIQ0g5T3FEdkE?oc=5",
+     "date": "2026-08-04",
+     "press": "경기시사투데이",
+     "related": [
+      "웹이코노미",
+      "중부시사신문",
+      "더코리아"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도의회 정석원 의원, 양주시청과 양주교육지원청 분리·신설 등 교육 현안 해결 나서 - 아시아뉴스통신",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zQjFwbHBtWnlLMGNxUTlGVjFyMHlaZUY3ZmNmSy1DNWJ3NGdua09zVTZMRElnNTV3Zk9pS19vYnpHMTIzc2pycU1PNVRibTRLQ2FnYjVKY3BfQTJkWEc5aW9SSkhEX2N3UHRNODFZanNxdENE?oc=5",
+     "date": "2026-08-04",
+     "press": "아시아뉴스통신",
+     "related": [
+      "jonghapnews.com",
+      "news.nate.com"
+     ]
+    },
+    {
+     "title": "조용호 오산시장, 안민석 교육감 만나 교육 현안 건의…\"학교 신설·교육지원청 분리 시급\" - 비욘드포스트",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41UlJfbmpmeEZtbXlEZHJTT194akhNbnRPV3ZsSXVGNHc4WDd1V0pYUERuaWlvTlVLd0JqME9rQWUxTjlUSktqc1pVb0dQcUFzNXFja0E1YVdON2V1aUFhX0JKYVVfVm9ORGliVHZlai1zZzZzbWNLRmMzQjc?oc=5",
+     "date": "2026-08-04",
+     "press": "비욘드포스트",
+     "related": [
+      "로컬세계"
+     ]
+    },
+    {
+     "title": "양평교육지원청, 공동교육과정 운영 역량 강화 직무연수 개최 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbFgzaUlfM3RMOGpDVnNlc0U1XzFmQUV5UTBDNnVHM1lQVV9fRl9HTTNHTng0NXB1aF9tQjNVMXhJVUNCdGx3dU50cm1jRndvQ3FIOWprTkJjX2dYU2RCaG13?oc=5",
+     "date": "2026-08-04",
+     "press": "경기신문",
+     "related": [
+      "경기in"
+     ]
+    },
+    {
+     "title": "광주하남교육지원청, 학교 급식실 근로자들이 방학 중 한 곳에 모인 이유 - 경기연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GeEJndm5lenMzNE5UdDRvT0ZncF92S0dJYmNMVlRvdENsQWdhZmJqMVJXRG01QmxpTkFMMW5IVFB2SFI3bklxNEMybFFCNndnRkZhWHlLdThkLWp3Sk1kY29uSlBxN2PSAWdBVV95cUxPRnhCZ3ZuZXpzMzROVHQ0b09GZ3BfdktHSWJjTFZUb3RDbEFnYWZiajFSV0RtNUJsaU5BTDFuSFRQdkhSN25JcTRDMmxRQjZ3Z0ZGYVh5S3U4ZC1qd0pNZGNvbkpQcTdj?oc=5",
+     "date": "2026-08-04",
+     "press": "경기연합뉴스",
+     "related": [
+      "중부시사신문"
+     ]
+    },
+    {
+     "title": "의정부교육지원청, 여름방학 AI·과학·환경 캠프 성료 - 피디언뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Mc010Rzh6am5LMVpTdjVoUWxjdURINkdqTXRvdmMyT0lkbHRBMkFMZWl5RTllOVozY19NOWFTeVB2dFdxZi1ZbmQyejhQdnpTbXJkTG54UEVtWDJp?oc=5",
+     "date": "2026-08-04",
+     "press": "피디언뉴스",
+     "related": [
+      "경기in"
+     ]
+    },
+    {
+     "title": "속초양양교육지원청, 찾아가는 ‘청렴·안전·소통 간담회’ 개최 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EVm5sMGlqSFRNLXQxWTJsMHhCNFB2THFfbktyaU53MTVLTlRoeTN2R29CTzFNcmVPaFJzMzJNOEhvRGdwcUJCeVI3NWRCRnFwMjBEelBXcjkyaVZxQ2gzajYwcw?oc=5",
+     "date": "2026-08-04",
+     "press": "경기뉴스원",
+     "related": [
+      "중부시사신문"
+     ]
+    },
+    {
+     "title": "\"새를 관찰하고 그림을 그려요\" 안산교육지원청×경기도미술관, 안산 동그리 미술공유학교 운영 - 경기인터넷신문",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1COXgydWlaSTZycDlTSUJObjZJWU1nMzJyVmlaT1RmcHJxY0FPSGR4YnNSWGpIc29SN3BxVjRBbU9uYzFsUEF4TA?oc=5",
+     "date": "2026-08-04",
+     "press": "경기인터넷신문",
+     "related": [
+      "누리일보"
+     ]
+    },
+    {
+     "title": "오산시, 학교 신설·교육지원청 분리 추진…경기도교육청에 협조 요청 - 매일일보",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04MlVMOHpBVzB2bllOUzhYWGVKQ25LaU0wTTczY3dNZHVKMWNzVG5YZFpkVW5TQVFtTzdUcTlQUXcyS0RTRjkwUUlnMlNqNGRDcHJWdnpaNWkwdDMwRndvSlVramI?oc=5",
+     "date": "2026-08-04",
+     "press": "매일일보",
+     "related": []
+    },
+    {
+     "title": "오산시, 경기도교육청에 학교 신설·교육지원청 분리 건의 - 한스경제",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUFJER1pwZ1BmeGl3SFowTE9XeEszZ3lmbHhLMFZzTEFGNDhYcjl6VlNYMkZ4czVRbGZhaUJ4TlRZbXJtWjgwbDdyYmZaN2VMYkNUeGRmamxaZUhjVGJKaVNhSXFVcWdaRHZnQdIBb0FVX3lxTE5kSnBVWkVjdGRWTE9vdExMaUgyeVV2QXAyQk5COElSa3otV20yQ3o4VkVSSTBPOEQ4bkVua0xOZWpEQWJDYzZSN01kQjZJZHdSXzNqU2ROUnZzVGVUcmdYN0tvdmJ5YVVpS1pLZHJrbw?oc=5",
+     "date": "2026-08-04",
+     "press": "한스경제",
+     "related": []
+    },
+    {
+     "title": "경기도의회 여야, 정책점검…민주당은 교육, 국힘은 AI·반도체 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZGZRS091ZDl2eU5IWWxSeUs5dVpQaUdvUTZvc3ZLYzA3RGRBUnFQT194bFRIQmZGWXFyc3YyZzQyTE0wV09XNUR4SnJMV3ByeTNtUU12RUdJVTVPR1dRTlJ3?oc=5",
+     "date": "2026-08-04",
+     "press": "경기신문",
+     "related": []
+    },
+    {
+     "title": "오산시, 경기교육청에 '학교 신설·교육지원청 분리' 요청 - 동행미디어 시대",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IeG1hamIwVUlBVkl6ZDdYa2JneGZDb3ZwQWpKZWNmZ3R3NlA0TndVV1V2X3BEWFR5emRPb083TVQ0bXE5ZmhnOHZzRFFmQVhjV2dNRjRHVjlEejhFelE?oc=5",
+     "date": "2026-08-04",
+     "press": "동행미디어 시대",
+     "related": []
+    },
+    {
+     "title": "오산시장, 안민석 교육감에 '오산교육지원청' 신설 등 건의 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBENXRLM1NrQ1kzTFJQbFYxWUdvSnAzMHIwdzFJbHlONm5wTW5QeWVUS0xhWUc2NmEzN0pIV3N2VS1lQzNIQkgtVWJNVF9tSzFiYkRGQUc2eVRoX1k3R3ltetIBYEFVX3lxTFBENXRLM1NrQ1kzTFJQbFYxWUdvSnAzMHIwdzFJbHlONm5wTW5QeWVUS0xhWUc2NmEzN0pIV3N2VS1lQzNIQkgtVWJNVF9tSzFiYkRGQUc2eVRoX1k3R3lteg?oc=5",
+     "date": "2026-08-04",
+     "press": "연합뉴스",
+     "related": []
+    },
+    {
+     "title": "조용호 오산시장, 안민석 교육감 만나 학교 신설·오산교육지원청 신설 건의 - 뉴스타운",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UbE1iTjhMRFdaREtOV3U2ODJCYWR0eXNjRG1nalRTYXVsbmdNZmZHdTNFTlR4T2FOaVlNbnBaRGRMcFgtbU1pcTk5eXRUS3RaSXVRWGpZQUg2cEtjX0dJZG0zRVNIT1FEN3VDenBB?oc=5",
+     "date": "2026-08-04",
+     "press": "뉴스타운",
+     "related": []
+    },
+    {
+     "title": "조용호 오산시장, 안민석 교육감에 학교 신설·교육지원청 분리 건의 - 데일리엔뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Z1ozbS1VVlZVR3UtSm13SVpmN2lPY3QzRVpJdFNrbHJOWFBVNUstTGpwck8taERSTm1EdWQ3WnpUbUtjZHJaenFLQml3NGlNeWd2LXF5X3RKZw?oc=5",
+     "date": "2026-08-04",
+     "press": "데일리엔뉴스",
+     "related": []
+    },
+    {
+     "title": "조용호 오산시장, 안민석 경기교육감 만났다…학교신설·오산교육지원청 건의 - 이투데이",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iLVdHWi1YcGF2Z1VqWU5sQ3FXN3RCS1VoelR2RVQ1b2JMUDhkRkVNUDMwZGc2U3IyNnZyZXZNdnBBTFdHUTdWMlZCOUs5TDFaQUZnTA?oc=5",
+     "date": "2026-08-04",
+     "press": "이투데이",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도의회 더불어민주당, 교육청 정책사업 점검…\"하반기 차질 없는 추진 당부\" - 중앙뉴스타임스",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wdWdwVU11cHYyOTFNa3pkcDB6TDZzejBqcHlxMW5YZVBDZmlqVDA1a3o5N1dOYUkyeXhOcHZPcWRYZW1nZ3g1emNJQ1dlczh3bVROMi1JdXphTE5tUC1STHV4YW0?oc=5",
+     "date": "2026-08-04",
+     "press": "중앙뉴스타임스",
+     "related": [
+      "천지일보"
+     ]
+    },
+    {
+     "title": "경기도교육청, \"사교육 부담 낮춘다\"…수시 맞춤상담 운영 - 비즈월드",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NVFV2RU4tN0tCQnpudGktNDZyc2g3WVNqLW16Z000WWE3M2NsaHJvSDRRMVc2Q3N3T3NXRjh4elAwLVZEX2dvX3dzVjVCbWpzMXpUWmNpOTRsNEVBV1E1OHItUnM3Y2xtcGc?oc=5",
+     "date": "2026-08-04",
+     "press": "비즈월드",
+     "related": []
+    },
+    {
+     "title": "경기도의회 민주당, 교육청 정책사업 점검…\"학생 중심 교육정책 차질 없이 추진해야\" - nbnnews.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fLUVJR1B3M3ZVSDh3YnptR0lZSi0yZWFsTm5FMV9NSHZyOTcwaEg3d3BOZDkzc1FZbk5lT1VwMGxYQnRDNWJ6UjhfejdsZ2FJTldTY3A5WDBUY0h0UnBhYkFCOXY3cmxTMTlfOA?oc=5",
+     "date": "2026-08-04",
+     "press": "nbnnews.co.kr",
+     "related": []
+    },
+    {
+     "title": "[단독] 파주교육지원청 행사 혼선이 드러낸 교육행정 구조의 한계 - gukjenews.com",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLMzNYRjdrYXpVZ2VSX0l1aW9aSVRyYlBpVE9ScmpmcWNnQ0M2NGVLOXpjNDdacExmMmRtdGVWZU94d25PTDJRVUhSVkNESHR1Y2VFNjZ1Q1k4Y0RJOXpBV0NPeUhlVDltMkV0NmNn?oc=5",
+     "date": "2026-08-04",
+     "press": "gukjenews.com",
+     "related": []
+    },
+    {
+     "title": "영주교육지원청, 2026년 을지연습 사전교육 및 안보교육 실시 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mM1M2b1ZOTTZLZFRNdEk4NkhZUUhxTXZVT0lUaU1ObzJmanZ2VDNGNXNEa1FKQnJzWE8zdTZxN3d4cmw3cHRlbGlDTzRvS0wycF9xMmhMdzhacXE0b0lYZzRycw?oc=5",
+     "date": "2026-08-04",
+     "press": "경기뉴스원",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "경희대, 교육부 '외국인 유학생 취·창업 우수대학' 대상 수상 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBU0xoLXVvM2VVNGltY1loTGZWNVlSb2dwY1FYeDVKWi0xVWkxZWRhUmZCWXJmNzl5SGRYX2U1MTlGdjB0b193eVNkX0xzNkhfcGFDZkl2MmNBaTQxdE5KREdPWnQ5OXhzOEJqSzR6bXpLT0Fkd2tjZdIBeEFVX3lxTFBBU0xoLXVvM2VVNGltY1loTGZWNVlSb2dwY1FYeDVKWi0xVWkxZWRhUmZCWXJmNzl5SGRYX2U1MTlGdjB0b193eVNkX0xzNkhfcGFDZkl2MmNBaTQxdE5KREdPWnQ5OXhzOEJqSzR6bXpLT0Fkd2tjZQ?oc=5",
+     "date": "2026-08-04",
+     "press": "뉴시스",
+     "related": [
+      "메트로신문",
+      "news.nate.com",
+      "열린뉴스통신",
+      "전자신문",
+      "hani.co.kr",
+      "교수신문",
+      "중앙일보"
+     ]
+    },
+    {
+     "title": "교육시민단체 300여곳 \"교부금 축소 개편 논의 즉각 중단하라\" - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtNERscVFUdW1KRmdIRmlBUlQxNDZJLTdRdFVGOFR6R2pJYmlNYUhYZUhxb0xENE1mRlVPOHJtNDZUQVE4dkx1Rkd5YVVVOTUwalBBejRYNDJrZ1nSAWBBVV95cUxQazhDZTRkSlFBQ05BNWxzdnlOMktVcWtJel94QmJHa3k1U09xZ2l4djV5V09WVTBHQ19ybzZoTnVJUTBmNTVVTy1ITjM0ZHVsMTBwdHVtM0xfWEtDVlJjT1k?oc=5",
+     "date": "2026-08-04",
+     "press": "연합뉴스",
+     "related": [
+      "뉴스1",
+      "news.nate.com",
+      "v.daum.net",
+      "네이트"
+     ]
+    },
+    {
+     "title": "교육부, 청년 도약을 위하여 부트캠프 운영 대학이 한자리에 - fnewstv.com",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZajQ1WWdCVjBwR01ac005eWRTaWthZXQ0eXhtM29wQnZNVG5IRUdNN2lmYTB5M3lYNWpfbzJnQTdtYUt5aWpzeEhyb3Nmb2FBUGZjckNmY2d0TnQ3c2g1NE5aWS1GMXE3UTFFX0xJS21PQQ?oc=5",
+     "date": "2026-08-04",
+     "press": "fnewstv.com",
+     "related": [
+      "경남열린신문",
+      "시사팩트",
+      "와이뉴스"
+     ]
+    },
+    {
+     "title": "교육교부금 개편 반대 확산…교육·시민단체 306곳 공동 대응 - news.nate.com",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NVDJKQndVV0liZFYwZXJiRVR5V2xYLUh2aG42cldHbktSNXBoZnZqaHhOcnVhbXRlcUIzNnhkUjJjZ1IzdE9yaVAxY2dWdC1kaEJXVWxudTdiMWFBSVQxeVluV1hSWVkydGdrZzJB?oc=5",
+     "date": "2026-08-04",
+     "press": "news.nate.com",
+     "related": [
+      "경향신문",
+      "네이트"
+     ]
+    },
+    {
+     "title": "\"교부금 개편 즉각 중단하라\"…306개 교육·시민단체 긴급행동 돌입 - news.nate.com",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iSzFyMXZIdEd2ZGVuYVFXOXdRNzYwRnI4eUVMYmk4TUZpa1FXSEwtaGw5bno4cFUtaUJtazZOcURuNkNwWG1naGZCdTBfZk9DdFJRdVlRa0VFc0lDR3BBYUhVUUF5bC1hcE5JTm1n?oc=5",
+     "date": "2026-08-04",
+     "press": "news.nate.com",
+     "related": [
+      "네이트",
+      "쿠키뉴스"
+     ]
+    },
+    {
+     "title": "국공립대총장협 \"교육재정교부금 개편해 고등교육재정 확충해야\" - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QSVl4OXJpLXVUWVR1VFU1Mkl5M0oxV0t2c2hHM0J3TkJCeXNPMmNIS211UldLVm54MWxFSWtSeXN2eEx3Q09mT2JfZnRKUmd1b08zSF8yM1VVV1NPWV9CUtIBYEFVX3lxTE1QSVl4OXJpLXVUWVR1VFU1Mkl5M0oxV0t2c2hHM0J3TkJCeXNPMmNIS211UldLVm54MWxFSWtSeXN2eEx3Q09mT2JfZnRKUmd1b08zSF8yM1VVV1NPWV9CUg?oc=5",
+     "date": "2026-08-04",
+     "press": "연합뉴스",
+     "related": [
+      "충청일보"
+     ]
+    },
+    {
+     "title": "국공립대총장협 “교육재정교부금 제도 손질, 고등교육재정 확충해야” - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxZkdnYk9jQm5TWmdZVmRxWDVZdTlUTlFoWmRmcXRGaVduWXJzM24xSXRpN19PVmM0dDZXdXVBLUliT00zQkk3dDFyaksxb1k?oc=5",
+     "date": "2026-08-04",
+     "press": "v.daum.net",
+     "related": [
+      "강원도민일보"
+     ]
+    },
+    {
+     "title": "교육단체, 2026 지방교육재정교부금 개편 대응 긴급 행동 출범 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtRS1qUFBuUkRJQXlSbHRMSTdtb1BTT0lrWTlKTkVDLU9yMHl2dERnakdvLWxqZTlzUDd3LVM0ZG85cUNYM0JXeWtRT1RLMEw5T0tKakJOVm85NURZNUdBdQ?oc=5",
+     "date": "2026-08-04",
+     "press": "뉴시스",
+     "related": [
+      "더브리프뉴스"
+     ]
+    },
+    {
+     "title": "울산광역시의회, 지방교육재정교부금 개편 반대 결의안 채택 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pcm9ZblktSC03Ym5UazlwTkFwb0tsamFaY0RlS2pkblE2ZUR3Q3AyZVJrS29OZkR0MDcyTGk0R0hXMWUzbnYxYldoYUVtcm9TT2xFRHdxUko3S2FxdVlfWFBiQTdDZHIwLUt3VlJxQWZBUQ?oc=5",
+     "date": "2026-08-04",
+     "press": "웹이코노미",
+     "related": [
+      "울산종합일보"
+     ]
+    },
+    {
+     "title": "교육교부금 개편 논의에 교육단체 결집…\"내국세 연동 지켜야\" - news.nate.com",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LYS1XdUlOaTduNmk5a3NNV2lUcnAwTFhMOEdxUVFWd3dUQVE3c2xFSlBQSEhsdUpFcURBNk1GTV84bV9jaDNERjZGdjlOVEdJRF9Oc2pUQldSY0p4YzIzOA?oc=5",
+     "date": "2026-08-04",
+     "press": "news.nate.com",
+     "related": [
+      "edaily.co.kr"
+     ]
+    },
+    {
+     "title": "세종대, 교육부 G-LAMP 사업 신규 예비 선정… 양자·AI 융합 연구거점 구축 - 교수신문",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IM01OVHdFdzhFZ0pGZnFNOXF2dGltc2k2RmVRRmdpa3p0VEJUeXlqckhxc1V5N1YxYmlUdWxPTVp4cmpjejR1aFpPZGJKc3Z2SnU0bDBCazlGSXQ4LXBfbkxwRUM1RVU?oc=5",
+     "date": "2026-08-04",
+     "press": "교수신문",
+     "related": [
+      "문화일보"
+     ]
+    },
+    {
+     "title": "이화여대, 교육부 '교원양성기관 교육과정 개발 지원 사업' 선정 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MN21pMzNLMEZoV3Itbm9Oal9qTjAxeWJyaWhfendGaDYwSU00Z1FjSFFiN3dISzhoN2dlVUFVV2lrU19BaTJRWUZLcW5YWnZ2NndLakkyX0hMay1WUGYxOFQ0WnlMN1cwbjBzVzM0UXV6X1ZZYnd0btIBeEFVX3lxTE5MN21pMzNLMEZoV3Itbm9Oal9qTjAxeWJyaWhfendGaDYwSU00Z1FjSFFiN3dISzhoN2dlVUFVV2lrU19BaTJRWUZLcW5YWnZ2NndLakkyX0hMay1WUGYxOFQ0WnlMN1cwbjBzVzM0UXV6X1ZZYnd0bg?oc=5",
+     "date": "2026-08-04",
+     "press": "뉴시스",
+     "related": [
+      "매일신문"
+     ]
+    },
+    {
+     "title": "교육부 '문 닫는' 사립대 법인 잔여재산 공익·복지법인 출연 한시 허용한다 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QWl9scXBaNHg0c0k0NlhmU1llaUZXUnBxN0l6YnNiRHljRVB0Tm9tWWU2QXQ3clE5T2ZDWkxYQ3RraHBqX21GdzB4bw?oc=5",
+     "date": "2026-08-04",
+     "press": "v.daum.net",
+     "related": [
+      "파이낸셜뉴스"
+     ]
+    },
+    {
+     "title": "리센느 원이, 학교폭력 루머 속 쿨한 근황 \"통통했던 과거 봐도 탈덕 금지\" - news.nate.com",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nRXlxWTVnNktmUW13V2xhMktySW5majFxb3ltYkZ5YkdLX3VuQlRYTXFsVjQ4OHhrUG91eUtVOG4weG13Y1JkZmtkZGRJWERLaUp5SlhVZHFOZ0xYVTBTRw?oc=5",
+     "date": "2026-08-04",
+     "press": "news.nate.com",
+     "related": [
+      "뉴스엔"
+     ]
+    },
+    {
+     "title": "\"텀블러가 학교폭력 흉기?\"…금속물병 금지령에 美학생·학부모 혼란 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zYVFjTW40cDI0blFyZnZKMGxMaTFFbDBQOF8wU1kzZkFyU0l2blRmcURFaDdBV1dNSzNsY0U3cmh1VmhqeFhDbWVUQkJOYmxzSkRhdzRfTEI?oc=5",
+     "date": "2026-08-04",
+     "press": "뉴스1",
+     "related": [
+      "news.nate.com"
+     ]
+    },
+    {
+     "title": "교육부, 오늘 대통령 업무보고…AI 인재양성·교부금 주목 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5maFFyMXRhNlpqOTBVNWJjWFhvUnY1Q1FjS1lTbjJjX3U0VjZnSFBTQUpwcF9NLU5jRlMtdHZMSEFzeU04eGNyVmJ2NlQ3NEM2SDgzbnVaYmFnUnNmY0FSTE1nZElPZnlETDdZZDEwS05yNURqeGFIeNIBeEFVX3lxTE5maFFyMXRhNlpqOTBVNWJjWFhvUnY1Q1FjS1lTbjJjX3U0VjZnSFBTQUpwcF9NLU5jRlMtdHZMSEFzeU04eGNyVmJ2NlQ3NEM2SDgzbnVaYmFnUnNmY0FSTE1nZElPZnlETDdZZDEwS05yNURqeGFIeA?oc=5",
+     "date": "2026-08-05",
+     "press": "뉴시스",
+     "related": [
+      "news.nate.com"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[공감]그해 여름방학",
+     "url": "https://www.khan.co.kr/article/202608042018015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-08-04",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[송혁기의 책상물림]한없이 하찮고 허무한",
+     "url": "https://www.khan.co.kr/article/202608042014015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-08-04",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[기고]통합돌봄 100일…기본돌봄과 국가책임을 말할 때",
+     "url": "https://www.khan.co.kr/article/202608042011005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-08-04",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[칼럼]안민석 교육감·조용호 오산시장의 재회, 오산 교육의 새로운 전환점 되길 - 오산인터넷뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nNTEycU1aRXBPbU81RU1GekRyZVd5cjJKdXJNYm1RVTBYNDBWc1dZaWVRRHFWckNNRkJMWFpsMk15bTRuY3IxT0FUclgxWkc4ZW95OE5ScG1aMTA2?oc=5",
+     "date": "2026-08-04",
+     "press": "오산인터넷뉴스",
+     "related": []
+    },
+    {
+     "title": "[사설] AI시대, 안민석 교육감의 ‘경기 LAS 문예체 교육’을 주목한다 - 수원일보",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HdEV4VnhrME9takxwWEVRcjR1aEtzUVMzSWVhWVNzSEN2aGNwZEUyOXdJVWxnMF9vV0NCczliMmdqbm9XX1NtWm1OQ0MzSTdLWmx5dnh4UWV3S3I5T2ZuYnlIa2g0cm1sb2lr?oc=5",
+     "date": "2026-08-05",
+     "press": "수원일보",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
