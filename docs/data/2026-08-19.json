@@ -1,0 +1,495 @@
+{
+ "issue": "2026-08-19",
+ "built_at": "2026-08-19T07:35:58+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "“북한 5000원권 팝니다”…북한 지폐 ‘중고 거래’ 위법일까?",
+     "url": "https://www.khan.co.kr/article/202608190600071/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "로봇이 강남 빌딩서 상추 수확… AI 스마트팜의 진화",
+     "url": "https://www.donga.com/news/Economy/article/all/20260819/134500304/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "“서강대교 넘지 말라” 조성현도 기소… 종합특검 ‘성과 내기’ 논란",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20260819008005",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청평생학습관, '온동네 찾아가는 경기학부모교육 시리즈' 운영 - newszoom.kr",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9OczZrcFhNcVo1WHZ3dlFqeElVZ0d1aURjS24wdTZMV3kxb3ZEVXZFQVZ1SjR0eThQMzdfa3F4RmF3cXJEeVE?oc=5",
+     "date": "2026-08-18",
+     "press": "newszoom.kr",
+     "related": [
+      "성남포커스",
+      "웹이코노미",
+      "여성종합뉴스",
+      "팝콘뉴스",
+      "자치안성신문",
+      "더코리아",
+      "뉴스잡"
+     ]
+    },
+    {
+     "title": "경기도교육청, 일산병원 ‧ 한서중앙병원과 병원학교 운영 업무협약 체결 - ggjapp.com",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BM2sybkprYW1JQlFPc3hHSGtlNzdvZ2FEbVZUTmpfY0V4TGRNaEsyTi1yU0kzdGFwLWJpd1BOYkdaRWtrZWtKNVZKdzI1U1NndU9mWTU0Q0FrVi1wX3hxNkc1THB1OVFC?oc=5",
+     "date": "2026-08-18",
+     "press": "ggjapp.com",
+     "related": [
+      "경기연합뉴스",
+      "경기인터넷신문",
+      "누리일보",
+      "문화매일신문",
+      "성남신문",
+      "더코리아",
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "경기도교육청, 2027학년도 수능 원서접수 본격 시행 - ggjapp.com",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZMHRWTDNlajJ4OU43QVlodjVvbkctRTg1bzkwQXdQUlU5WmxienBmZzZ5LTRxcjRwUF9VOGd2N1lVTElHemktNlJtTmdzVy1URlhXeWRsRndKTGp5MU9kOUFmZVZRUlVu?oc=5",
+     "date": "2026-08-18",
+     "press": "ggjapp.com",
+     "related": [
+      "kifuture.com",
+      "경기연합뉴스",
+      "경기탑뉴스",
+      "대한투데이",
+      "성남포커스"
+     ]
+    },
+    {
+     "title": "경기도교육청의정부도서관, 생애성장 맞춤 독서플랫폼 '리드업(READ-UP)' 운영 - 대한투데이",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NmhqYzdIamp2cUhSLW5OZEtWclkxVEdiUmtIX2ZQdUZ0R2hLckt4TVZJT0s3d3I5Qnd1Ul9CWl92OEFpWVVYZzBMNXhpTVo1N3c1NnR0U0h3SnduU29oTkFicDJqaC10bXc?oc=5",
+     "date": "2026-08-18",
+     "press": "대한투데이",
+     "related": [
+      "성남포커스",
+      "화성인터넷신문",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기도교육청, 2027학년도 수능 원서접수 24일부터 시작 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxQ0ZrNTVlNmVfNEd0V0VFWTFSLW1yVjBpYmlCYktKVUhFRW1GRXUyYy1FS25xc0E0OTJSNnZwNTFXejZZZnZiSE1uam1uTUh6VTBhOVFIaURjNjA?oc=5",
+     "date": "2026-08-18",
+     "press": "경기일보",
+     "related": [
+      "뉴스웍스",
+      "이뉴스투데이"
+     ]
+    },
+    {
+     "title": "경기도교육청, 2027학년도 수능 응시원서 24일부터 접수 - 뉴데일리 경기",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43dlQ3M0Y2ZmZYWEtrcldYUmxaODlYcmtvdEJOdHNIUGh0aHRwU3FBeVRaYngxQnRpNHpNenNFQzQzakczbk01dEh2TEdPY3Bxa09mMlcwaXd5eXREVHc0VUhGaW1sdkRvUlZWal9lSVhFYmc5TWpJLWZ30gF_QVVfeXFMTkhydE80S0UyOU5pd0VQQXo3c0xoX0RobDRjRV9ZbDFRNXFCQzc4UndreU1ISG16Ml90cTYzMHAtUjNaMGtMeGF0Z05NOEQ3T3VjSk16VWpmd2QycEl4azY2TWJrOGJkZW5nR2x4TXFTcGlMOHZFekFqd0ozR09ycw?oc=5",
+     "date": "2026-08-18",
+     "press": "뉴데일리 경기",
+     "related": [
+      "메트로신문",
+      "매일일보"
+     ]
+    },
+    {
+     "title": "경기교육청, 2027학년도 수능 원서접수…현금 수납 폐지 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEV3I3U2ZlWURvYWtsTW5wVTAycDJWTTE3QXg3YWNEbDRzZDhvc3Z4SDkyOG9WeDlWSmQ5Vk10VVpOdkRoem9zVVdPcWJ6aktjOEtHUC1lVnMxTF9IcDBhYzlSQTlCRmNwOThWeUF6b3RaT1lBUEczONIBeEFVX3lxTFBEV3I3U2ZlWURvYWtsTW5wVTAycDJWTTE3QXg3YWNEbDRzZDhvc3Z4SDkyOG9WeDlWSmQ5Vk10VVpOdkRoem9zVVdPcWJ6aktjOEtHUC1lVnMxTF9IcDBhYzlSQTlCRmNwOThWeUF6b3RaT1lBUEczOA?oc=5",
+     "date": "2026-08-18",
+     "press": "뉴시스",
+     "related": [
+      "파이낸셜뉴스",
+      "천지일보"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교권보호전담관 역량 강화 연수 마무리 - 내외뉴스통신",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ZkQ1SFF3d0VQeU56XzU4QVI4U0RnS3YwZE5NZ1FNZDVxV241YjR5UWs3SG1SVTk2LWtwdkZYZEk2dXJJMWFMV2hRaUlDbEl3bDNTVUdaM1l2ME5saXMyUXFQNUFQM0RJUVRidWxsd2nSAXBBVV95cUxOeWZENUhRd3dFUHlOel81OEFSOFNEZ0t2MGROTWdRTWQ1cVduNWI0eVFrN0htUlU5Ni1rcHZGWGRJNnVySTFhTFdoUWlJQ2xJd2wzU1VHWjNZdjBObGlzMlFxUDVBUDNESVFUYnVsbHdp?oc=5",
+     "date": "2026-08-19",
+     "press": "내외뉴스통신",
+     "related": [
+      "모닝투데이",
+      "팍스경제TV"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도의회 남종섭 의장, 9월 개교 앞둔 기흥중학교 현장점검 - ggjapp.com",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JVGhja2Z0cHNBZHpaT0c4UDVvY2hoRHRHS3hVSThtNUxhcnFaTXNZUnQxUnhfaXFYWE9zQVB4UnJEV25BNzIwbjZVUU04ZVdaVFlZeHdHblRCNmJJUHZmQmFYeU5tNUlM?oc=5",
+     "date": "2026-08-18",
+     "press": "ggjapp.com",
+     "related": [
+      "경인종합일보",
+      "뉴스잡",
+      "경인매일",
+      "매일일보"
+     ]
+    },
+    {
+     "title": "수원교육지원청, 경기도 첫 ‘통합학급 교육활동 협력교원’ 시범운영 지원 - 기호일보",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JV01wY1pHT1hfc3QzMVB5ZUE3enpBdENpTklUUDdDdmVGNXFTaU54OXBPSEYyVWZtal85amRPVWNKWExycEFoQWdHdE1aaXBTSFhuWnA1TkNiWlQ2U0FFM0JzUFNQbjlNdVRvelNFVQ?oc=5",
+     "date": "2026-08-19",
+     "press": "기호일보",
+     "related": [
+      "경기in",
+      "메트로타임즈"
+     ]
+    },
+    {
+     "title": "진도군-진도교육지원청, 교육혁신선도지역 업무협약 체결 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTUW9DS1BZTjNGdHhYbEpqMnFpcjJCOURiVjRsYmY0VmkxbFpZTkxlWVZYeWJlOWtxRlNJSkM0RmthMGQwOHNoaDZiNU9PSVZZSFFVc0lZdGVPU256azRJWVNuSQ?oc=5",
+     "date": "2026-08-18",
+     "press": "경기뉴스원",
+     "related": [
+      "문화매일신문"
+     ]
+    },
+    {
+     "title": "춘천교육지원청학부모회협의회 “지방 교부금 개편으로 지역 교육 흔들지 말라” - 강원도민일보",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaTh2VUhHN0VNTjJPSzNuWjFpVnhGemZnbFFuaTkyOFE1YmJRVmxFLXhPaTVEeHp6QmJ4aXJIZDdQT1dYQzFCNHQxaXRQMTlFajRvN1EzUGNXMExEcW4wUEZhR01LS28?oc=5",
+     "date": "2026-08-18",
+     "press": "강원도민일보",
+     "related": []
+    },
+    {
+     "title": "인천 보건환경연구원, 교육부 주관 ‘진로체험 인증기관’ 선정 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qaVVYZ3FtU0lyeHM5N3hUZWxwRDc3N253cVMzVEtFSHdKM2JaQ1VVRW5SQ0FvTnRUUldKbms5bzZTaXpZeXZlOGpnT25NS3I4TGpmblZXOVVEX3c?oc=5",
+     "date": "2026-08-18",
+     "press": "경기일보",
+     "related": []
+    },
+    {
+     "title": "진도군-진도교육지원청, ‘교육혁신선도지역’ 추진 맞손 - 호남교육신문",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CYThwREtBLWFoa05mRmZYbGdobUkwOE1XSlFKRk1xSVFJWU92ZXVVaXpRdk85UXZDOFVTVUFialJkYWg0bktvMHlKUmowNWpRVkFSOV95WHRjT0hybDJBQ2cwZURrU1FMTm1hVg?oc=5",
+     "date": "2026-08-18",
+     "press": "호남교육신문",
+     "related": []
+    },
+    {
+     "title": "정석원 경기도의원, 학교폭력 ‘처벌 넘어 관계 회복’ 조례 추진 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlNTRid3h1Q0RKeVBTUXl1Q3g5dzJpUnV2NXU1cUs4WGFCVlY0QWFJMkpMZzF1cUpBckZJZXVaaUhkdzN2b21YalFQT2F1VWxnTERrUkl6Mm56eS1PRFdoN0dn?oc=5",
+     "date": "2026-08-18",
+     "press": "경기신문",
+     "related": []
+    },
+    {
+     "title": "임실교육지원청 학교폭력 심의 전문성과 공정성 강화 - 전북도민일보",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHRuVmllUUpvV0RySEs4T3l0eHA4Vk4yX0g3VTlBSHYydldKOGFPdjE2VXA4RXljQWROVEdxZVRiZ2V4ZnRLNGtPcTMtU3ZYOXFLN042UFZjVlNwODhKOS1yTmhGRDN6UzFEb1JVX2F5WlhVMHFhYUZjRUt2aG5aaVd5dWloeVk?oc=5",
+     "date": "2026-08-18",
+     "press": "전북도민일보",
+     "related": []
+    },
+    {
+     "title": "장성교육지원청, 방과후학교 외부강사 역량강화 연수 실시 - 장성투데이",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5acW9KWWxHNGtHRWNGU1l6S0tMaFhnUE03TnV0ZEtpNmRoeU1ERzNVR0Vkc3NlaF9WSXVGRGZId2RmMDlYeGxORjFqZEhzTVY0RU5lUE9UcExUelp5QUlJTklqZEtKWWVHempV?oc=5",
+     "date": "2026-08-18",
+     "press": "장성투데이",
+     "related": []
+    },
+    {
+     "title": "군포의왕교육지원청, ‘학생 성장보고서’ 첫 도입 - 현대일보",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbU1FMDAzM2dCLWI2OFFzbE43bDFtV0FyaTh1M3RHdzRiTzVCc1NHZ1NyOGpOaGl0QmlwemlVV3cwenFQcmZ1NXJZZXFmaDQ2c2tSdWFLN0pmRkdoME9oZ1R2WTBEaE5LeUgxOGl3?oc=5",
+     "date": "2026-08-18",
+     "press": "현대일보",
+     "related": []
+    },
+    {
+     "title": "평택교육지원청, 38년 만에 청사 이전…신청사 10월 문 연다 - 신아일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43TU84clVsN3BDTncwc1RTc09KQ3VvZVdUN0RicmQ1LWExUEwxYWhtTFY4cDE0XzludWxraHNGTFBtaWlvVUNoaEdRRW5FTDUyeXg5cUZMc09tTFUwUk4zc0FPNTdSY1B4WFQtdWtXTFg?oc=5",
+     "date": "2026-08-18",
+     "press": "신아일보",
+     "related": []
+    },
+    {
+     "title": "광명교육지원청, 2026 광명 지역직업교육협의회 개최 - newszoom.kr",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8xVDlEN3JBZUxTa0JZY1dibUkxRFI2TFBId2JYbUJKaG9KbVVTNnRSalFzR2NTZ2lzNGZ0ZmRPakVLTXg0T2c?oc=5",
+     "date": "2026-08-18",
+     "press": "newszoom.kr",
+     "related": []
+    },
+    {
+     "title": "[교육 트렌드] 굿네이버스 경기동부사업본부-경기도양평교육지원청, 학생맞춤통합지원 업무협약 外 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01a2gtUVlub2QtYVhwZVJvcTZrTXZEX3BWSklMeFkxS3RnU2M1T1pRVzJiTmxvUEJjSU0wZGkxdkxINHkyMW1JR2t4Nmh0VzhLdklEZQ?oc=5",
+     "date": "2026-08-18",
+     "press": "v.daum.net",
+     "related": []
+    },
+    {
+     "title": "군포의왕교육지원청, 1:1 맞춤 학습상담으로 '학생의 성장을 기록하다' - 경기in",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9jMXdFVjZvaWV1V2U5cGFCRWpVS0xrRlNRZlZ0cVJvMnRCM19aalczTnVnTU15NUJBR09NOVJ4eTV0aEk?oc=5",
+     "date": "2026-08-18",
+     "press": "경기in",
+     "related": []
+    },
+    {
+     "title": "광주하남교육지원청 하남 교산신도시에 유,초·중·고 2030년 개교 - 기호일보",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OX2RhbmVmT09QTFR2OWM4dzZYVnp5ZHMwdVlwckgwb2ptbk5aOWpsazVkLU1jcjY2ekZVZHlUMWwxaWo5TmstbHdfRUFiQnFFOUd1dHl6WlVHRU5KVWdvNUpDblZCSm9uVHBWelJXbw?oc=5",
+     "date": "2026-08-18",
+     "press": "기호일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청 안민석 교육감, “2026년 을지연습, ‘실용 정신’ 입각한 실전형 훈련으로 제대로 바꿀 것” - 뉴스잡",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MVNEQ3k1QzhqeGpMZ1JIWmNwZGNtNmtZdWxSeFoxdlc0X1ZMVURyTHU2T0pvOXBpTmFUaEZ0WUVqNlhYeFJyRkI5ampzOGVXc0tVWU9CSnFFU0tyWFVwRnZiYUdzdmFfaDVV0gFrQVVfeXFMTzgxU0RDeTVDOGp4akxnUkhaY3BkY202a1l1bFJ4WjF2VzRfVkxVRHJMdTZPSm85cGlOYVRoRnRZRWo2WFh4UnJGQjlqanM4ZVdzS1VZT0JKcUVTS3JYVXBGdmJhR3N2YV9oNVU?oc=5",
+     "date": "2026-08-18",
+     "press": "뉴스잡",
+     "related": [
+      "팝콘뉴스"
+     ]
+    },
+    {
+     "title": "안민석, 교권·비상대응 '두 안전망' 점검…\"현장에서 작동해야\" - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15allpMXNyREJ6SXlKRUN5RVA5bTJaNTM5d3FnMjRZbFE3Z1g3OXV3dnZuT05GRHpDa3A4eVZkYkY5ODVJa0ZkMGFtS0R2ZUZuX1RF?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "이투데이"
+     ]
+    },
+    {
+     "title": "안민석 경기교육감, 취임 후 첫 을지연습..“변화의 출발점 삼겠다” - viva100.com",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYkluQnpwSkZMZkFlSGo2WVVIYVFiZmJyVHM2OUo5eUdhVy1QX1JBRWNMZExLMWJVVlZ3Y2JVeFI5dDEyN2ZPM0cwSWdQajJxRjJmY2ZiM0JPdw?oc=5",
+     "date": "2026-08-18",
+     "press": "viva100.com",
+     "related": [
+      "네이트"
+     ]
+    },
+    {
+     "title": "경기도교육청, AI 사건 영상 활용해 을지연습 실전성 높인다… 46개 기관 3,100여 명 참여 - 로이슈",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RMWlQUFJGanQ4dHVoZWlsY1Z0ZS1FNVBrcks0ZTlsR29xUlBTSXFnbEhiSnNzVFVSSHd1VjRKd3VPS0dPQ1JFSXFnTXV4QXVyQ3RSTXFpamVTN0dZdFFzS1RXVVFscERhWjFNWVNpcGFjSWJvNWtzUHVR?oc=5",
+     "date": "2026-08-18",
+     "press": "로이슈",
+     "related": []
+    },
+    {
+     "title": "안민석 교육감, 아동학대 신고·악성 민원 교사 홀로 안 둔다...교권전담관 가동 - ajunews.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mc0xFUmVDR3NYdTRxV2RTU2dOSEo1WFJZQTFFVmQxRUN0bWdvMl9LcktQaUxFTnk3a0JPd0hnMHlJRllKalNYRWhCNFZqZ01OVXJJcFJtUFfSAVhBVV95cUxPZnNMRVJlQ0dzWHU0cVdkU1NnTkhKNVhSWUExRVZkMUVDdG1nbzJfS3JLUGlMRU55N2tCT3dIZzB5SUZZSmpTWEVoQjRWamdNTlVySXBSbVBX?oc=5",
+     "date": "2026-08-18",
+     "press": "ajunews.com",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "인천시 보건환경연구원, 교육기부 진로체험 인증기관 선정",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363734120",
+     "date": "2026-08-19",
+     "press": "중부일보",
+     "related": [
+      "천지일보",
+      "미디어인천신문",
+      "강화신문",
+      "중도일보",
+      "파이낸셜뉴스",
+      "여성종합뉴스",
+      "투어코리아",
+      "인천게릴라뉴스",
+      "엔디엔뉴스",
+      "웹이코노미",
+      "폴리스TV",
+      "경인매일",
+      "뉴스핌"
+     ]
+    },
+    {
+     "title": "권순기 경남교육감, 교육부와 수해 피해 학교 합동점검 - 스트레이트뉴스",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mSWVTMERpU2NvVUttSnlOWDMwYkZidU1NTWl4YWZkUWhrcGQxU0VqTnRUNmJlZ2h1M3BCOEdjUGY4SDlzSm1Uc0RCTFRZVEl2d09JWTdfSDk0eGtYMmRGXzJPRXRDdjJEd19USUd3dnFjSkpkeEhR0gF3QVVfeXFMT2ZJZVMwRGlTY29VS21KeU5YMzBiRmJ1TU1NaXhhZmRRaGtwZDFTRWpOdFQ2YmVnaHUzcEI4R2NQZjhIOXNKbVRzREJMVFlUSXZ3T0lZN19IOTR4a1gyZEZfMk9FdEN2MkR3X1RJR3d2cWNKSmR4SFE?oc=5",
+     "date": "2026-08-18",
+     "press": "스트레이트뉴스",
+     "related": [
+      "주간한국",
+      "경남경제",
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "정근식, 교부금 개편 \"교육감·교육단체 의견 들어야\" 비판 - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9leDRqcUVyU0xQNUNnWjRwMVhNbW8zeWNHSGVWUV9qYzk0Wm94UVYyOGtCbGJQclNVZnlMYXNERVlhVWo0U1hINDE0bnhRYldmVHRj?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "머니투데이",
+      "이투데이"
+     ]
+    },
+    {
+     "title": "정근식 \"교부금 개편 우려 박홍근에 전달…의견수렴 절차 소홀도 문제\" - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrX08xYU8zcTF3dzJIZHJNcGdmNFVEMTZkbXFSOFpPR1pkOXU1WHprWVphY3hvMEQ2cDA3RHJXWnVUZzR3QXM5SmY2cXg1NFFKdG53QXIxRzBGdm11Z2Zv0gFfQVVfeXFMUGtfTzFhTzNxMXd3Mkhkck1wZ2Y0VUQxNmRtcVI4Wk9HWmQ5dTVYemtZWmFjeG8wRDZwMDdEcldadVRnNHdBczlKZjZxeDU0UUp0bndBcjFHMEZ2bXVnZm8?oc=5",
+     "date": "2026-08-18",
+     "press": "뉴스1",
+     "related": [
+      "스마트비즈",
+      "v.daum.net"
+     ]
+    },
+    {
+     "title": "부산 영도구, 교육부 '2026년 평생학습도시 평가인증' 획득 - LG헬로비전",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5veXpTOUQwSmRWdkNDWF8tdHJYNVFHUk9QNDFXc0hGNTZRbFJlcFQxNTF2ckFjcTVxVTBUY3A5cGxMYnY0ZC1yWHBEZVIxSXUzSWVFQ0NzdW14RlBneDQ2NEpLTXduRjE2Y2JUNjI3STFZcE3SAXZBVV95cUxOOTVCTURXMjJZdFVFTmlGZjA1cXZjTF8xQlY2Q05zd1FDN2s4T0xYUmFBWjhIREo2M2RkWldjS25KSVA2VmU4bmprRk5NVEpZVUxHeW1QcFI2d3BzUXFwNjUzUFJ0S2FmMmRVT0ctaTNjV21QemRB?oc=5",
+     "date": "2026-08-18",
+     "press": "LG헬로비전",
+     "related": [
+      "kookje.co.kr",
+      "검찰연합일보"
+     ]
+    },
+    {
+     "title": "거제·통영 폭우에 학교 41곳 피해…교육부 \"2학기 전 복구 완료하겠다\" - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ya1ZNb2w2ZVp1VUhnakcyZ2ZtS2I3UVdaTlh2cG9pNXdnTUMzRmVJM21qc2lWSy0zMUZTNzBsSTB2WVhVY1RaZ0NjSTE4LTRrOGxhWi1OMmd0ZFN0d1ZkMA?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "뉴스핌",
+      "파이낸셜뉴스"
+     ]
+    },
+    {
+     "title": "정근식 \"교육감·교육단체 패싱말라\"…교육교부금 개편안 일방 추진 작심 비판 - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HWUJGVXZXRldKajg1UG9GMUZjZ0txaEJqenM5Y3dYckhZU0VRRTBINWY3N0J1aGpyckxrVlZ5eEM2SnE1TTBFeW1zRjVOVUtleW5n?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "v.daum.net"
+     ]
+    },
+    {
+     "title": "정근식 \"교부금 개편, 교육계 의견수렴도 안해…연동율 지키고 투자 늘려야\" - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wTERuZ2phbXpoVzBKYkN0VjV2YWZHak9CUnpCWEF4YUQwTlpCMHpvNFluMXJ3bG5nTmc4c3lrSGtYQUh6aWo3RmlpLWFWZFotLUw0?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "아시아투데이"
+     ]
+    },
+    {
+     "title": "54년 교육교부금 '운명의 한 주'…내국세 연동제 개편 분수령 - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYWjM4TmFUSDRObkZJSnBNeTNqaTY0VnpKQnRrTzNuR2ZzZEgxNU1nNEUwbG9SaS02UkVweUNZREgtZUoweUJVR3gzMklMVElPVVNyXzZVYmE2UUNCSDEyVg?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "뉴스핌"
+     ]
+    },
+    {
+     "title": "교육단체 '교부금 연동제 폐지' 반발…\"교육재정 근간 흔들어\" - 노컷뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95bFZwVWtrQm91dXBuM1VKWXFVNm05R2w0cFZtTFZ5YXBfbEplYU9VekM4ckZuZjhuQ3M0dWZ0MTM4RGktcGUySjlfNUFlbHY1MGtOdQ?oc=5",
+     "date": "2026-08-18",
+     "press": "노컷뉴스",
+     "related": [
+      "KBS 뉴스"
+     ]
+    },
+    {
+     "title": "‘교육교부금 개편’ 담판 짓나⋯강원교육계 ‘초긴장’ - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hYlRDR1E4R3kwMHBnbzJyX2VYd2lKcjJZSkF5cTRhbjdpOUplTXlEWmFNRkNQQXdMTGJDQVZ6MW1fN0s0Snk1aVJiQQ?oc=5",
+     "date": "2026-08-18",
+     "press": "v.daum.net",
+     "related": [
+      "강원일보"
+     ]
+    },
+    {
+     "title": "정근식 서울교육감 \"지방교육재정교부금 개편 신중해야…현행 비율 내 투자 강화가 합리적\" - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rX1J2bTRnSTlTNlF5RDBKVG04bHZNN09tSENaaTV5VjYtZlhvS1QzMHFyOVcwXzRERk4zR3FGSHZjVjRaUjdXY2ZzOVhPcU9JQ0FIeUZjblEwVnBBekItdg?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "ajunews.com"
+     ]
+    },
+    {
+     "title": "학생 줄었는데 교육교부금은…국민 60% ‘수요 연동 개편’ 찬성 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNXlSazg4dnhUaGF0S2ZvVzdNWV9wOTlfUzRtSFBUbkk0dXFGS3JMbmI0bjhYeW9tcmQ0dndkekdlUEQ5ODNvTUx0aw?oc=5",
+     "date": "2026-08-18",
+     "press": "v.daum.net",
+     "related": [
+      "이투데이"
+     ]
+    },
+    {
+     "title": "교육단체 '교부금 연동제 폐지' 반발…\"교육재정 근간 흔들어\" - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1bTNFcWFOSDRYanFYYUhhZXBMMUg3a3Z4RkZLWEswQXdUNHdwWTJoOXpkb2NiczhiLVhtaU9hU0pwNFh6Q3c?oc=5",
+     "date": "2026-08-18",
+     "press": "v.daum.net",
+     "related": [
+      "네이트"
+     ]
+    },
+    {
+     "title": "교부금 개편에 초등생까지 나섰다 \"운동회 딱 두 번뿐\" - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wOENrVUFKSnVwb3VKYlFDaTFzbWNaMURhTlZEM1piYS05MlF1d3JRRk1wS1RXOG9iRWZ0eVNGTm9JUEVzT0hBanBvMm9lY3Z0U1lz?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "아시아투데이"
+     ]
+    },
+    {
+     "title": "학령인구 감소 반영 교부금 개편…극한 갈등에 발표 늦어지나 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zVDR6UFJaQ2Vqd3dNM1hyUWZRRkhoS1FuZEJMSTFlU3RFMXpyN2JfaGJPMEhWcHE5TXBaa1lOMVF4N013Qjh0M09mb0dwYnFfZ0xjUDRYaFk3bjFLM2pn0gFfQVVfeXFMTnNUNHpQUlpDZWp3d00zWHJRZlFGSGhLUW5kQkxJMWVTdEUxenI3Yl9oYk8wSFZwcTlNcFprWU4xUXg3TXdCOHQzT2ZvR3BicV9nTGNQNFhoWTduMUszamc?oc=5",
+     "date": "2026-08-18",
+     "press": "뉴스1",
+     "related": [
+      "v.daum.net"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[사설]교육교부금 바꾸려면 제대로 바꿔야 - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JbUppZ2tKQmN4b0VzM193OUlQLUJoYlVFeVRobDBnenVyNzBBZ2lwaVE2N0p1aE1RQjA3dG8xRF9kc3hFLVpTX3A1OEpjcXZKZFVZ?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": [
+      "머니투데이"
+     ]
+    },
+    {
+     "title": "[오세정 칼럼] 교육교부금, 합리적 대안 찾기를 - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iZHpPczhfZmlVNmZQVlk0RVczdVZLMXM0NDdYRW1LdWJXSG5tcmJkSEJfeEJXOFMxeG5VZVAtRmd5VHlDNmNRamNlWml6bVpSd0Nv?oc=5",
+     "date": "2026-08-18",
+     "press": "네이트",
+     "related": []
+    },
+    {
+     "title": "[자치시대] 폭염의 시대, 왜 에너지돌봄인가?",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363734076",
+     "date": "2026-08-19",
+     "press": "중부일보",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
