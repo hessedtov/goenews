@@ -1,0 +1,510 @@
+{
+ "issue": "2026-09-10",
+ "built_at": "2026-09-10T09:08:51+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "이 대통령 “경제 양극화, 집단 간 대립에 큰 영향…포용적 성장론 필요”",
+     "url": "https://www.khan.co.kr/article/202609100030001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "스테디셀러 K드라마 비결? “아는 맛에 더해진 신선함”",
+     "url": "https://www.donga.com/news/Culture/article/all/20260910/134638876/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "학폭 피해 9만명 ‘역대 최고’… 초등 교실 덮친 잔혹한 ‘야차룰’",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20260910006003",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청, 2027학년도 공립 유치원·초등학교·특수학교 교사 1336명 선발 - 인천일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92VXJGcEtsdE1zT1kyTkpadkdWa2hKRUlKT2dwbUMxdVprRHNOMFZyMEZLLTRaRTRjcGNobHJGTGxyMENvUFhLaGoxZUZ4VEF1NTlaOUE0RDVjZTVWOGg5TGxUUzdoWFhSTjBOeGZDT3U?oc=5",
+     "date": "2026-09-09",
+     "press": "인천일보",
+     "related": [
+      "웹이코노미",
+      "서프라이즈뉴스",
+      "중앙신문",
+      "굿타임즈"
+     ]
+    },
+    {
+     "title": "[위클리오늘] 경기도교육청, 2026년 1차 학교폭력 실태조사 결과 발표 - 위클리오늘",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaEZtbnh4MmRZRm9iRmNla0pEZjZiUTFLY0docWs2VGY4NHFzazhhbG1PZlNXdmhzZlFYajliRFJDYmdJb1Zwb0NZYks0QnNtbmpJR1pOaXJpNzdrRG5tZmNKY2NWLUZiUnNlS1pR?oc=5",
+     "date": "2026-09-09",
+     "press": "위클리오늘",
+     "related": [
+      "웹이코노미",
+      "경기타임스 e",
+      "모닝투데이",
+      "시사앤피플"
+     ]
+    },
+    {
+     "title": "안민석 경기도교육감, AI 딥페이크·악플 추방 선언식 참석 - 뉴스팟",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9KNXZxenlQTldzYU5aZ2QyaTNWcnpES0dTMkd6ZUpTVWlVZVp3Ujc1ai1qckFwNGV6TXQtQ0p6TWZ0QXM?oc=5",
+     "date": "2026-09-09",
+     "press": "뉴스팟",
+     "related": [
+      "성남포커스",
+      "수도권지역뉴스",
+      "팝콘뉴스",
+      "경기중앙신문"
+     ]
+    },
+    {
+     "title": "경기도교육청, AI 평가로 학생의 생각과 성장을 깊이 살핀다 - 경기중앙신문",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91cV9oN2RQd0loeDBYNW5kU2VhNktVc09XSllRUUlXRDJ6VFJYVjVKcExqSldhYlpUSnFFaTJFRlVpazlPaVF3ME1UQWdrNF9jVUlGeEQ4ZURhT2oybC1hUWZzclZqclhT?oc=5",
+     "date": "2026-09-09",
+     "press": "경기중앙신문",
+     "related": [
+      "굿타임즈",
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "경기도교육청미디어교육센터, 교육행정위원회와 현장정책회의 개최 - 경기시사투데이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vTVBka0daOVFwWHBQc0tFd01FLVFMR01TeHBIXzN4Z0ZFOUxQWEhkdU9GUDQ2b2Z0dUdZbjBjb0RwVnlrZWhHZFhGVmJWZmxMOEhpSmZsVHl5bXBMRnNKUmhmd3hEaHpV?oc=5",
+     "date": "2026-09-09",
+     "press": "경기시사투데이",
+     "related": [
+      "웹이코노미",
+      "화성인터넷신문"
+     ]
+    },
+    {
+     "title": "10년간 학교복합시설 100개 짓는다…경기교육청-지자체 맞손 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOFZINENTOHJzbzFIR0NINENOb0duTTVhajJ6RDI0bnZnRUdhYWFxUnZXVlZUQ0tLU2NTbkRmNGt1Q0ttVEYybXVid1h4Q19OOE9DRU9IUjFqRU1jaGlPcNIBYEFVX3lxTFBGOFZINENTOHJzbzFIR0NINENOb0duTTVhajJ6RDI0bnZnRUdhYWFxUnZXVlZUQ0tLU2NTbkRmNGt1Q0ttVEYybXVid1h4Q19OOE9DRU9IUjFqRU1jaGlPcA?oc=5",
+     "date": "2026-09-09",
+     "press": "연합뉴스",
+     "related": [
+      "MBC 뉴스",
+      "supple.kr"
+     ]
+    },
+    {
+     "title": "경기도교육청성남도서관, 공공도서관 직원 대상 '세계 뮤지엄 산책' 연수 운영 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53R1FmMDdLeWw4UjJxd0tqVVhhRVJOMThjZUlDdnJZOFZRSjQ3ZVZnQUNvV2p2b0Z1akFBNHBhWXpJcG5ad05Gd0pyWjI3WHpaRHdlMlBGM0xCZWt2VXh2WjN1eUtvSVZlUll1dUgxaGlkdw?oc=5",
+     "date": "2026-09-09",
+     "press": "웹이코노미",
+     "related": [
+      "화성인터넷신문",
+      "경인종합일보"
+     ]
+    },
+    {
+     "title": "군포시-교육청, 행정 장벽 허무는 '벽깨기' 교육협력 체결 - 경기in",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5xS3NETEZvbXlUQkN4dE82UDdIN0dONGZVVldzcjhlUkdWcDN5WXlNTFEwWm5XejVVbFI1NnpTYWpyblU?oc=5",
+     "date": "2026-09-10",
+     "press": "경기in",
+     "related": [
+      "경기뉴스원",
+      "광흥타임즈"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "시흥시, 경기도교육청·시흥교육지원청과 ‘벽깨기’ 상생협력 첫걸음 - 세정포커스",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16YWVHZFlWdHpmVVhFT0FialM0U3RfenZNR1RGWWtjcTNha3JDNXZVRXJtWjFDbmVSNnBuS3VDdXVzSmE2aWcxSXVGazlRZmpNOWxLb0FmMllNdGlyM2praHYtOE5oSVBMUU8wakRR?oc=5",
+     "date": "2026-09-09",
+     "press": "세정포커스",
+     "related": [
+      "장애인문화복지신문",
+      "프레스뉴스",
+      "시흥신문"
+     ]
+    },
+    {
+     "title": "[위클리오늘] 하남시-교육지원청, ‘벽깨기’ 협약 체결… 하남교육지원청 우선 개청 공식화 - 위클리오늘",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybWVvdDJ3Tk02NEhZM3ZYOWxCdHZxS21GZS1PaTNUVlFneDlDSWw4QmhDWUlZdzlLTzNBQldGYlB5b1pGeUEzLWhmaXptbW9rUXJOSWtYX1lhSDkySDh4bUtRMk45SVlnZGZMbHJWZw?oc=5",
+     "date": "2026-09-09",
+     "press": "위클리오늘",
+     "related": [
+      "서울경제",
+      "v.daum.net",
+      "국민일보"
+     ]
+    },
+    {
+     "title": "여주교육지원청, 폰 프리 ‘디지털 디톡스’로 가족 마음 잇고 인성교육 특강 이어간다 - mediatoday.asia",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96cm1VX2YwX0FySkFKRmFvTmdMaExhdnVZeVp0SEhDX2ExMGpLMnl6UnRJNlYtMjRSbzhrNWpmX1lxUnF1ODhUOUF3?oc=5",
+     "date": "2026-09-09",
+     "press": "mediatoday.asia",
+     "related": [
+      "경기in",
+      "경기연합뉴스"
+     ]
+    },
+    {
+     "title": "화성오산교육지원청·지자체, '학생 중심 교육협력 체계' 구축 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PRWU4WVJ5MkpyVnFHVWJRVVIxZW5Qem94Q1RmVnVyVV9zNHJtTU9qZzgwWVBVMVI5Q2NHel9WM0k4OF9aU2RJS0ZvU2E5alp6VUNORG1zWEw5N1g4c1N6Qkdn?oc=5",
+     "date": "2026-09-09",
+     "press": "경기신문",
+     "related": [
+      "경기헤드뉴스",
+      "화성저널"
+     ]
+    },
+    {
+     "title": "용인교육지원청, 관리자 대상 교권보호단·폰 프리 스쿨 등 공유",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363736263",
+     "date": "2026-09-10",
+     "press": "중부일보",
+     "related": [
+      "dtoday.co.kr",
+      "서프라이즈뉴스"
+     ]
+    },
+    {
+     "title": "시흥시, 경기도교육청·시흥교육지원청과 교육·일반행정 '벽깨기' 협력 - Nate News",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02MWdUUlZocUc5SkN3amhKUXZyOFhXdHdMdWZtRnA5LUFRYXRfYVNxWW44SmhnMm9ra0JCdUNIeFB4eHM5TThKWEJ1S3VRRUxBLWxF?oc=5",
+     "date": "2026-09-09",
+     "press": "Nate News",
+     "related": [
+      "dailian.co.kr"
+     ]
+    },
+    {
+     "title": "경기도구리남양주교육지원청, 경기교육대전환에 따른 정책 공유를 위한 학교 관리자 대상 주요 업무 설명회 실시 - dtoday.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1ZVF5VEpqc0lhOUgzWWtYYzZWTkpkYzY4c2k1ZTNIUnI3QUtOdnJFNEhmWFdTVjRoUmRnTmt1SDhrMU0zU2x3UkpMeDVmc3B5Yk81SzZuSTgyS1RzcFpKRTV6dUVJeVFDbXRn?oc=5",
+     "date": "2026-09-09",
+     "press": "dtoday.co.kr",
+     "related": [
+      "시사일보"
+     ]
+    },
+    {
+     "title": "하남시·광주하남교육지원청, '하남교육지원청 우선 개청' 공식화 - Nate News",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpUUtaZFg1R2xjdzR0aFNCLUM0ZTFOMTJaa2NRbG9ieGtTX2J2UnQwUlNRZUROV3pKaTkxalJsZXN1QkZpczJ2SjFjZ3R1cXRzWElZ?oc=5",
+     "date": "2026-09-09",
+     "press": "Nate News",
+     "related": [
+      "머니투데이"
+     ]
+    },
+    {
+     "title": "장흥교육지원청, 2학기 SPO연계 학교폭력 예방교육 본격 추진 - jhtoday.net",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YSGRWNkg1cHg0LXdzeHlIVmpucVpRWkphejhDeWQxMzBMN2NVRC1sR3lzM243eWFaTkpaVi1UYW1SaE51N2Z0UEdBU3hfV1h3R0lKYmZTRHJOdUxaMGhBRl9RWG4yWXM?oc=5",
+     "date": "2026-09-10",
+     "press": "jhtoday.net",
+     "related": [
+      "더코리아"
+     ]
+    },
+    {
+     "title": "장흥교육지원청, 제36회 교육감기 학년별 육상경기대회서 우수한 성과 거둬 - jhtoday.net",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96Y3BaeUIwNndWRy10aDQ3akFnR00yWm1nYnVyaHlxOWdtVWNGaTFTZzhCeGh1S2dya3hxckRpcHdtbnpRT3UzT3ZvNXdEWkxsOEtZamR1NjFSNlIzZjhKd00zSU01OHM?oc=5",
+     "date": "2026-09-10",
+     "press": "jhtoday.net",
+     "related": [
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기도교육청 ‘벽깨기 협약식’ 열고 시군-교육지원청 협력 본격화 - kyeongin.com",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wRVEtTjVRNl9XSmt2V19JWU9fN2hoSVFIdmRzMF9mOGU1aERMVHI0WFBQWXAzMFVodFNSY2t2UlhwaHlxZHJRVnBjTS1jOFJ3Y2c?oc=5",
+     "date": "2026-09-09",
+     "press": "kyeongin.com",
+     "related": []
+    },
+    {
+     "title": "이기형 김포시장, 경기도교육청·김포교육지원청과 손잡았다...“교육행정 벽 허물 것” - 경인신문",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01ZlVaNktiWUlHLWRRUTR4YWt2Zm8wbWo4REotNjVLN2RBQ0w1aVN5Tm9Ba1dQM1RSTVRKS3VXTDU4a2VGTy1SNU1LcW82ZWJ1UjJ1cEQzZWJiazBYcGZYTGF2R2NZZms?oc=5",
+     "date": "2026-09-09",
+     "press": "경인신문",
+     "related": []
+    },
+    {
+     "title": "시흥시·경기도교육청·교육지원청 맞손…교육·일반행정 경계 허문다 - 신아일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OWjVKay10Wm0wdGRvZDlMb3djODNTSFNodVNDRE82ZlRHOThHNUIxaGFvMzQ1NmNHcTJST25EcDhwM0E2RFc2N1hhNm5EZ2Q4RkFIM0RUNjVuek1RdmNQTDJSSUN5ejNxcVBRRDliMTU?oc=5",
+     "date": "2026-09-09",
+     "press": "신아일보",
+     "related": []
+    },
+    {
+     "title": "시흥시, 경기도교육청 및 시흥교육지원청과 교육행정 벽깨기 상생협약 체결 - 모닝투데이",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mTEktbVJLWXpJZFd0ejNDX3hLSkJ3bHk3eGhyQzlHOS00ZWMxajlzeHJCdTFrdUpQdk9OME9ac1ZDNDhQR0Y1ek5yZU0?oc=5",
+     "date": "2026-09-09",
+     "press": "모닝투데이",
+     "related": []
+    },
+    {
+     "title": "경기도 학교폭력 피해 응답률, 전년보다 소폭 증가 - 인천일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdGlER1ZaLVN1U2hpRkVfVEd3c0IxSlpqNDNrb2k1bkxKY3p1dFYzTzNFVGVSUWF5eGZDWUw0ZDNfWkFYd3lpNFBqRDFPUzZzMjVtTENRX2Juel9TZFlKX3RyZ0RPa2xDSG8xYmY0VEI?oc=5",
+     "date": "2026-09-09",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "안민석 경기교육감 “한 아이를 키우려면 온 마을이 필요하다” - 민중의소리",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oOHZMaDlrNzI3RXgtRHJJU2daR3VZLTJCVmRZUmVSY3QtSGlwaDA3RWJHXzI4S1ZqaU5qdGRiQ1R6YjNuWU9nbC1XTQ?oc=5",
+     "date": "2026-09-09",
+     "press": "민중의소리",
+     "related": [
+      "시사팩트",
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "\"한 아이 키우려 온 마을 손잡는다\"…경기도교육청·지자체, '교육 행정 벽깨기' 선언 - Nate News",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zTGFGZndCekVVT0JfQkZnbGJOTkpJOXNjeFhNbUZEc0NyeFp4Tl9WSm5uRXFVTE4zbGpyNFR0WWEyWE1MbERMVjlMQjdnOUhncU5B?oc=5",
+     "date": "2026-09-09",
+     "press": "Nate News",
+     "related": []
+    },
+    {
+     "title": "안민석 교육감, “한 아이 키우려면 온 마을이 필요” - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10dkpYSmFmT1VydHl0VWFNZmJITWwwM01NQlRwZ2t0MFFlbHNramxmUlMyY1E2SnctQnp0UklBYVdVQndPbVE?oc=5",
+     "date": "2026-09-09",
+     "press": "v.daum.net",
+     "related": []
+    },
+    {
+     "title": "안민석 교육감, \"한 아이를 키우려면 온 마을이 필요\"...지자체와의 협력 통한 ‘벽깨기 본격화’ - 대한경제",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xTTNaQ1dzVEZHRGZ2Ylg5dzNqUVVUUE5zNmVDZEp6czJwNUxVMXktSTZfQ2pMQW4yeVJrOG5wTFljNXdPNHdVWVlDcWRqd05BeDhhUUNFVXBzWVF5YzdQdDdMS1VZODlDRU1OeUNNNWoyV3Jh?oc=5",
+     "date": "2026-09-09",
+     "press": "대한경제",
+     "related": []
+    },
+    {
+     "title": "안민석 교육감-추미애 지사, 경기교육 ‘벽깨기’ 맞손…“한 아이 키우려면 온 마을 필요” - 비욘드포스트",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDUDZBMjJSUzI4UHg3RTQwX01FS3JHUGV1aDR2WjhTNVBWeEIzOW5wbnZubGl1SjNxZmREWFJDUU5LRFJCUUNEendMb0x1QWI1Skp1dHpBS21BSVNrS2dsYVd6cWNaOWdRVUJvWllUaDRNRVJRMFpwVnMtVEk?oc=5",
+     "date": "2026-09-09",
+     "press": "비욘드포스트",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "도성훈 인천교육감, \"지방교육재정교부금 개편 반대\" - THE인천​",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGc2h5cTl2QjVvWUhzbjNxeEwzU0RGSEl5a0VIeWRJR0Y0SWNocTZiZTZPbDFHNEFCaWJXTG5ta3dGOUVQcFdfdW5KZVpZcE9Ca05tUGUtbHJfalBDMXhJeWNJOU9fQlBjMWc?oc=5",
+     "date": "2026-09-09",
+     "press": "THE인천​",
+     "related": [
+      "우리일보",
+      "한국NGO신문",
+      "투어코리아"
+     ]
+    },
+    {
+     "title": "강미애 세종교육감, 국회 교육위원장 만나 지방교육재정교부금 개편 반대 목소리 - 도민연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FQll4dDc4ajAxc0ptQXF1cWNfMG1OeWhrMlZLUUZOaGJOWGtWTkhXcGZHT0JpRVVGV2J1bEQyMXVsZ1hFdGxUSk5KcnVaS3RfYXY0dHBQU2F5dnRfeHlKVmx4eXhIdloxTlE?oc=5",
+     "date": "2026-09-09",
+     "press": "도민연합뉴스",
+     "related": [
+      "안동데일리",
+      "웹이코노미",
+      "충청메시지"
+     ]
+    },
+    {
+     "title": "교육부, 2026년 1차 학교폭력 실태조사 결과 발표 - mediatoday.asia",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uVlBRZzRTSUlHWUVtMWpXcFF5SmpxaHZCdG1PSUVqRThmOV84TThXZS1aZnota0h3ZUJUeERxbFdiUWpxYzFrMU1B?oc=5",
+     "date": "2026-09-09",
+     "press": "mediatoday.asia",
+     "related": [
+      "서울포커스",
+      "서울시티"
+     ]
+    },
+    {
+     "title": "학교 폭력 피해 학생 역대 최대…신체 폭력·집단 따돌림 늘어 [뉴스더보기] - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xUnlDLWlEMTZMV3F2NGJyZ1pDaWdGaExoZXpRYWZFdkFkTmRVYXVaR0E0ckdTREdZQ2ZFUm1Lb1FBcVBtQ0ZMa29Td0EwdndGWGZsZkhyUi1iZm1MdkVOStIBYEFVX3lxTE0xUnlDLWlEMTZMV3F2NGJyZ1pDaWdGaExoZXpRYWZFdkFkTmRVYXVaR0E0ckdTREdZQ2ZFUm1Lb1FBcVBtQ0ZMa29Td0EwdndGWGZsZkhyUi1iZm1MdkVOSg?oc=5",
+     "date": "2026-09-09",
+     "press": "연합뉴스",
+     "related": [
+      "연합뉴스TV",
+      "열린정책뉴스"
+     ]
+    },
+    {
+     "title": "한밭대 차기 총장 후보 1순위 윤린 교수…내달 교육부 추천 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BVE5sUjlIamJsLUVYcEV6VUpJcDI4bVJmQ0F2N3lkNGdSamVNZGt6cmM5X2Nnci03TGNpaWRWaUplUldtQ1BjOXItcXF3RW1rSHlsN2JqMEI0MkpWc2pXM9IBYEFVX3lxTE5BVE5sUjlIamJsLUVYcEV6VUpJcDI4bVJmQ0F2N3lkNGdSamVNZGt6cmM5X2Nnci03TGNpaWRWaUplUldtQ1BjOXItcXF3RW1rSHlsN2JqMEI0MkpWc2pXMw?oc=5",
+     "date": "2026-09-09",
+     "press": "연합뉴스",
+     "related": [
+      "Nate News"
+     ]
+    },
+    {
+     "title": "최교진 교육부 장관, 강원대학교 반도체공동연구소 착공식 참석 - 글로컬저널",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03T0t4Y2p3bk9tcVZkZ0VUUnZsT05QeHg0YlF5eDdjT3YtVkJ2VWtUZGpuSVpXNXA4dU9qcURGQnh3SWItU2JVbzhKcmlCMGhzUk1kWTVWaUdER0h2aC1SblkyRTJ2MmVpcGlMRdIBb0FVX3lxTE45OUdtMTVzclJxZ3I0QXJ1YzdydTFUN0NFd3hCaFhGeHNRTXBWck50VG1fdl9RbGxNaS1Ba2JnQ3ozRmZ5c21CV1BZMTQ2bDhBVzJReXU1SEk0a2hXQS1XWlBaRUdvam1RakxtZkw5UQ?oc=5",
+     "date": "2026-09-09",
+     "press": "글로컬저널",
+     "related": [
+      "시사팩트"
+     ]
+    },
+    {
+     "title": "전북, 교육부 초광역 인재육성 공모 선정…우석대 ‘수소·피지컬AI’ 모델 주관 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxelo0OTJXQ2ZXTktqckZyYzNqLXpVakl4RFJVRVpmV1owZ0c3MGpabEF6RHdtZUNqS1ZvQmxLbUFVOUFYRHpTdHdSaTNCVWtIUmdMVU9HRXVWWEdXelM1d180Sm84X3RIWV96OFcyTGFEQQ?oc=5",
+     "date": "2026-09-09",
+     "press": "웹이코노미",
+     "related": [
+      "전북투데이"
+     ]
+    },
+    {
+     "title": "대구교육청 \"학교폭력 피해응답률 15년 연속 전국 최저\" - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nQjdNUFI1ZDRFNm9uSVpUdXN0UmpyaWpoT2gtMEVNMi1vUzlwejdocHMwcHFVc1NqMDZ4MzJHLVBSdEM2cHVnOE9PWXJ4RzF3TUVMdlBIQjFMVnY2bzh2NtIBYEFVX3lxTE9nQjdNUFI1ZDRFNm9uSVpUdXN0UmpyaWpoT2gtMEVNMi1vUzlwejdocHMwcHFVc1NqMDZ4MzJHLVBSdEM2cHVnOE9PWXJ4RzF3TUVMdlBIQjFMVnY2bzh2Ng?oc=5",
+     "date": "2026-09-09",
+     "press": "연합뉴스",
+     "related": [
+      "영남일보"
+     ]
+    },
+    {
+     "title": "진천삼수초 발명교육센터 교육부 장관상 수상 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wVVdGUUQwOVJBMERxU0NvdC1pckEzQ3VHY3cxcTZ2UDFQYTJ6YTV1UUh4ZGI0SXlzQWhDQlVYaHQtbVF3YjNBRUxRZ0NwYkRYZllfRnhRWUlOMW51U3JjenNpcXbSAWRBVV95cUxOcFVXRlFEMDlSQTBEcVNDb3QtaXJBM0N1R2N3MXE2dlAxUGEyemE1dVFIeGRiNEl5c0FoQ0JVWGh0LW1Rd2IzQUVMUWdDcGJEWGZZX0Z4UVlJTjFudVNyY3pzaXF2?oc=5",
+     "date": "2026-09-09",
+     "press": "뉴스1",
+     "related": [
+      "충청매일"
+     ]
+    },
+    {
+     "title": "학교폭력 피해 응답률 2.9% ‘역대 최고’에도···“가해” 학생은 줄어든 이유 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NbWgydGJybGF4R19WSXRyZFltemktSnVISHJKWjVPMmUtOHpGMkt4NkNRMjU3bTA4UGo2OXZxYnhweTRqWHc?oc=5",
+     "date": "2026-09-09",
+     "press": "v.daum.net",
+     "related": [
+      "경향신문"
+     ]
+    },
+    {
+     "title": "\"100명 중 3명\" 학교 폭력 피해 역대 최대…언어 폭력 가장 많아 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vMU81N09yejJuTjFiOFpVMEJwT3lKX2RId1RRQ2thNUM5OC1XaEVHLUw0bnJGOEZTVlhaTjRvZGhIRDloMVE?oc=5",
+     "date": "2026-09-09",
+     "press": "v.daum.net",
+     "related": [
+      "연합뉴스TV"
+     ]
+    },
+    {
+     "title": "문경읍 지역사회보장협의체, 학교폭력예방캠페인 실시 - 문경시민신문",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fU25ZZ0wwLTRtNDE5ZmVNd3JaeE5GWG9YT2JfNUFIWnA5ZERpZDVYMEQzRFg1alYySDlXU0w2VHRFNTNkaXI1WkM0U3RJVEtpSjVxYml6VHNTbVFnT08zbUsyWDB2UG03QkRTM1F4TFpDMW10NWl0NnJmZw?oc=5",
+     "date": "2026-09-09",
+     "press": "문경시민신문",
+     "related": [
+      "경북신문"
+     ]
+    },
+    {
+     "title": "“학폭당했다” 초중고교생 응답률 역대 최고인데…가해자들은 ‘장난’ 취급 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sSFpFeEZrWlFHaUFBaEtEOWZMdVdJNllmUkJlNW1iWUFWRm1nbDBOaEE3MkJiMmRGd0ZTeEE3NXNsZldEc085YWxIa1FTX3c?oc=5",
+     "date": "2026-09-09",
+     "press": "v.daum.net",
+     "related": [
+      "경향신문"
+     ]
+    },
+    {
+     "title": "정미라 교육정책디자인연구소 공동소장, 국교위 비상임위원 위촉 - 교육플러스",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wTlIxeXZkRzhaNzM2Qk9YZjk0WnVCNmFZZHB6RWhGbGpZcEo3VVk4QV8xa0l4cWgtNk9UNVNPVVAzNjQtRFpfMVl4cTgyWmo4dGR5TDMtTDlwMnVzcEFzWGdRdzRnUWc?oc=5",
+     "date": "2026-09-09",
+     "press": "교육플러스",
+     "related": [
+      "교육언론[창]"
+     ]
+    },
+    {
+     "title": "“한 아이를 키우려면 온 마을이 필요하다”...교육청-지자체, '교육 협력' 협약 - 교육언론[창]",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JMnN0blVrZmxkOEJtODZYMzRtQUFjZDFrWkRFRFJvanl4emhVa1lITFdUdkNINzJRblVYT2lkdEFkRHJhcUhXYXVsaTcxbDgwc2NIeFZKYlpYYmdnRmo4djBWVHFEOWpMcVBz0gFvQVVfeXFMUFRwLVhQLUNXS2kyV2cyVGVKeW1jcEJpWkpMNkhDV3UwV1ZvbTBHbDNGZVpaNkNMRjNKX0J1dk1PT0tQeHBhQ2xFclR2X3BVd2VNYVMxR1hxSFc5aDlsSklObVhWODN0QkIyTDZMZURR?oc=5",
+     "date": "2026-09-09",
+     "press": "교육언론[창]",
+     "related": []
+    },
+    {
+     "title": "추미애 지사 교육 벽 깨려면 재정부터 풀어야...지방세제 개혁 촉구 - 아주경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsSWNEem5hQXdiN19kZkxkWXF2NDhKVHhLaHgxbDgzQk91ajh2cGdTaldyUFJnSVVyYTJUa2M2eVZybnVhUXFLcWVxU25adTN2dlcxeGZGVTBnd9IBWEFVX3lxTE83d28yc3VybGlwNGptazA4dUs2ZGZPTmVoMXFqdzc3RTdnbWs4WG9lX2lFU3JCSWVPdEpIdmpkLXh4SC1EZWhSSmhqMU9fUXE2NHZzSnhYSFU?oc=5",
+     "date": "2026-09-09",
+     "press": "아주경제",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[교육 돌아보기]사교육비를 줄이는 엉뚱하고 도발적인 상상",
+     "url": "https://www.khan.co.kr/article/202609092003005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-09-09",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[사설]올 수능 3명 중 1명은 N수생… ‘학벌 자산화’가 낳은 국가적 낭비",
+     "url": "https://www.donga.com/news/Opinion/article/all/20260909/134639105/2",
+     "date": "2026-09-09",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "내 몸에 맞고, 집과 어우러지고… 가구 하나가 바꾸는 공간의 풍경[김대균의 건축의 미래]",
+     "url": "https://www.donga.com/news/Opinion/article/all/20260909/134638773/2",
+     "date": "2026-09-09",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "부부가 한가위 앞두고 점검해 두면 좋은 것[고영건의 행복 견문록]",
+     "url": "https://www.donga.com/news/Opinion/article/all/20260909/134638776/2",
+     "date": "2026-09-09",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[사설] 국교위, 교육정책 혼란만 줄거면 폐지하는게 낫다 - 디지털데일리",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrdGRtWnA3aVBReVhDakFlVTFDSTBWMTg5aS1HWGF1TDJUaDVORU5pdEplVnJsQzQ1UUpBVmIzZ0ZtbTBkdmdIZHdxWXdYUUhSaEN4bEVXQW5WZDBPYjUydVFkLWlVQ1E?oc=5",
+     "date": "2026-09-09",
+     "press": "디지털데일리",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "[기획기사] 경기교육 대전환",
+   "note": "인천일보 목요판 교육전문 섹션",
+   "items": [
+    {
+     "title": "[경기교육 대전환] 성남 하원초등학교 '학생자치 행복 프로젝트'",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331657",
+     "date": "2026-09-10",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
