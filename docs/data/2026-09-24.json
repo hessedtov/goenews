@@ -1,0 +1,435 @@
+{
+ "issue": "2026-09-24",
+ "built_at": "2026-09-24T09:25:47+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "이 대통령 “트럼프와 군함 건조 얘기 나눴다”…월가 ‘큰손’에 소개",
+     "url": "https://www.khan.co.kr/article/202609240040001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "4인 4색 블랙핑크",
+     "url": "https://www.donga.com/news/Culture/article/all/20260924/134729886/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "낮에는 옛이야기, 밤에는 달 이야기… 추석 명절의 추억을 만든다",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20260924500010",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도의회 김영훈 의원, 교육부 만나 “전국 최고 수준 동탄 과밀학급 해소” 요청 - 경기평화신문",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXa0NpTmljcEJhNlpNajNpaUl5ck9fbjMzNDNLeXJpejZtbWo3am41cVQ5LUx1bjlSYldoeWFQNW1YUzYwYWstcWRn?oc=5",
+     "date": "2026-09-23",
+     "press": "경기평화신문",
+     "related": [
+      "내외일보",
+      "뉴스 따옴",
+      "리버럴미디어",
+      "광교신문",
+      "서울신문"
+     ]
+    },
+    {
+     "title": "경기도교육청, 추석 연휴 4일간 주차장 무료 개방 도내 교육기관 및 학교 등 1,500여 개 - 일간투데이",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04OVViTjFMZ2w3d3Vqb0FmT19EcEE5SjBuMU9NRjNUeHVOZEtpcEVQd1dnOHYyem5CMlFRaW1OUEhpT0pwYnFTWUxJcVJtcVE2T0hBVV9yVEpmYUpTT3VXOGtXZ19BN2U0QUdF?oc=5",
+     "date": "2026-09-23",
+     "press": "일간투데이",
+     "related": [
+      "sisafact.kr",
+      "경기평화신문",
+      "뉴스인오늘",
+      "엔디엔뉴스"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교육활동 침해 발생하면 신속 대응 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzNFdWVlFVZWxPNS1XRzFhZ0NuOHJuX2VXb3NiWk1FTkxVZHNFRDJnUGRLTkNoWkhJUEMyMGp2ZWJCNzFMQVB4MThwMDBHYWtMdU1obmdCNEU3NkNZUFZYVkZ0TmY?oc=5",
+     "date": "2026-09-23",
+     "press": "경기신문",
+     "related": [
+      "경기탑뉴스",
+      "경기평화신문"
+     ]
+    },
+    {
+     "title": "경기도교육청, 학교관리자와 '상호존중·청렴의 가치' 공유 - 컨슈머타임스",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySWEwYkpQd3JQcWlUVFlHU0JDOFdZcndHTzhFODlQbmF2dGNUcUJRUlpRblBLX1h0enBrMVBiWF94N3B2M3ZnWVZCTUJFWGxfWTYwdzZfZnR1ZzRQVGZ5TElLVl9jelZpTXc?oc=5",
+     "date": "2026-09-23",
+     "press": "컨슈머타임스",
+     "related": [
+      "경기인저널",
+      "광교신문"
+     ]
+    },
+    {
+     "title": "[경기교육 24시] 경기교육청, 추석 연휴 학교·교육기관 주차장 1500여곳 무료 개방 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBScUo0UTZqY0ZyNjl4UjJwQkxjRURPMGQ5bDViLXJVclpGS1dkNFdFNmxhWkFVVnU4N3lzbDlBSTNxMWk5TjhJcV8zdEg5Vkk?oc=5",
+     "date": "2026-09-23",
+     "press": "v.daum.net",
+     "related": [
+      "시사저널",
+      "미디어와이"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교육활동 침해에 법률 및 심리 지원 등 신속 대응 나서",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332817",
+     "date": "2026-09-24",
+     "press": "인천일보",
+     "related": [
+      "incheonilbo.com",
+      "v.daum.net"
+     ]
+    },
+    {
+     "title": "경기교육 22조9259억에 ‘재정 브레이크’…전국 첫 건전화 조례 추진 - supple.kr",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4VmF1OFJLWllWNVpHLVZFcXQ0V3E2eHE1cVhtOWRLR09Cc19FS2Y4RVZPVW05UFVQWG51cDV0WnBna2s1MHhhS0tldVdMZ1NLbE1kQ0l1VkU5S2pQ?oc=5",
+     "date": "2026-09-23",
+     "press": "supple.kr",
+     "related": [
+      "이투데이"
+     ]
+    },
+    {
+     "title": "전남광주시교육청 심민철 신임 2부교육감 28일 부임 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZ3k5SzF4QlpBY1BfNVZBT3FJemFCWnZmSjhMWG1mWnBBVnpRSG1RUmZtc2VvTjlmeHpBWjNzcWwwOUhaZVRRTnRsUDBZMHJ0aF90dzJ3bWg4LWhWYTVQOdIBYEFVX3lxTE1jZ3k5SzF4QlpBY1BfNVZBT3FJemFCWnZmSjhMWG1mWnBBVnpRSG1RUmZtc2VvTjlmeHpBWjNzcWwwOUhaZVRRTnRsUDBZMHJ0aF90dzJ3bWg4LWhWYTVQOQ?oc=5",
+     "date": "2026-09-23",
+     "press": "연합뉴스",
+     "related": [
+      "국민일보"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "해운대교육지원청, 학교폭력대책심의위원 역량 강화 워크숍 - mediatoday.asia",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZOEJ0VmNFRmxNMmI1dWhoOGpYTV83TmgzY3FOUjVIVkROZlRDMlVHUkg5am1WalZGWlR5NFlOZUVpbzZSMk5Yc1FB?oc=5",
+     "date": "2026-09-23",
+     "press": "mediatoday.asia",
+     "related": [
+      "경기뉴스원"
+     ]
+    },
+    {
+     "title": "영천교육지원청, 경험을 나누고 공정함을 더하다 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82UlRpbGZmaG5COHducC14LTl5WkVWNWFuNEZ6SmdfSlRNVzhQVWdMS2FIdExpQXhYcXNoNGYyMXY0d1VWbzBCLTZGdHpWWW5RekxkVGo1c2l1VVpRcG5wNzVRYw?oc=5",
+     "date": "2026-09-23",
+     "press": "경기뉴스원",
+     "related": [
+      "경북뉴스"
+     ]
+    },
+    {
+     "title": "해남교육지원청, 해남중학교서 안전한 체육대회 위한 등굣길 캠페인 - jngjedu.kr",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oQlV5QWxJQ3Q0RGh4N1FNU05KeHpORU9NZDhYM3RWcUZaU3hkZklhMHNxOHRIZGluMHNzUVpYa21ZZUJBX0R1N3dLSHVVOHNMSHhIbG1ZaVBkNDV0eklwS25odHBNQmlmNVFrbNIBbEFVX3lxTE5oQlV5QWxJQ3Q0RGh4N1FNU05KeHpORU9NZDhYM3RWcUZaU3hkZklhMHNxOHRIZGluMHNzUVpYa21ZZUJBX0R1N3dLSHVVOHNMSHhIbG1ZaVBkNDV0eklwS25odHBNQmlmNVFrbA?oc=5",
+     "date": "2026-09-23",
+     "press": "jngjedu.kr",
+     "related": [
+      "한국언론연합"
+     ]
+    },
+    {
+     "title": "동부교육지원청, 학교폭력 전담조사관 역량 강화 연수 운영 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55Nl9YbWh1a0E3TzBaYkdKUjBlOHFqLThleGdWaGZsckZIdEhSTmxpb2pJLWNVMW9sN0J4Mm1ubjZyd2xqNG9xa1Z6UHR6VE1wZUVtQWVhdFJPR0JKQnhuSW5UTQ?oc=5",
+     "date": "2026-09-23",
+     "press": "경기뉴스원",
+     "related": [
+      "대한뉴스방송"
+     ]
+    },
+    {
+     "title": "예천교육지원청, 추석맞이 전통시장 장보기 행사 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qdUxSWER0ZzY5bXUzcENuSk90UkFrekpUV3p0cnc5bkRDN2J2U0lpYzhweHJKUG5wMmd2SmRndkZkR2o0M2hiVDdmVXRUMWdnWDk1TFNNRG1obzJ1S0s1anh0Yw?oc=5",
+     "date": "2026-09-23",
+     "press": "경기뉴스원",
+     "related": [
+      "중부시사신문"
+     ]
+    },
+    {
+     "title": "서귀포시교육지원청, 사회복지시설 6곳에 전 직원 모금 위문금 전달 - kgdm.kr",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTTViM2tnN2VnTjVmZS1Oemp5bklWWlZDbUxIcldkNjZoUHNlTXRRbk80Y0lBZVBqcC1TNEhNcWV3R3lJbHJ5Z2pEMjhhdDZldWkwMlZ6YWNveVE3NW5hTUZ6U01idw?oc=5",
+     "date": "2026-09-23",
+     "press": "kgdm.kr",
+     "related": [
+      "경기뉴스원"
+     ]
+    },
+    {
+     "title": "안양과천교육지원청, 추석 명절 맞아 아동 보육시설에 따뜻한 나눔 - 경기헤럴드",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cmU4MHJsNFQ4cWdmNTBFMHRjYkFMbnRNZXJZR25hYUlBNGhPbm9XWWZwNFN2bWZhcUljcjVfUl8xTFR0eXlnMEtlZW0wcGZ1UFlr?oc=5",
+     "date": "2026-09-23",
+     "press": "경기헤럴드",
+     "related": [
+      "중부시사신문"
+     ]
+    },
+    {
+     "title": "“소중한 이웃입니다”…용인김량장2단지, 생명존중 캠페인 진행",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363737684",
+     "date": "2026-09-23",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "SK청솔노인복지관, 한국마사회 수원지사와 ‘행복한상 돌봄사업’ 운영",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363737680",
+     "date": "2026-09-23",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "[금주의 평택시] 평택시 ‘학생전용 통학순환버스’ 명칭과 캐릭터 공모 外",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363737648",
+     "date": "2026-09-23",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "경기 물류창고 2곳 중 1곳서 위법…추미애 “바로잡힐 때까지 확인",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363737673",
+     "date": "2026-09-23",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "성남시청소년청년재단, 추석 앞두고 위기 청소년에 장학금 전달",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332809",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "안성 지역 학생 60명에 귀뚜라미문화재단 장학금 1억 원 지원",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332807",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "용인시 4-H연합회, 제69회 과제발표회·야외교육",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332795",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "화성 근린생활시설서 불…1명 숨지고 2명 부상",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332792",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "서정대·양주출입국, 유학생 행정 부담 낮춰",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332808",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "경기도 학생 29.4%인데 교부금은 24.9%…교육재정 개편 논란 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJUHhyaURIaG4ySldOVW9oWkVUa25aWVpQSk9xdDkwQUdYNldNbTVUN19EV0RzQldBRWdYTUVuek85aTJXYnlmTUliVWRvd3pVZlFOenFNcV9kVWZjZUNFMXRiOA?oc=5",
+     "date": "2026-09-23",
+     "press": "경기뉴스원",
+     "related": []
+    },
+    {
+     "title": "순천교육지원청, 학생들의 목소리로 지역 환경정책을 말하다 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zVVJ4TlJZb21SdVVPaGFFV1ZrdjNnanJnNm9hcl9kVE5kWVUwMnpIM3VmQW5YUmxTeG5YNU9xTk11M2ZlaEpJOGlzc21JTWVsWElWaGdyRk5fMmxhNnF6bWtOZw?oc=5",
+     "date": "2026-09-23",
+     "press": "경기뉴스원",
+     "related": []
+    },
+    {
+     "title": "단양교육지원청, 학생의 목소리로 단양교육의 변화를 그리다 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zNUZQR3ptM3Nra1NxQjZieFM5d0pvNHBOcnpJOG1ZaG5UQ0ZNckZkUWplUEhjd0Z0Si1sSkF1V05PYVpOQzRqS1FRWkpYazNua1ZFMUsya0NhRFJpMjlWb0FMOA?oc=5",
+     "date": "2026-09-23",
+     "press": "경기뉴스원",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "권순기 교육감 ‘교육교부금 개편 비판 서한’ 냈다가 중단 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvZHlzWVhRem16NUhfTjJRc2lVY0MxZjhfejN3bHJyeGV0SGttaHBHRUxBdFVoeFRsandpaS04eC1RcUdoV2t1eFVVbmlhazA?oc=5",
+     "date": "2026-09-23",
+     "press": "v.daum.net",
+     "related": [
+      "경남도민일보"
+     ]
+    },
+    {
+     "title": "\"가장 시급한 지역현안부터\"…정근식 교육감, 자치구별 교육격차 해소 밝혀 - slnews.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1La2JUVUl0VmJfa01rZTB5VXE1NXgwamtuVC1fVkdFa3N6d1YteFd3S3FoZXFLRmpseU9XeFM2dFdBUUswSmdUVkUySl9sSnRNNHFsRWdXSXE?oc=5",
+     "date": "2026-09-23",
+     "press": "slnews.co.kr",
+     "related": [
+      "성광일보"
+     ]
+    },
+    {
+     "title": "[로컬 게시판/국립부경대] 교육부장관배 전국 국·공립대 교직원 축구대회 '3연패' - 베타뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2SmZWbWJlNkxSUXplc0NEYUZRUDNIVjhZWEVUQXA4d19sU1dHaUxFLWlZM0hqUmU3UWp1Qm1CUVA3WGltTldPcUkxYVpGRXRYN1F0MGZ3ekNQTXRZbjlaaldyVmk?oc=5",
+     "date": "2026-09-23",
+     "press": "베타뉴스",
+     "related": [
+      "국제신문"
+     ]
+    },
+    {
+     "title": "학교폭력 심의 5년새 88％ 급증… 지난해 학폭위 소집 3만건 육박 - 세계일보",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WTU0xc1ZwekZDSW5TbWZ3Rk5rT1hqZmFOd0pUakxnaVJUUUtKR2tLb0x1bHVuUTRYUHlfVXVtVjRRamdpenZMbkxzd21QeFgtWndjVXJNUTfSAVRBVV95cUxPa3o5OUx5VVdPSnRubFJEYnRqMk9QWVROeG1Lc1AySXNVNkNWamI0MmhudUI4MEp1TG5tcHV1aDNfM21lRkx5UG03dTVQYTZnY2tRN3E?oc=5",
+     "date": "2026-09-23",
+     "press": "세계일보",
+     "related": [
+      "데일리굿뉴스"
+     ]
+    },
+    {
+     "title": "‘학폭위’ 작년 3만건…학교장 자체 해결은 절반 이하 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fSFkwVENnaWI2b1hKMFpTaVpGZnRCWkJMZmpzcnNXOGRCSXdrTG9HRDQxTHp0MkpKbmMxcEw4MWpWN01jRjNpODlUczhlN2M?oc=5",
+     "date": "2026-09-23",
+     "press": "v.daum.net",
+     "related": [
+      "헤럴드경제"
+     ]
+    },
+    {
+     "title": "[기획] '우리가 직접 만든다'…충남 학교 사이버폭력·도박 예방교육 변화 - v.daum.net",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oRjZ3WWxvU2tLendxek1yV2VrYWVLN0pCZU9Rb2toRkVMRlRDVG9UcWxCTnlsLVBkYklPWVgxRV8xYWZhZEE?oc=5",
+     "date": "2026-09-23",
+     "press": "v.daum.net",
+     "related": [
+      "더팩트"
+     ]
+    },
+    {
+     "title": "돌봄플러그로 위기 징후 포착…입주민 안전 강화",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363737682",
+     "date": "2026-09-23",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "보름달처럼 넉넉하고 평안한 한가위 보내세요",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363737671",
+     "date": "2026-09-23",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "인천공항세관, 추석 앞두고 통관 현장·안전 점검",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332810",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "제3땅굴 ‘이음1635’ 운행 재개 앞두고 안전점검…‘환경안전’ 관리도 관심",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332797",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "市, 추석·세계한상대회 앞두고 인천공항서 ‘캐리어 낙하 예방’ 캠페인",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332793",
+     "date": "2026-09-23",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "내년 교육교부금 늘지만…교육감협 '인건비 증가·세입 축소로 재정 여건 악화' - 포커스인천",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5emgtYTZXWlNnYThMSEdJSlQ3eUM4V25aUWIwWVpqY0RPQV9EMWhuNEdrMHRPVnhVdHZHLW80SU5wM2JKalVIS1FHVzZOZGhCRHNReUg4S0N5Zm5zUW9vZ2xreE9GWXZCVEVHdmlFONIBckFVX3lxTE93YlhtRHRTTWJLTExNVHB5M0ttdzEwTjh2T0gyb0FYcVd5ZWpySTh0MkJWR0V2RkZDY0VPX1ppZlZVc09hLVQzN3o0d0MtTFN5OFV0REhoTUZoVUZHeGhhS3ZiNVZXR2hpT1F6MUZPUl8yQQ?oc=5",
+     "date": "2026-09-23",
+     "press": "포커스인천",
+     "related": []
+    },
+    {
+     "title": "제주교육청, 도의회 ‘지방교육교부금 개편 반대’ 건의안 채택에 감사 - 제주의소리",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CUG94ZDZKT25wUHZSaWVnOTFNd1BUSGg1WXpodWN6VWI3ZUNoelZXYmRka2RYOGlTWUZqZ2ZrQ214bDhBbWtZMG55bkRGNlYtem9MNkNDZmtEQVUtZl81S01ZMWV2Y1V3WUFF?oc=5",
+     "date": "2026-09-23",
+     "press": "제주의소리",
+     "related": []
+    },
+    {
+     "title": "제주도의회, '교육재정교부금 합리적 개편' 건의안 채택...교육청 \"환영\" - headlinejeju.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c2k4cGYzbm5ucWxFcUFJbjQ5amc2Snp5VVpNT2NtYWpmNExlZEtEYUREYUhMTHk1ZTZ4RnFWTkpRN1dpNExQbmNHSmFELVBOOWwzUy1XUE81RzQtRzJXUEg2MGVxQ3VlZUVSMWdnVFlUT0k?oc=5",
+     "date": "2026-09-23",
+     "press": "headlinejeju.co.kr",
+     "related": []
+    },
+    {
+     "title": "“교육교부금 개편 종합적 영향 투명 공개해야” - 한국교육신문",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZHo3Qld1Rk5VeHR6aVF0YndUWWZ0LUtCeXRCREtCdDFUUUVuQU5LOGhFWE1mX1QtZkxHYnBtXzlNbG92QjByalpsY244d1pVS3laN29WNUE3TUw3UTl3?oc=5",
+     "date": "2026-09-23",
+     "press": "한국교육신문",
+     "related": []
+    },
+    {
+     "title": "경남 교원 3단체, 교육교부금 대응 번복한 경남교육청 정면 비판 - 브레이크뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IZms1MFQ4VFFCVi1MOV9zZzFEWUNuRVZwWW9SUktGVF9sYXdqRVJGY1hpVUZJWDdOOWhsNTA2VXJjQQ?oc=5",
+     "date": "2026-09-23",
+     "press": "브레이크뉴스",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[여적]여명학교",
+     "url": "https://www.khan.co.kr/article/202609231810011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-09-23",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "K문학 세계화, 독립 번역대학원이 답이다[내 생각은/곽중철]",
+     "url": "https://www.donga.com/news/Opinion/article/all/20260923/134729928/2",
+     "date": "2026-09-23",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[데스크 칼럼] 기간제교사는 덜 중요한 선생인가 - 더에듀",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0TEY5WWZwN0NSUFVQQzhQUVhIUjdvdGZJeldnNGR3X2pfU2RLYXdPQ0p0cHBHa1JoYVhodHlObTFqaGtjamV4RlZSUGpVbkxwdlVHcDg1aVBKRkU?oc=5",
+     "date": "2026-09-23",
+     "press": "더에듀",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
