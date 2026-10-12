@@ -1,0 +1,159 @@
+{
+ "issue": "2026-10-12",
+ "built_at": "2026-10-12T10:14:29+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "엄마 뱃속에서 가습기살균제 노출 33명…연구결과 부재, 수년째 피해 ‘판정 불가’",
+     "url": "https://www.khan.co.kr/article/202610120600015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "툭던지고 땜질 반복… 정책 신뢰 흔들린다",
+     "url": "https://www.donga.com/news/Economy/article/all/20261012/134822492/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "억새 바다에서 찰칵",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261012012004",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "[의정 돋보기] 최지원 경기도의원 “교육으로 북부 균형발전 그리는 ‘정책 디자이너’ 되겠다”",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738925",
+     "date": "2026-10-12",
+     "press": "중부일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "파주교육, 학부모 목소리에서 해법 찾는다",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333817",
+     "date": "2026-10-11",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "경기남부·북부경찰청 국감…의료사고 수사·부실 대응 주요 '쟁점'",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333849",
+     "date": "2026-10-12",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "강화 글로벌셰프고, 한식산업기사 합격률 98.3% 기록",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738912",
+     "date": "2026-10-11",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "제24회 박찬호기 전국초등야구 26일 개막…인천 상인천초·아라유소년·연수구유소년 출사표",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333815",
+     "date": "2026-10-11",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "[화보] 가을 송도 온기로 물들고 향기로 퍼지다",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738954",
+     "date": "2026-10-12",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "전국동시조합장선거 D-143… 예비후보자 등록 앞두고 ‘기울어진 운동장’ 바로 설까",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738947",
+     "date": "2026-10-12",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "생명의 소중함과 단지 내 따뜻한 관심…‘생명존중 자살예방 교육 및 캠페인’",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738945",
+     "date": "2026-10-12",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "“함께 만들고 즐겁게 소통해요”…웃음꽃 피운 분당하얀6단지 주민들",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738941",
+     "date": "2026-10-12",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "건강 증진과 복지 향상 한자리에…‘지역사회가 함께하는 복지&돌봄 연합 캠페인’",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738938",
+     "date": "2026-10-12",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "“우리 지역에는 왜 없나요?”…아토피·천식 안심학교 지역별 편차에 학부모 불만",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363738932",
+     "date": "2026-10-12",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "[국제로보틱스 경진대회 가보니] 185개국 청소년 집결…로봇 열기 송도 달궜다",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333838",
+     "date": "2026-10-12",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "인천형 어린이집 지원금 대신 '원장 겸직'…현장 '한숨'",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333833",
+     "date": "2026-10-12",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[사설]병원 25곳 퇴짜맞고 안성서 전주까지 날아가 출산한 산모",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261009/134816524/2",
+     "date": "2026-10-09",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[사설] 인천시금고, 결과보다 과정이 투명해야",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333852",
+     "date": "2026-10-12",
+     "press": "인천일보",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
