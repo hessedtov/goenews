@@ -1,0 +1,493 @@
+{
+ "issue": "2026-10-16",
+ "built_at": "2026-10-16T09:18:58+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "여행작가 부부가 권하는 ‘느리게 사는’ 여행…5060의 한달살기",
+     "url": "https://www.khan.co.kr/article/202610160600005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "다리 하나 없는 불안한 의자… DMZ 사이에 둔 분단의 흉터 돌아보다",
+     "url": "https://www.donga.com/news/Culture/article/all/20261016/134851358/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "미성년 납치·유인 사건 28%… ‘양육권 다툼’ 친족 범죄였다",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261016008006",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청평생학습관, 12월까지 특수교육대상 학생 AI 로봇 체험교실 운영 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LRjA5d0huVmVFVFA3ZWRVZ1MwenBrcVdVUU95dkpuTmI1OHRfWHhLZXNvVnRJV0tnSndfZURaNVNSLWxCWENzeW9QYmhiV2trTnZqZi15VW9RMjFXZ3d3LXVB?oc=5",
+     "date": "2026-10-15",
+     "press": "경기신문",
+     "related": [
+      "오늘뉴스",
+      "경기탑뉴스",
+      "경기평화신문",
+      "광교신문",
+      "뉴스 따옴",
+      "성남포커스",
+      "웹이코노미",
+      "더코리아",
+      "월드장애인사랑뉴스",
+      "메트로신문"
+     ]
+    },
+    {
+     "title": "경기도의회 김성수 교육행정위원장, 경기도교육청 중증장애인생산품 구매 박람회 참석 - 경인종합일보",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81Wk1YUlhtUUQyVnNzWGpOQmtocDEzY01peUJSY1NSVHUxUEhlOGJra01RRXF2VDdsa3J6U1JiSVZXV0JyY0F0bzJONWRub0VMQVdjbnAxRy00RHQ0X2VsckpEQXg5bkRIanVXR1Q4aEJLUdIBckFVX3lxTE81Wk1YUlhtUUQyVnNzWGpOQmtocDEzY01peUJSY1NSVHUxUEhlOGJra01RRXF2VDdsa3J6U1JiSVZXV0JyY0F0bzJONWRub0VMQVdjbnAxRy00RHQ0X2VsckpEQXg5bkRIanVXR1Q4aEJLUQ?oc=5",
+     "date": "2026-10-15",
+     "press": "경인종합일보",
+     "related": [
+      "경기평화신문",
+      "뉴스 따옴",
+      "뉴스신",
+      "일간투데이",
+      "서울신문",
+      "서프라이즈뉴스"
+     ]
+    },
+    {
+     "title": "경기도교육청, 특수교육 학생 위한 AI 로봇 체험교실 운영 - 기호일보",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVU1JqMHFzaDBDbnBCTzE4RkcweXEtSldzUGJfZWFiSGYzOHJpclowNUliTmhiRElpbUFreHhta3JUUEJ2d1dQR18tcFZ1QTZJeVM1ZDYtRDczT1VZaTNzSVJXc3FuNkM1Y2J4NlNsWQ?oc=5",
+     "date": "2026-10-16",
+     "press": "기호일보",
+     "related": [
+      "말길",
+      "뉴스경기",
+      "뉴스신",
+      "뉴스잡"
+     ]
+    },
+    {
+     "title": "경기도교육청특수교육원, 특수학교 교장 역량 강화 연수 운영 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5ZFlReEJBSG5WbkRxb0JrMUtKc21qV0hPLTdtd2tjWWwxR1Q2RlR2S1VKcDlSTnFkd3RmLVlNTW90TFVueEFweFpPYnA0MjV0WjJSWWxMeG50TjV2ZkRQaWxn?oc=5",
+     "date": "2026-10-15",
+     "press": "경기신문",
+     "related": [
+      "경인종합일보",
+      "광교신문",
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "양주시 관내 4개 학교, 특별교부금 17억 4,700만원 확보 - 누리일보",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80aXNHQlN6eUd0bmxaOU5laXNuSlR6bWxHUmxaNUJsa29oaEhKODRFSF9sdmdjSkJMYTBvMXFiY1BsSFpvS3VmVTBoSkxOeUU0ODlPVDEyekVUSTNUcExJ?oc=5",
+     "date": "2026-10-15",
+     "press": "누리일보",
+     "related": [
+      "매일일보",
+      "문화일보"
+     ]
+    },
+    {
+     "title": "경기도교육청평생학습관, '2026 찾아가는 특수학급 AI 로봇 체험교실' 운영 - 데일리안",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcXZ5ZmNESXVvUURubVJ2QmpsenM4RFdZN3hEUGoxRzJGNVd5WjlZcTFXSHJ5QWlMQ093ZHhSSWlVQ1Fwb3VyUzhicE5QWjBtOFRENHZvLTlLYnRiMm9LYzExUEhPMzVKUzhGOGRneTZKeERZUkR4UGR3WnpfTW1lb2JGM3JWMi1PeFNLWTZvaDhTU3dtV0E5NkhraC1wN3lZcEFKakFzazlvYkozY19MZldPcUJfMkJDdzZKS0tSTmw2N3FkZUJ6QkhNaGlINXZLZi14dkFaeENyMm1BdXNJZld3ajVkVE5MZUtKOVBpMXdydXR4dlE4UzJlU2kxSnZ2aF82RGFqc1J6NjJGS0E?oc=5",
+     "date": "2026-10-15",
+     "press": "데일리안",
+     "related": [
+      "모닝투데이"
+     ]
+    },
+    {
+     "title": "경기도의회 조병진 의원, 북부유아체험교육원 찾아 유아 체험교육 현장 점검 - 경인종합일보",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KbXVrTWQ0dndzQ1MyNzI1S0ZMVDdzemlCd1JMVndBT0dRSXpMSTZKb2FkYWlyTGFaSHFValJFUkZvTURDRHFHcHpIcUZHZHdTQThCeWx3aFJwampJaGN2a1NXNDM4bW9JdVVyNUR2YzM3Z9IBckFVX3lxTE5KbXVrTWQ0dndzQ1MyNzI1S0ZMVDdzemlCd1JMVndBT0dRSXpMSTZKb2FkYWlyTGFaSHFValJFUkZvTURDRHFHcHpIcUZHZHdTQThCeWx3aFJwampJaGN2a1NXNDM4bW9JdVVyNUR2YzM3Zw?oc=5",
+     "date": "2026-10-15",
+     "press": "경인종합일보",
+     "related": [
+      "뉴스 따옴"
+     ]
+    },
+    {
+     "title": "경기도교육청평생학습관, 특수학급 대상 'AI 로봇 체험교실' 운영 - Queen 이코노미퀸",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XMkU2Tm1wa1dlYmVZV2c2cFBnNThYOGRXamJHblZWSWw2VExmRFFlN2FqZzBXcFJOX2NUbFotRHFpMGlGUEFyVDkyVDhDdmdhbHlRZ0lhUW9ib3gzSGVTT1o1dmpGYWVkcFE?oc=5",
+     "date": "2026-10-15",
+     "press": "Queen 이코노미퀸",
+     "related": [
+      "더팩트"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "김포교육지원청, ‘폰프리 실천학교 네트워크’…RAS 기반 학교문화 조성 나서 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0YjdwRElRR0RjeHFiSkxhc2diZ2FtcUFYc0l1d2QwQjlxeVNCNHZJYWdmdUlVN2RJeF83VDBYT29BWVpKczRwWklpYVg0N2FnbE13WHpyanhkTE0?oc=5",
+     "date": "2026-10-15",
+     "press": "경기일보",
+     "related": [
+      "경기in",
+      "더글로벌타임즈"
+     ]
+    },
+    {
+     "title": "오산시, 운암중 체육관 증축 교육부 특별교부금 35억 8천만 원 확보 - 경인매일",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vQ0w5blQ4TW0xUGNlOHQ3ai1ZZnVrYWJuZEM2MFBZQ2FQVDJuZEdGMFdzQkczZ1NmTnhqMERpRDEwSnRDdDFCTnE4Ry12YUswbHE4QlFlQ20wdmRMV1RsSWx0bnlFMV9l?oc=5",
+     "date": "2026-10-15",
+     "press": "경인매일",
+     "related": [
+      "데일리안",
+      "매일일보"
+     ]
+    },
+    {
+     "title": "오산시, 운암중 체육관 증축 교육부 특별교부금 35억8천만원 확보 - 아시아타임즈",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pWG9yZDBPS2t1dTc4bm1ndi13MUI0T0xZWDdLZG1hdFVVblpLZXVBc1R1N25LbEZDY240MzNZcndqN0VRcHFtYXVxcEpSM0d1cm1jMEpLMm54Z3QyYnc?oc=5",
+     "date": "2026-10-15",
+     "press": "아시아타임즈",
+     "related": [
+      "뉴스피크",
+      "모닝투데이"
+     ]
+    },
+    {
+     "title": "안민석 경기도교육감 “하남교육지원청 내년 9월께 신설”",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363739446",
+     "date": "2026-10-16",
+     "press": "중부일보",
+     "related": [
+      "비욘드포스트",
+      "천지일보"
+     ]
+    },
+    {
+     "title": "연천교육지원청, 교육부 특별교부금 27억 3,900만 원 확보로 교육환경 개선 - 더시그널뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjcHRFTkhUZ3NBTElTdnptUGFNVXFMSXExOUZkN1FuQi1INmN0ZUJ6VWJpRHRPNHdWSGNHUGdHRFh1NXAyMHZLQ2NFUkM?oc=5",
+     "date": "2026-10-15",
+     "press": "더시그널뉴스",
+     "related": [
+      "미디어투데이"
+     ]
+    },
+    {
+     "title": "경산교육지원청, '2027학년도 경산 관내 고등학교 진학박람회' 개최..20일 남부미래교육관서 - 뉴스프리존",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kajlBbDJsUmVKT1ROdE9ZMTBKVDR5ejl6UkJRMmg2UDFsLXBBZnNHamI5YjZmQW52M0RNZ2xoRW4wSnpVQ1RHWm1UTnZ4MDd4QW9WQTJFTkY1RHZWazlXeWhDMGViMjlnOVAyRWpKblVtRUZzNjVR0gF3QVVfeXFMT2RqOUFsMmxSZUpPVE50T1kxMEpUNHl6OXpSQlEyaDZQMWwtcEFmc0dqYjliNmZBbnYzRE1nbGhFbjBKelVDVEdabVROdngwN3hBb1ZBMkVORjVEdlZrOVd5aEMwZWIyOWc5UDJFakpuVW1FRnM2NVE?oc=5",
+     "date": "2026-10-15",
+     "press": "뉴스프리존",
+     "related": [
+      "경북뉴스"
+     ]
+    },
+    {
+     "title": "성남교육지원청, 경기형 다·같·이 처음학교 기관 개방의 날 개최 - 경기인터넷신문",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tWmJmM1o0R3BLRXVZRS1ONVpxenVidE56SldXZUREMllXRjhDU1JqSkhqVUNKUmN1R0FpNlIxdW9aZVlEN0hVSw?oc=5",
+     "date": "2026-10-15",
+     "press": "경기인터넷신문",
+     "related": [
+      "성남신문"
+     ]
+    },
+    {
+     "title": "군포의왕교육지원청, 모두가 함께 즐기며 성장하는‘모두런(RUN) 스포츠축제’ 개최 - 경기in",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBOY25UcW1RTVVRTndTUzQxZ09uNmFVRnFtNmtUTU1GSjZlS2pvX242SjhTaGdjS0VGV1RIVV9lZkFVQXc?oc=5",
+     "date": "2026-10-15",
+     "press": "경기in",
+     "related": [
+      "경기인터넷신문"
+     ]
+    },
+    {
+     "title": "안양과천교육지원청, 전 직원이 함께하는 체육행사 개최 - 경기헤럴드",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0aWFPLXJQc3FDLWpYa2ZseFp0ZWJUMmt4NXRxRUdVekxqWnd6S0xYbGxBcTVGMjRLTm05dlE0UDFCRzA0dGhfb0tNZ1VTNnVibFhZT3VOZUcxTk5qejlfMnN6MGEwZFZ4WmlrNnlVdHE3UzIwNWM4SWxkSkE?oc=5",
+     "date": "2026-10-15",
+     "press": "경기헤럴드",
+     "related": [
+      "시사미래신문"
+     ]
+    },
+    {
+     "title": "안민석 경기도교육감, 하남교육지원청 2027년 9월 조기 개청 추진 - 매일일보",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBseU56SjItWklNWXRVdnJ3QnZfTF9VWHR5Y2lfbi1XV3habTVVT2RLcTliWWVCYzZLY0FpeXpYb181VGwtLXhZY3ZueHpMTlhoR3p2WXlUdkZhVGt4QzdPcUMyU0w?oc=5",
+     "date": "2026-10-15",
+     "press": "매일일보",
+     "related": []
+    },
+    {
+     "title": "안민석 교육감, 하남·광주서 현장소통...내년 9월 하남교육지원청 신설 목표 - 아주경제",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hSmRIMjh5VlN5eExfeERJR2g5YzBSV2MtQUlmLUdYRE1xSUpZcHlKQXVMZXREZjV0Mk5KZEtRMkxOamlBQURLU0dtekhTOVcwVXFFSG0wb0vSAVhBVV95cUxPYUpkSDI4eVZTeXhMX3hESUdoOWMwUldjLUFJZi1HWERNcUlKWXB5SkF1TGV0RGY1dDJOSmRLUTJMTmppQUFES1NHbXpIUzlXMFVxRUhtMG9L?oc=5",
+     "date": "2026-10-15",
+     "press": "아주경제",
+     "related": []
+    },
+    {
+     "title": "하남교육지원청 독립 가시화… 내년 9월 개청 추진 - 조선일보",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUxKN2liWTdlMkFjRkljTDZzc3VVLXZ4cXA4ZW1VYnJYVlF1MHJaY05pVlNReHdpX09kUnZkeEFIMVlwaXZ6dTNadmVkNjRjcHczdW11VVBMem1ab01ObjlfUHNROW50cElfMDhObGU3ajdmaGN6c1JUUFR0aTg4NzJScVZnSXE3VjhzUnBnaWM?oc=5",
+     "date": "2026-10-15",
+     "press": "조선일보",
+     "related": []
+    },
+    {
+     "title": "경기도의회 국민의힘, 행정사무감사 앞두고 도민 제보센터 운영 - 매일일보",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jUDF4b2l2T1dOS2FlV1NiZGRqWDBwS002OUdXdkpqWXFyT0QyWC1OZ2FSMURGbmZ1clF6TUR0eDE3UE1nMUIyUVdlM1hKZFJzbk1aYVRaSU1JdF9nNkdPVlg0Z0w?oc=5",
+     "date": "2026-10-15",
+     "press": "매일일보",
+     "related": []
+    },
+    {
+     "title": "안민석 경기교육감, 하남교육지원청 2027년 9월 신설 추진…학생 AI 사용 제한 정책도 준비 - 월드장애인사랑뉴스",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QcVM2aEdXcVktMUQwNWp4WTMzZlNVRVhwYVFiQ2FEa1diOEY1Z1NaaHRTN3ptQ2xOX0I0WWVKWjA0cHRyNXFZMXBySXNobWNZRWczZjhWeVRjZVRsUjUxbDlmOWlGMHN4TnhqLU5QSQ?oc=5",
+     "date": "2026-10-15",
+     "press": "월드장애인사랑뉴스",
+     "related": []
+    },
+    {
+     "title": "[위클리오늘] 안민석 경기도교육감, 하남교육지원청 신설 약속…개청 시기 6개월 앞당긴다 - 위클리오늘",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MLUFyS0gtclRobThXQmhpTGFDUWllNm5jOFBpMnd5bHFNd0J0NnZ2MnpqbENuZVNYc0RXN0pPc25FQ0xXdTBwdjRyRllSalhyTzNibmVHaURqTUM5cDBxR2lNOHlNUWJLUkt4RXNydw?oc=5",
+     "date": "2026-10-15",
+     "press": "위클리오늘",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청 안민석 교육감, 내년 9월 하남교육지원청 신설을 목표로 차질 없이 준비해 나가겠다 - 뉴스잡",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWl9PeWpfMWJpbV96blFNNjZETUFrdnRhZmpvd05oeHgtSm5PMlVoa1ZxdEo0Q1Vyb0tkNHFOLUpzZmVYb2I5eDN6RzB5aUdqZWxfWU1SRHh3QXc2WUNrb3NJM2dCRVc1TjJR0gFrQVVfeXFMTVdaX095al8xYmltX3puUU02NkRNQWt2dGFmam93Tmh4eC1Kbk8yVWhrVnF0SjRDVXJvS2Q0cU4tSnNmZVhvYjl4M3pHMHlpR2plbF9ZTVJEeHdBdzZZQ2tvc0kzZ0JFVzVOMlE?oc=5",
+     "date": "2026-10-15",
+     "press": "뉴스잡",
+     "related": [
+      "경기청소년신문",
+      "경기시사투데이",
+      "경기평화신문",
+      "뉴스인오늘",
+      "더글로벌타임즈",
+      "정도일보"
+     ]
+    },
+    {
+     "title": "경기도교육청 '하이러닝' 385억 논란…KT 특혜 의혹부터 교실 활용도까지 - 시사프리즘",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WMWxKdlpaTGxNeUJORnBWMXdwb3M0SnlrbGxMWXRNdUFNOC02MXl5N3N2cWg5aHZIanBuUjJMZWpjTzVHeVhQZnBVNXpDZ0ttM0NXbW9LTW50N1h0Mll5VUVlYlh6bjR0?oc=5",
+     "date": "2026-10-15",
+     "press": "시사프리즘",
+     "related": []
+    },
+    {
+     "title": "안민석 \"교육교부금 개편 시 경기도 7.4조 감축… 사전 공론화 미흡“ - 뉴스체인지",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KUnFVd2FVcm03TUlMWGN0WWV5Z0c5OHE3anhqVXo2ZHR1RVlGR3Rza2VIdEVCR0Z6V2d0VzRpTE5nTmgxVTJGMG1YTQ?oc=5",
+     "date": "2026-10-15",
+     "press": "뉴스체인지",
+     "related": []
+    },
+    {
+     "title": "안민석 “하남교육지원청 신설, 차질 없이 준비” - 서울경제",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1c0NYU1h2NlZlWmVUZzl6NTZIVTFzcXJkZnZoZEYxSFR5d244NjJuWjVqdDhuek5yckhWdXpyblpDSUg0YWlZcmhzcGMza0R5cmhv0gFTQVVfeXFMUHVzQ1hTWHY2VmVaZVRnOXo1NkhVMXNxcmRmdmhkRjFIVHl3bjg2Mm5aNWp0OG56TnJySFZ1enJuWkNJSDRhaVlyaHNwYzNrRHlyaG8?oc=5",
+     "date": "2026-10-15",
+     "press": "서울경제",
+     "related": []
+    },
+    {
+     "title": "\"아이들 줄어도 교육 책임은 줄어들 수 없다\"…교부금 개편에 전남광주 교육계 반발 - 프레시안",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OclJwSG9qaVE4SGd6T3pkbW8tdklmampFQ2J5clg1VE9yODNzOEZITGxydnF6ZGt2NkVtalEzMm5ETHljZjRNc3F5YWhCbUg3N2JmWHV1NVhJdkxxNGd5N0hLY0xxa1UtLU9z?oc=5",
+     "date": "2026-10-15",
+     "press": "프레시안",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "전남자치경찰위, 학생과 소통하며 학교폭력 예방 강화 - 뉴스라운드",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vS0tjeVFPYS1mQU9mendYMF82ZnZKMkY4NmtkSFUtTUtDUHlxTTNreXh1MkswZGZHSXQ2QXYtVGdTQkU3djRiVk9XN1BUdVJFeWJqY1MzRnNuTlhkTzVOU3ZySzVtU2NJT3F5a9IBcEFVX3lxTFBhdm0tTVFYZTRpd01qOHJPT3prcGNETVNFalBEV2g0cnh0cDQxSEh4ZTdISFlqZkJYWDgtVkVSbTBjWjVna2EtdkpYWGc1NTZuTXZHbEt1VHpsVnZvR1pBZWd5ekx2Um40M0Z5SVN1eGs?oc=5",
+     "date": "2026-10-15",
+     "press": "뉴스라운드",
+     "related": [
+      "더팩트",
+      "한국생활체육뉴스",
+      "현장뉴스"
+     ]
+    },
+    {
+     "title": "교육부-전기안전공사, 학교 태양광 안전관리 강화 - KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ubUdpRWRJVWU2d0Jxb3c0R0VhSnd2SlNvYkZvR1F2cDFlbzVHaGFiYlp2VXY3WU13VTMzN1VTdC1Mb2pQeEt3Y2V4Y2ZnbWNWa1d3V2ZXUnByYlE?oc=5",
+     "date": "2026-10-15",
+     "press": "KBS 뉴스",
+     "related": [
+      "에너지데일리",
+      "아이뉴스24"
+     ]
+    },
+    {
+     "title": "우송대, 교육부 지방대학 특성화 선도대학 육성사업 선정 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOWlNBcEdJbmhPcENyWEZhZTA3azVxUy1KS1pidTJMMGhEUVpCRWNBZW9kVW9SWDVuQk53N0EzT2RJQlJab2RWVTFkMkhaeVZxOEVlVXBYUU5weW9ORHB6eA?oc=5",
+     "date": "2026-10-15",
+     "press": "뉴스1",
+     "related": [
+      "금강일보",
+      "한국대학신문"
+     ]
+    },
+    {
+     "title": "최교진 교육부 장관, 원광대병원 '병원형 위센터' 방문 - 파이낸셜뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yM1Z5NnNydVRsMlJWZl9GV0kxZmlkYkJPTm9Bb1dhTThEVDVTaFJQc1JtZTVxS1lqZnd0bW9WbGNiMTlnd1MwWjFrblR1QUFZaDU4aVY4SWJNQQ?oc=5",
+     "date": "2026-10-15",
+     "press": "파이낸셜뉴스",
+     "related": [
+      "경남열린신문",
+      "시사미래신문"
+     ]
+    },
+    {
+     "title": "대전 5개 대학, 교육부 ‘특성화 선도대학’ 선정… 5년간 국비 1천100억 확보 - 중부매일",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wMlpNTktUMHJsQnRDVWRidWR1TDF6SnlzWlkyN1VpMHhWejZGNkhoRlNfdklNRjQ4NmJYY2RmVXdlbE1McldpX1QteE1sZzlzMjREd2JzRzJPaDlRM0twZGVQT1Bla0l3RWhKSTl30gFuQVVfeXFMTnAyWk1OS1QwcmxCdENVZGJ1ZHVMMXpKeXNaWTI3VWkweFZ6NkY2SGhGU192SU1GNDg2YlhjZGZVd2VsTUxyV2lfVC14TWxnOXMyNER3YnNHMk9oOVEzS3BkZVBPUGVrSXdFaEpJOXc?oc=5",
+     "date": "2026-10-15",
+     "press": "중부매일",
+     "related": [
+      "nbn 시사경제",
+      "충청시사신문"
+     ]
+    },
+    {
+     "title": "작년 특목·영재·자사고 고1 학업중단 189명…5년 새 최저 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wRlk3QTlSc1p0Z05rZGpnOW1XOWhFZGswUEVzZHAwaFE3UTB0VFZtMjNYaUlHTkhvemM3UUJyczNOTTJuMDZTY2ZvZDc0X0VLcDhmd0tRZHNXNGvSAWBBVV95cUxOcWNBUTVUQmZ2aEYzbzZoelI4d2V5QUU0b0xtNGZqVFI3VWc5cXNlZG1TYkd0OTEwTmpjb0dVek9WT05KZmR5cElTQmNZb01fMzN0endWSm5XRWdHSVdkMGg?oc=5",
+     "date": "2026-10-15",
+     "press": "연합뉴스",
+     "related": [
+      "MBC 뉴스",
+      "매일경제"
+     ]
+    },
+    {
+     "title": "교육감들, 교부금 개편에 재정 우려…'야차룰' 대응 논의 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xMDQ2ZVA2TFpGcnRweURZVnJTN2JOR3ZvcUZmd2JRd2IzWWlYT2JteGhYWEVXWHE3am5tUUFodkg3M3B0aExCYmV5NTM0TElaZU1SVno3WDlmRlRsdVV4ZtIBeEFVX3lxTE9PdTVYQU5nM2hHUHRJc0tiLW9XTktLTTNSQzVTWTlGQzNqeHl5NjhmUDFUYTFIQV9OdEFwSXJZN0w3ZzhkODcyUVZEUEgzaXUzd3lnNzY0NVFoOHdxY192MkZhUmVLVzdaR1k3OFJOS3AxNDZaUVlxZg?oc=5",
+     "date": "2026-10-15",
+     "press": "뉴시스",
+     "related": [
+      "뉴스핌"
+     ]
+    },
+    {
+     "title": "윤영석 의원 \"양산 교육시설 특별교부금 11억4900만원 확보\" - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OSFhRcXlSQmtvZWxiVWYzMUdLajZLS0JUc3h1WVAtamRfb18zUGhPZDdTNjVIOEZoeEpIUjN3NnY5dE9zc19YM3FEN1ppRUx5cG5RRXhhaVBnMVowOThvMWp4eWtUbHhLeDlLcnBJV2RFOURWbnZvadIBeEFVX3lxTE5OSFhRcXlSQmtvZWxiVWYzMUdLajZLS0JUc3h1WVAtamRfb18zUGhPZDdTNjVIOEZoeEpIUjN3NnY5dE9zc19YM3FEN1ppRUx5cG5RRXhhaVBnMVowOThvMWp4eWtUbHhLeDlLcnBJV2RFOURWbnZvaQ?oc=5",
+     "date": "2026-10-15",
+     "press": "뉴시스",
+     "related": [
+      "양산신문"
+     ]
+    },
+    {
+     "title": "영진전문대, 교육부 특성화 선도대학 선정… 2026년 국고사업 7관왕 ‘쾌거’ - 세계일보",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sMjFyRnd5dXhjN3l6dlNzVHdLSzFQdmZNNWUyNUN5V292cmtrZUxLeU10RWRqYnRoSXp6N1dEblNyeUdJYk1SQ1RUNl9SNXZLNE1EetIBVEFVX3lxTE9sMjFyRnd5dXhjN3l6dlNzVHdLSzFQdmZNNWUyNUN5V292cmtrZUxLeU10RWRqYnRoSXp6N1dEblNyeUdJYk1SQ1RUNl9SNXZLNE1Eeg?oc=5",
+     "date": "2026-10-15",
+     "press": "세계일보",
+     "related": [
+      "시사뉴스"
+     ]
+    },
+    {
+     "title": "전기안전공사, 교육부와 ‘햇빛이음학교’ 태양광 설비 안전관리 강화 협약 - 전라일보",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHNVhqdUgwMmJaQUZNQ2xqS2IyYmJfdG42TzdXeERRX0xWYy1oaVV4clF5SHpMdjdOQkxPUW9DaGtRQWN2X2g3REJDdFVDNExfbDJrSzYzNEtvT3Y2V0NNdlk3cTRLcVR1M21rNtIBcEFVX3lxTE5QbkRFMHk4MDBSVk9vSlhzTUo3djh2eHFOTEdiTDVkQnhrYWJiLVh4bzQ2UWdhUnBibk9maUgwWF9JdnN4c2lrR0lKajNFX0N5RzRRVG5iNVh4b19uUEhOMko3R3JPNXlZdDVRcHZwVXM?oc=5",
+     "date": "2026-10-15",
+     "press": "전라일보",
+     "related": [
+      "전북도민일보"
+     ]
+    },
+    {
+     "title": "교육부 - 한국전기안전공사, 학교 태양광 안전관리 힘 모은다 - 세이프투데이",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oNjgtNHg5TTYzWFRjSDRwUDRHc1ZTaVFPLVNsdk4tYVZKcnhJLWZZZ05jTkRxZTVhaW9YUnVjLXJEcEhqdU9RdkdidS1TV0ZZb0hBMjU3OWJ4b1EybFExTzdGLXFIa1U4blVQQ2930gFuQVVfeXFMT2g2OC00eDlNNjNYVGNINHBQNEdzVlNpUU8tU2x2Ti1hVkpyeEktZllnTmNORHFlNWFpb1hSdWMtckRwSGp1T1F2R2J1LVNXRllvSEEyNTc5YnhvUTJsUTFPN0YtcUhrVThuVVBDb3c?oc=5",
+     "date": "2026-10-15",
+     "press": "세이프투데이",
+     "related": [
+      "에너지타임뉴스"
+     ]
+    },
+    {
+     "title": "교육부, 어린이집·유치원 입소·입학 신청, 더 쉽고 편리해진다 - 경남열린신문",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlTUlWV016Y0N1aVB3ZEJlb1N2bDNOd3lYeWI4aGhqeWdDMXc3TFo3YU40bmRiNkFtMVlYdUtYXzNoNWtsejVSVi1UbkQwcGk1ZjhzVnM2enhDVkpQT1dBYV9ZcURzdG9GY200V3dVM3ZKMGdT0gF0QVVfeXFMUGVNSVZXTXpjQ3VpUHdkQmVvU3ZsM053eVh5YjhoaGp5Z0MxdzdMWjdhTjRuZGI2QW0xWVh1S1hfM2g1a2x6NVJWLVRuRDBwaTVmOHNWczZ6eENWSlBPV0FhX1lxRHN0b0ZjbTRXd1UzdkowZ1M?oc=5",
+     "date": "2026-10-15",
+     "press": "경남열린신문",
+     "related": [
+      "뉴스체인지"
+     ]
+    },
+    {
+     "title": "최교진 교육부 장관, 전북 학생 마음건강 지원 현장 방문 - 완주신문",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbFVIZGc0N0ZwckJSVV9zVmhoNXJfdkROOHBzMjZFM2U5akxveHFmSmg5bUEtSkZrSG5HemNaOXJ2bnpyMGdsREREcG9vdzBSRF9BSnllb0hkdWEwZEtN?oc=5",
+     "date": "2026-10-15",
+     "press": "완주신문",
+     "related": [
+      "이슈&전북"
+     ]
+    },
+    {
+     "title": "경남교육청, 학부모 대상 학폭 예방 토크 콘서트…해결책 모색 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WjJtV2NhSDdzZGpfVjdrbmV4VEliVFRRZkdmT2VtM0pCZEVHU05xLXd2UUNpUVJfTnF5Q0NPYWs1dmVfNnU2QnEtcjRlRFl1XzF1dVhYbW1JbkRHbjFISdIBYEFVX3lxTE96WjJtV2NhSDdzZGpfVjdrbmV4VEliVFRRZkdmT2VtM0pCZEVHU05xLXd2UUNpUVJfTnF5Q0NPYWs1dmVfNnU2QnEtcjRlRFl1XzF1dVhYbW1JbkRHbjFISQ?oc=5",
+     "date": "2026-10-15",
+     "press": "연합뉴스",
+     "related": [
+      "투데이N"
+     ]
+    },
+    {
+     "title": "경남교육청, 학교폭력예방 학부모 공감 토크 콘서트 개최 - 포인트경남",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6QkZHajR1QWpSZkxWaXlrcXhtSHVycTFoMHI4LXZMMHBRQVNWcVZRR0xXdkVsaDhhbHBpbmJ0cmhxeWVoZzEwaWtjWGVKdHFTUjNnWnp2QTV1NmFIYkJQUUVYem9nUFlKWUJlV2dnMkc?oc=5",
+     "date": "2026-10-15",
+     "press": "포인트경남",
+     "related": [
+      "경남일보"
+     ]
+    },
+    {
+     "title": "전북자치경찰위원회, 학교폭력·청소년도박 예방 위한 현장 중심 협력체계 강화 - 누리일보",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56RlZDOTVRZVVCNDVZcHRlTmE5bG9yZDBkV2xxOGZLSDdmQzZfcjVrMmIwdkZwQVJacDF4YlNGeEVCejJ4RzVDOTN4SUhSWGJyQXZ4NzZvVks4Z25L?oc=5",
+     "date": "2026-10-15",
+     "press": "누리일보",
+     "related": [
+      "웹이코노미"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[청소년활동 릴레이 기고] 우리 지역 청소년시설에서 키우는 인재, 대한민국의 미래가 되다",
+     "url": "https://www.khan.co.kr/article/202610150925018/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-10-15",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[HBR 인사이트]AI에 맡긴 혁신, 아이디어 닮아가고 현장 멀어진다",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261015/134851267/2",
+     "date": "2026-10-15",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[시론] 초등 3시 하교 정책과 6만 교사 대감축 위기 - 중앙일보",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RNElfRnFnTjNjT192bzVSMHIyZmw1WUVtcU0tdjc2M0JTNXlBeDhGdDgwVjllSUNPOGF4T2FpTU8yX3B4Y2c3b2gxV3RBOTl2SjdLOThR?oc=5",
+     "date": "2026-10-15",
+     "press": "중앙일보",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
