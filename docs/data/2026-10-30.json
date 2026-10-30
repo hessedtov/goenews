@@ -1,0 +1,487 @@
+{
+ "issue": "2026-10-30",
+ "built_at": "2026-10-30T10:53:01+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "[속보]“파하~” 정겨운 웃음 짓던 ‘국민 아버지’ 배우 최불암 별세…향년 87세",
+     "url": "https://www.khan.co.kr/article/202610300049001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "동아일보(서울)",
+     "title": "친구의 원인 모를 죽음… 어떻게 이해해야 하나",
+     "url": "https://www.donga.com/news/Culture/article/all/20261030/134935936/2",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "경기 버스 노사 임단협 ‘극적 타결’…시급 3.2% 인상",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261030500007",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청, 경기형 보이텔스바흐 합의 위한 100인 토의 개최 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ZERzRjh6dVo4b1pfemtQQng2SUp4OVY1UFJUME1GVmJ4QnF6Z3B0bkY4a2UzbWV2ZEdOUVRFMnpIdTRha2poaEZKc1dzeU9fR1c0OGlyNlNpVmFScTlMU3htQ29ybFgxX2d3ZUFJQ25RQQ?oc=5",
+     "date": "2026-10-29",
+     "press": "웹이코노미",
+     "related": [
+      "경기평화신문",
+      "뉴스잡",
+      "수원인터넷뉴스",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교복 입찰 담합 및 비리 근절에 강력 대응 - 모닝투데이",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EWHAxZm51M2lzTHhsdHBkR0lQWTZNWWFiX1gzVE1UYWZVRHNpS1ZyVjc0aGY4ODg4TXoxLWN4dC14MHM3cFdnRjBVNTM?oc=5",
+     "date": "2026-10-29",
+     "press": "모닝투데이",
+     "related": [
+      "경기연합뉴스",
+      "수원인터넷뉴스",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기도교육청북부연수원, '2026 AI·디지털 기반 교육혁신 역량강화 직무연수' 운영 > 뉴스 - 더코리아",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRW9zZVRaNmZJY1I0ZHI5Y0RIeVktU0Q1UlhIZElubW5xckkyMVdKRndSZDY1aFJRYkM3bnBBbVA1WmhGVG91b2pvbTNlVEJZTm4xUFNnRzY0NHFBLXFJajloVV96cjczOVlBNmxvV1JQQQ?oc=5",
+     "date": "2026-10-29",
+     "press": "더코리아",
+     "related": [
+      "경기평화신문",
+      "광교신문",
+      "성남포커스"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교육·보육 전문가 양성으로 경기형 유보통합 박차 - 베이비뉴스",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvSXVmb0lISHhxY09KNlRPaUZqcF96ekxJbWJqalVDaDNqcFBGUUdNTm1VZG1tSVdMMnJpVl94SXFSYW93TUJvUWhpb0gyRXR0VlNNYVFFcVVCR3JOeXpMUF9vRERESFhSdTRKMQ?oc=5",
+     "date": "2026-10-30",
+     "press": "베이비뉴스",
+     "related": [
+      "뉴스 따옴",
+      "뉴스잡",
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교복 입찰 담합·비리 근절 대책 마련 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SUVh4OUNaY2I4akRuRW5xSVNSYnk5TEFabTRCOHd4dndINXhLblBTbDNOalJRU3p1TDJzdGJkUnBMWURnSkJUeUZfcExYaUVhZ0U0NGFJamVFakFEa2NyTWhkb0NPeDQtbm8zal94azF3UQ?oc=5",
+     "date": "2026-10-29",
+     "press": "웹이코노미",
+     "related": [
+      "메트로신문",
+      "내외뉴스통신"
+     ]
+    },
+    {
+     "title": "안민석 교육감 \"황현필 강연 취소 요구, 한마디로 '후졌다'\" - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VDFUQUNQcUN6MVlyTWZLUkJMaks4R09vV1V0Mkc3ejBONXJSTEJoWjJ0MEEtWHNPbXBpb0gzb29Kek9seU9oQVNrNUg0MllwODdYLThPRVRqQU3SAWBBVV95cUxOMWlHTzNvXzNwcTdXeFpCRVZtQ2NRdjdqX2hpb2FsdjJQMmwya1lTOFR6U0dkZFl5QTdGWC1YLUdTSmVWM3pEU2NmTDFMM1BCcDN0aG1PTlMyR3VsNW04U0o?oc=5",
+     "date": "2026-10-29",
+     "press": "연합뉴스",
+     "related": [
+      "SBS 뉴스",
+      "KBS 뉴스"
+     ]
+    },
+    {
+     "title": "경기도교육청북부연수원, 초·중등 교장 100명 대상 AI·디지털 교육혁신 연수 - 인천일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81TFp0dWtPWEk1c085SFZ3eXJPc3ZoWkpZVkttWWkzYVNUWXkyMHBsT2pDdXRIdzAyN2N4V3lVWm4zaGNDMTR2Tk1yS0g3VzVqcnNfaVYxNlJ1U012dW5hZXdhM2dkRFJUUndZZGxwWEU?oc=5",
+     "date": "2026-10-29",
+     "press": "인천일보",
+     "related": [
+      "경인미래신문"
+     ]
+    },
+    {
+     "title": "경기도교육청-EBS, 학생의 주도적 배움과 전인적 성장 위해 손잡다 - 서울매일신문",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmMGFKeV9RSmFKQmw1S3FUYWdkZG5Wb3c3R21rb3VZQ29sMDlLRkFKRkVuZ3p3Yk9xeWFVTXFuMHJ6endxcUZqdld0Q0dQRlRxcnExRkFnS3FXTEFaWlpuY0xEVFR1YzNVVDJF0gFrQVVfeXFMUGYwYUp5X1FKYUpCbDVLcVRhZ2RkblZvdzdHbWtvdVlDb2wwOUtGQUpGRW5nendiT3F5YVVNcW4wcnp6d3FxRmp2V3RDR1BGVHFycTFGQWdLcVdMQVpaWm5jTERUVHVjM1VUMkU?oc=5",
+     "date": "2026-10-29",
+     "press": "서울매일신문",
+     "related": [
+      "사회적경제뉴스"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청, 교복 입찰 담합·비리 근절 나선다…25개 교육지원청 신고센터 운영 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vSElwVUNlWjEzTkJxYXJyUXdsSU85ZzdDX2ZsLWJCY1hVU2FrSnVqRGdITUlORkZNY1dGdzlGWUQwRXRiVzlkRkRXb1p6WmJweEdWMWRuT0xNdDA?oc=5",
+     "date": "2026-10-29",
+     "press": "경기일보",
+     "related": [
+      "인천일보",
+      "기호일보",
+      "한국사회복지저널",
+      "오늘뉴스"
+     ]
+    },
+    {
+     "title": "경기도교육청, 양주·하남교육지원청 분리·신설2027년 9월 개청 목표 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TlhlbzBvS0p0MEtMY0Nsa040WmRwc3p3Unh4QlE1bFNIa0ttR3EydlV3SFMweFQwaGhKSC1jZWkwU19ZYmNqR0hlUWZDOGZDSlJuSURrZF84VzlPdldoY1VB?oc=5",
+     "date": "2026-10-29",
+     "press": "경기신문",
+     "related": [
+      "네이트",
+      "더팩트"
+     ]
+    },
+    {
+     "title": "경기도교육청, 교육자치 대전환! 교육지원청 분리로 시작하겠습니다 > 뉴스 - 더코리아",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wYmN6ZkZfM1RrdnFqeWlHRE90S3QyT3d1ZGRNX2FFejV0QkhmVUdYNzJ1ZWFTTnBwU3ZwTFp4M3lYVm4xbEE5SUlNR1ZraWpKdHlsY0RfTW5hSkNTUkhJbUh3eWdRWFpiUG05aU1mQl9Edw?oc=5",
+     "date": "2026-10-29",
+     "press": "더코리아",
+     "related": [
+      "경기북부탑뉴스",
+      "뉴스 따옴"
+     ]
+    },
+    {
+     "title": "안민석 경기도교육감 “양주·하남교육지원청 내년 9월 조기 개청하겠다” - 서울뉴스통신",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zVGZNSVBKcWNBdjI3Xzl4QU5PeXUzV0VNejVtUTJNVzY2eEhsb2FsVW95WFdrZkZLVVBSN0h4OGtOUl9fSENRM0JmM0xraUZzWnA3UzJuVEFleWF6TTQ5QTd2VC1ESVk5TDB3?oc=5",
+     "date": "2026-10-29",
+     "press": "서울뉴스통신",
+     "related": [
+      "아이뉴스24"
+     ]
+    },
+    {
+     "title": "파주교육지원청, ` 경기교육대전환, 교육의 본질에서 학교의 변화까지 크게 제대로! ` - m.newszoom.kr",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAyRmNQNkgtMVRFU2kxVVJWc2ZWbzR6Z1BYYXZpVGJhUGZTeThqbFlUcU1aWmpaZnVYb2Y0M3hnSEhmYlp3?oc=5",
+     "date": "2026-10-29",
+     "press": "m.newszoom.kr",
+     "related": [
+      "경기인터넷신문"
+     ]
+    },
+    {
+     "title": "광명교육지원청, 2026 폰프리 스쿨 중간 공유회 개최 - 누리일보",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CQlQ1ekxEUnphWjFzMnVSSmtSVWxobzhJZFpUM0tNQUNubkNTSzZnX0FBSlU0dVU3TTZMX3E3MnpEbWtmN0JhX2cwMW40Y0RWLVBoOWozaDF1SDlXLUtJ?oc=5",
+     "date": "2026-10-29",
+     "press": "누리일보",
+     "related": [
+      "중앙뉴스미디어"
+     ]
+    },
+    {
+     "title": "군포의왕교육지원청, 중학교 단계부터 고교학점제 진로·학업설계 지원 강화 - 엔디엔뉴스",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WVkh0YnVLMkhISTQyX1E0TmZkZXZIb1JfdXpvR2V0Tl9NWUtHR0Z3RVFxdno2ZnFPY2NZdTN1Tl8tcnJ5a2V6XzhocG5VZTBQbmhleV9RUk5iRVBYNk1jVUNtcVVhRzdmTXpMS0cwT3g5UdIBckFVX3lxTE5WVkh0YnVLMkhISTQyX1E0TmZkZXZIb1JfdXpvR2V0Tl9NWUtHR0Z3RVFxdno2ZnFPY2NZdTN1Tl8tcnJ5a2V6XzhocG5VZTBQbmhleV9RUk5iRVBYNk1jVUNtcVVhRzdmTXpMS0cwT3g5UQ?oc=5",
+     "date": "2026-10-29",
+     "press": "엔디엔뉴스",
+     "related": [
+      "한국글로벌뉴스"
+     ]
+    },
+    {
+     "title": "양주·하남교육지원청 신설…내년 9월 개청 목표 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1veUEwaUZsNzhIeDZGNzZiSmtTbk01VkNoRUticVZJUzg5RTNRMVJ4V19aakNQcy04Z0ZlWTFCMjU1MlVVbWc1OEJCYnA4R1J0d0hvb1RvcHNNd0nSAWBBVV95cUxQdWh1SkxxNUF0ZWxZU1J4bGNiMnluQ3pVdFdZN3dKLWo3NVE5eTRlU1hCUVdVdW5XZzA5T3RxSHNMemtNdmJ6YzhwUklaQkJJWjFBX3FWMm5McjZnaVVJNmg?oc=5",
+     "date": "2026-10-29",
+     "press": "연합뉴스",
+     "related": [
+      "기호일보"
+     ]
+    },
+    {
+     "title": "경기도교육청 양주·하남교육지원청 내년 9월 개청 '속도' - 열린뉴스통신",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01OXM5RVdVVlBmUlJibzNvU0xmSnE3Q3dPWXhIYUtwV3VFSTMxNFNsNEQ2VmNLcVVyd1RfZjF0V3pHdFZHNUpUamlzTVFUcVBzUzFfNmFCSUNobnhLQ2JZYklZNzNIQQ?oc=5",
+     "date": "2026-10-30",
+     "press": "열린뉴스통신",
+     "related": [
+      "내외뉴스통신"
+     ]
+    },
+    {
+     "title": "안민석 교육감, 동두천·양주에서 타운홀 미팅, 교육지원청 분리로 교육자치 대전환 - 서프라이즈뉴스",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYTHJBUTBVZVp4VXFDakljTl9DRUo4RHUwcFNXS1Z2M1Q5ZGtFUmlDVGI3S1JNX3V2eFlxblpLNkhQMGtZcGhEVlhCSkxpeUtXYmw4MXBnRDNPOHdqUEFKVzVkdlp2cmk3Yl9RclJR?oc=5",
+     "date": "2026-10-30",
+     "press": "서프라이즈뉴스",
+     "related": [
+      "화성저널"
+     ]
+    },
+    {
+     "title": "파주교육지원청, 'RAS 스포츠 ON'으로 스포츠교육 일상화 현장 펼쳐 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RNXF4VnJfYk53ZTRVZTh3VWdrWWdBWElobnUyUjQ1WFpVRzNwMEl3elhUeXZTVTEyYVZZbmlFOW5JaS1WdnEzQUVfbzBhZFE1RkdMNnBKbGdUaDgzWHJMSkxUcw?oc=5",
+     "date": "2026-10-30",
+     "press": "경기뉴스원",
+     "related": [
+      "경기헤드라인"
+     ]
+    },
+    {
+     "title": "양주교육지원청 분리·신설 확정… 내년 9월 개청 목표 - 문화일보",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lemZrN2Jaem5tRy1LWkRXUmRMTlhpYXliVGNOUzBvZEg4aGI2ZFdfcGtTY3BVc09XTFBIMXpLZ1N6Q2VFNnVxMGhvQkxKcW82?oc=5",
+     "date": "2026-10-30",
+     "press": "문화일보",
+     "related": [
+      "프레시안"
+     ]
+    },
+    {
+     "title": "당진교육지원청, 신성대와 ‘다문화 바이오공학 공유학교’ 운영 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53cWQzeklST3ZiMk5pVThpU3c4ZXNYOUF5YVN5MTdiRkJWeVJUQ1YySU94UmdKUWdFTWJmVEhzbXVvY1BsVUxqT2RDakg3cDBtS3BtMjhONlZxazE5RXNCREhnVQ?oc=5",
+     "date": "2026-10-30",
+     "press": "경기뉴스원",
+     "related": [
+      "중부시사신문"
+     ]
+    },
+    {
+     "title": "경기도교육청, 2027년 양주·하남 교육지원청 개청…31개 시·군 분리 추진 - 인천일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92T2Jkc2U0UTkySDVNYVJuZjJhTHFmcmhRMzJaRUZGaFBnYXAwaURsV1J6bElEMnFZNW5rLVFyUXJXSkRNYXBTWFZ5R0p0clVGXzdkWk1NbmJKWGUzSWVVQW10OVpONUxGZi1kT3o0NHE?oc=5",
+     "date": "2026-10-29",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "경기도교육청, 2027년 양주·하남교육지원청 신설 추진 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15M0ZldjJWdlJLR3FqMEgyMWhoQlg5TDhUck0tTFF1V1NjMVM5UDRhNnFKbFZvLUwyd3M4d1NYMG9HMjJCVm15cnpkQy0xWmZUYXBRYkE4S1JUQnZDM05LSWFDYkdOVnF0TkxQZHRDYzM1QQ?oc=5",
+     "date": "2026-10-29",
+     "press": "웹이코노미",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도의회 정석원 의원, 양주 단독 교육지원청 신설 확정...지연없이 추진되도록 끝까지 챙긴다 - 경기평화신문",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJQkJJSU1aLVY5c21PSVpybHlQUzlQcFU3R2xadUpzV1p0anZVOXZGOEs3blc4ZUc3a3JMQnJTc3BDTkNpVGY4T0FR?oc=5",
+     "date": "2026-10-29",
+     "press": "경기평화신문",
+     "related": [
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "교복 입찰 담합 의혹…경기도교육청, 전수조사 착수 - 한강타임즈",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90ZDdCd1FIRzlEOVJMZldMYXZRbUE1dExtNElLZnhueVNoamJ3SjJSdUtDZ3A4Z2xYNzJkNWNPN0o2VHBCZ0RLeUlWTS1Ray1jSlJYZEZ3aU5uOVlqSk9oWWFwYmxLMDR5LWRr?oc=5",
+     "date": "2026-10-29",
+     "press": "한강타임즈",
+     "related": []
+    },
+    {
+     "title": "황현필 강연 취소요구에 안민석 \"후졌다\"…경기교육청 덮친 이념 갈등 - 머니투데이 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05SGh1dDFkQ1ZEVHJoWG42eVNDUDhfZDV0ZzRlNEpENXF2enRpRzFpR2lsVHVlWjNJWGg4Rm9KNy1TWEQ4TFJyR19WdmNyc0gxNFVSdmthQ3hZa09ycm00VDV3SzN6NHlDZ294NzNfUdIBb0FVX3lxTE05SGh1dDFkQ1ZEVHJoWG42eVNDUDhfZDV0ZzRlNEpENXF2enRpRzFpR2lsVHVlWjNJWGg4Rm9KNy1TWEQ4TFJyR19WdmNyc0gxNFVSdmthQ3hZa09ycm00VDV3SzN6NHlDZ294NzNfUQ?oc=5",
+     "date": "2026-10-29",
+     "press": "머니투데이",
+     "related": []
+    },
+    {
+     "title": "경기교육청 교육예산 순위 공개 논란 - 시사통신",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5reVBRX2JZdHl4N1R3ZUExZkI0aDhabjRWNjZyRDV4akhNRTdmU2wyLWFlNWxBRlpETU00d0IwSmt1RWR2TkVyYU9uSHZoNTZTcXAzWHA0MU5wLUlWR055VDhkZmY4N1lB0gFrQVVfeXFMTUtsdmVtb0o3bUZnZVQ4LTR1NFZhUWFUaFJVTW9mZFhVM2FoMjNjbXZUYXpDN21uVzJBRDNLWEtVQmJkdEZuN1NLX1c0NmZjTUtkQ2l6M2NNQ2dObXdYVEhEUGlKUXhzYk50cG8?oc=5",
+     "date": "2026-10-29",
+     "press": "시사통신",
+     "related": []
+    },
+    {
+     "title": "“6.25 미국이 일으켰나”…경기교육청, 역사관 논란 100만 유튜버 교육 강행 - 매일경제",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tdlVYSldqZW04NW9VcEV6QmUwNVhYQ2c1TTRKVmFiS0ZyNkpwRlh0T2N6d09Jc1dnbnFpZk45TVdMc2JaV0E?oc=5",
+     "date": "2026-10-29",
+     "press": "매일경제",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "울산교육청, 교육부 평가 17개 지표 모두 통과…성과급 3억7500만원 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJSEtkckVFa3VRR0ZYRkpkUlREV3lSSmFkMDdicjc5NjdWbnVvUUJyOTNQRE5FRjhVQ28temxoblBORjljcmxUSWN6cFN0M05iNUE?oc=5",
+     "date": "2026-10-29",
+     "press": "뉴스1",
+     "related": [
+      "잉크뉴스",
+      "울산매일 - 울산최초, 최고의 조간신문"
+     ]
+    },
+    {
+     "title": "\"칼 들고 가겠다\" 학폭 부모 폭언…남편이 여교사 살렸다 - 네이트",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qYy1FZm53LUdHS0kyT2pFcWlVRzY5MkNnanNVN1BIdEw1SzJzXzE0MFJ3azVoZE5sQUtxR2dIVWhLdlU5MndYTi04MlpRYTR1VnBZ?oc=5",
+     "date": "2026-10-29",
+     "press": "네이트",
+     "related": [
+      "중앙일보"
+     ]
+    },
+    {
+     "title": "대구시교육청, 2027년도 예산안 4조 3,301억 원 편성 - 미디어투데이",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zUjJZQTA0LUNjX3lnVDcxOUhka3VzbDJ5OFlnbFZkaFEwWlpPa0lnSEpOdE9sUUczdFNSOGg1NmNiRVRTZ1lLNEl3?oc=5",
+     "date": "2026-10-29",
+     "press": "미디어투데이",
+     "related": [
+      "시사뉴스"
+     ]
+    },
+    {
+     "title": "대구시교육청 내년 예산안 4조 3301억 원 편성 - 대구노컷",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iekpYOUQtTlQ2ZmU2WjFNWGp5OWFlbzMyeFZSMkVwNXZHX2FxbV92cTl0MzE4ZU1ESnA1VFlSMTgySV81andsUFRrUzhwd192?oc=5",
+     "date": "2026-10-29",
+     "press": "대구노컷",
+     "related": [
+      "아시아뉴스통신"
+     ]
+    },
+    {
+     "title": "경북교육청, 교육부 평가 3년 연속 ‘전 지표 통과’…교육행정 역량 입증 - 프레시안",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OWHE4RkM5NnJQM2kyeFEzaS1udjlnV285eXJLMXFQdEhUVUNjUGlRWXFFT2NtS1B0M1FHdWFlUDR3Z1FvUXlqVWxRUjd3ZFptbUJsdVc2SjdhWHkwVkFFbV84YVo2QXJvdjRZ?oc=5",
+     "date": "2026-10-29",
+     "press": "프레시안",
+     "related": [
+      "한스경제"
+     ]
+    },
+    {
+     "title": "울산교육청, 교육부 17개 평가지표 모두 통과…성과급 3.7억 확보 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMGU2d1MzVzVzRWVVS0x5TU1aRDl6VXZEYkJRNDFoRXZ3ZVBkYzlrVm13TTEtNE1pOWFlb0hHcG13TW9KVFlsLVNRdG5rNWhwRHpjVXpTeEJYeTBLS2ZDTWZ2VHNoNHotRXdkV0Q5R1ZyS3hsbTlBd9IBeEFVX3lxTE9lMGU2d1MzVzVzRWVVS0x5TU1aRDl6VXZEYkJRNDFoRXZ3ZVBkYzlrVm13TTEtNE1pOWFlb0hHcG13TW9KVFlsLVNRdG5rNWhwRHpjVXpTeEJYeTBLS2ZDTWZ2VHNoNHotRXdkV0Q5R1ZyS3hsbTlBdw?oc=5",
+     "date": "2026-10-29",
+     "press": "뉴시스",
+     "related": [
+      "울산신문"
+     ]
+    },
+    {
+     "title": "경남교육청, 동부권 중학교 학부모 대상 고교학점제 설명회 개최 > 뉴스 - 더코리아",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ocGszSldQWFEzeGtLX0JMa1RSUGRjN3k2elZUV1FzTlFHN1Y5QmZGcFlfVGV6SDNmN2tRWnNlRXZGS2JpQnI3dkthcFVlLXpMbGUxcl82ZXlEUzJMWm5ZUGNhem9fSzdOSzhPanhFbEpLZw?oc=5",
+     "date": "2026-10-29",
+     "press": "더코리아",
+     "related": [
+      "쿠키뉴스"
+     ]
+    },
+    {
+     "title": "사천시 삼천포고, 3GO 수학체험전·고교학점제 박람회 개최 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02UUhtZF9DdnFGeWRpZ0FhT3lyaFdwZzJEZTVoYmpIR3BuRk5kbVUxOW9NMzlNMEZTREQ5clF3dGZVbk80czExUDh1dlp2WGRWMEhSaHRQcVBGQ0dKaWZaLWJaakdteHlfMWZXLW5qNzR3UQ?oc=5",
+     "date": "2026-10-29",
+     "press": "웹이코노미",
+     "related": [
+      "미디어투데이"
+     ]
+    },
+    {
+     "title": "운중고, 폰 프리 스쿨 선언 ‥ 사제동행 슬로깅 - 분당신문",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KTmJtaWxSYzZXc3RhazJ1S2JGVE5oZDFrOWN3dXdXVjNXS3ZpLXNFN1Y2X3pRWHJhaHRialR4cEZIYkN0OUtaSHBBVQ?oc=5",
+     "date": "2026-10-29",
+     "press": "분당신문",
+     "related": []
+    },
+    {
+     "title": "교육감협, “교육 지원 ‘현금 살포’ 아냐… 교부금 감액 기준 재검토 필요” - 한국대학신문",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVHJGMGJ0WEtCcFFHbmxkUzVTN3JYYXd6bVV5NHUxZ3pxQXVwblItNUowejBPOVJpYmpxU2Uwa0xwSEpVQ1hyc3dFdGRNdVIzRHBNUWFPX2lZS2dsQmw5S0FVcXRSUQ?oc=5",
+     "date": "2026-10-29",
+     "press": "한국대학신문",
+     "related": []
+    },
+    {
+     "title": "교육교부금 개편 강행에 교육계 반발 격화…준법투쟁 경고 - 충청투데이",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SaktYUmZuU2JMbkNacExST2JVcTBWZ2pHSEJpZ2REeHhRc0E3REE5UjRhS0diNjluaVgxa1FxaGdSTGZNa2U5UGpMcVRtaURQMTZ2N0JJcmJ2VThzcGZvLU5WcHZVejRKaG5kVUJB?oc=5",
+     "date": "2026-10-29",
+     "press": "충청투데이",
+     "related": []
+    },
+    {
+     "title": "대한민국교육감협의회, “교육지원은 ‘현금 살포’ 아니다… 불합리한 교부금 감액 기준 개선해야” - 시사뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRelFEaTAwTVd0a3U2cXdJMmtjLU9wWWRkRGp1aFA3dkJUa0I1RHpqR1dmcjQtdmQxX0ExTmNheWwzOUtXRUtpSGlRTV9SY0pqRWwtWDl0U2VMYUZXRE8zSjh6bw?oc=5",
+     "date": "2026-10-29",
+     "press": "시사뉴스",
+     "related": []
+    },
+    {
+     "title": "전북에듀페이 줄었는데⋯내년 교부금 삭감까지 ‘불안’ - 전북일보 인터넷신문",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBldFJWTWlScS1aV1dncmpNeTJsdWs3MklkcFZFUGMzdzlUbHlhOW1mbllCQ0M4ckpmSjA3TXN3Z2VWaFlJQTNyc0EwU3hZMUFOR3FPeHB1blbSAVhBVV95cUxQZXRSVk1pUnEtWldXZ3JqTXkybHVrNzJJZHBWRVBjM3c5VGx5YTltZm5ZQkNDOHJKZkowN01zd2dlVmhZSUEzcnNBMFN4WTFBTkdxT3hwdW5W?oc=5",
+     "date": "2026-10-29",
+     "press": "전북일보 인터넷신문",
+     "related": []
+    },
+    {
+     "title": "대구교육청, 내년도 예산안 긴축 편성..지방교육재정교부금 개편 타격 - 교육언론[창]",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yVHloQzRQUWVYRFhXWTM0U2p3T0ZvT21iZXlnZ2VQQjUtazNwbEw1R3ZHWlBsNVQ2LTRVUEJobDlWNjVOSE5CWE1pel9DSkZFR1FTMmFRYnc4ZXFpSkpWRG1XYm0xTzRCVUVnN9IBcEFVX3lxTE1YWkNXYUJqdWVqMktKT3RYUnMzNkNqUkVzZk9DdUxRaGdYSWJYUk5XaDhLa1hIVlBrQXJuWTBBWFJ1ZDY1eWFlM1AwbFA2SkZnbWpWRjdDT1FBSm5RYXN2RjhpOVJ1em1yVlp3NUl3aV8?oc=5",
+     "date": "2026-10-29",
+     "press": "교육언론[창]",
+     "related": []
+    },
+    {
+     "title": "교육감협의회 “현금성 복지 이유로 교부금 대폭 감액은 재검토해야” - 경북매일",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13RWJ1U1M5Mm1pOW90bG1XODVLNVZSbHRieEVkemZNV21rM2J1RzlmZmNNQW9jVWhMTTlpbnlMNzBPTnRaMVZLdTJ2aGJldnJYcTVFTHhmQ1FYQQ?oc=5",
+     "date": "2026-10-29",
+     "press": "경북매일",
+     "related": []
+    },
+    {
+     "title": "\"불합리한 교부금 감액 기준 개선해야\" - 충북일보",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DM0ZNS3dNVE5wTDN1aUpDTWxoVk40bFktc3RubGZhX0xxN3pRa1hmcmhLdzdnWDhLUjliaTl6SU1QRzBNcDhCenVoVnhYNFJ4N1NyMktJZ1ZPOWxGUlVkM3hB?oc=5",
+     "date": "2026-10-29",
+     "press": "충북일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[사유와 성찰]교사들의 밥상",
+     "url": "https://www.khan.co.kr/article/202610292009005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-10-29",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[사설]수능 부정행위 대응 강화, 현장 혼란 없도록 만전 기하길",
+     "url": "https://www.khan.co.kr/article/202610291815001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-10-29",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[청소년활동 릴레이 기고] 체험이 키우는 청소년의 미래, 한일이 함께 열어가자",
+     "url": "https://www.khan.co.kr/article/202610290925018/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-10-29",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[HBR 인사이트]실적 경고, 일찍 알리고 해법까지 제시하라",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261029/134935971/2",
+     "date": "2026-10-29",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[특별기고] 세수는 느는데 교육재정은 왜 줄고 학교살림은 왜 어려워져야 하나 - 뉴스핌",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2ZHVINjJOc1ZqaXlZVHFuRGhRZnNFVzdOT3hWRE1vUC02TWdvSi03YjRvcmh2eXZULWJBaWpHTlg2dXZoVFRneGRZR1BBV0VlV0tETGQ4SzJMTV9h?oc=5",
+     "date": "2026-10-29",
+     "press": "뉴스핌",
+     "related": []
+    },
+    {
+     "title": "[사설] 학교폭력 관계회복 정책의 실질적 성과를 기대한다 - 경인일보",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00SXg3a0wxdk5PTUtCODF0eHo4bGhhOXZMY1FWRjZHN0NPQXpwZnZsNG1XZTRfVExaYkhyb2ZMeUVadGowYnFRNFBmVUh1X0c1RUE?oc=5",
+     "date": "2026-10-29",
+     "press": "경인일보",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
