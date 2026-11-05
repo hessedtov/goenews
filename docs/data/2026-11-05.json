@@ -1,0 +1,470 @@
+{
+ "issue": "2026-11-05",
+ "built_at": "2026-11-05T11:17:20+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "경향신문(서울)",
+     "title": "이대로 두면 7년 뒤 추락···NASA “허블망원경 살려줄 사람 없소?” 민간에 ‘SOS’",
+     "url": "https://www.khan.co.kr/article/202611050600001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "approx": true
+    },
+    {
+     "press": "서울신문(서울)",
+     "title": "“AI인 줄”…대치동 미모의 국어 강사 “모든 SNS 없애겠다” 호소한 이유 [이슈픽]",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261105500001",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청, ‘교육혁신선도지역’ 선정된 연천·양주에서 지역특화 교육사업 본격 추진 - 뉴스피크",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bFpCd3h0Zk1XRTZyNkY0Q0ZxZC10dWQyTjFtVnlia0MyTEJPdHo5b28yRlczYUlYQTgzRkkxQVJyUTJacWZWTEx5RG5fZGhoLWFCaVhkY1NLWXUzdDIzTWhaQkRzSm5x?oc=5",
+     "date": "2026-11-04",
+     "press": "뉴스피크",
+     "related": [
+      "더코리아",
+      "데일리연합"
+     ]
+    },
+    {
+     "title": "고양, 우리학교! 매일스포츠! 경기도교육청 '벽깨기·라스(RAS)교육' 의 모범사례 - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XM2NkY1AxcGRqV1I1eENIX2VPRFdSZjdlZTg4dDFITTZsdFlMSmJ3RTJyVVVKR3NHc0wtOVVPV25VZkxHUVVhcnhCeEhOLVV5UWFSeWFqUS1MTkFxSUwxZFctMA?oc=5",
+     "date": "2026-11-04",
+     "press": "경기뉴스원",
+     "related": [
+      "한국시사경제",
+      "경기in"
+     ]
+    },
+    {
+     "title": "경기도교육청 \"연천·양주 '교육혁신선도지역' 최종 선정\" - 뉴스핌",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10a190Y0lxZDRGamJsMGxHcDhFd1lQV3M5OFRBZnVBYksyQ0Z2Znc0TGY1blh0cjk1cnlSWmE1WkJZdXV4bk1xWEhPOUR4dENBWkdRNF9IdEhWRk93?oc=5",
+     "date": "2026-11-04",
+     "press": "뉴스핌",
+     "related": [
+      "전국매일신문"
+     ]
+    },
+    {
+     "title": "경기도교육청, '교육혁신선도지역' 선정된 연천·양주에서 지역특화 교육사업 본격 추진 - 매일타임즈",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OZkdTM2RJdWcyZ0FIQVF5d2FIZTB4aV90Njh2ZHlLZ1FuZVlxMEM5NEdncEgyMDU1elM2UFpYN1YwdTNucE5OaXlrTk4xc0J3U19kLTdtX1JNLVVBQkx2cmNvdUZyQmRS?oc=5",
+     "date": "2026-11-04",
+     "press": "매일타임즈",
+     "related": [
+      "컨슈머타임스"
+     ]
+    },
+    {
+     "title": "경기도교육청성남도서관, 책·문화·참여 활동 잇는 연말 특별행사 운영 - 일간투데이",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEVDVYNy1zTDZQSHNBSU9JR1NGbEwxVWNUODFDenZoRU9tNHZLVnRDQlh1UzAzWVJ6RGc1dExVUkZ1NzlFbFpSTmlPYTZGeDBvZ0VzZldzeHRfb1dmQThrRDhuUFhXQVE1Uk5B?oc=5",
+     "date": "2026-11-04",
+     "press": "일간투데이",
+     "related": [
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기교육청, 2027년 예산 24조 7772억 편성 - 교육연합신문",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWdDc3RnlJOHNVcXA0VkV1Mnp2RmtLQm54SF9pYmZ4R0hsUHJuV1BqVUpXUnoxVUxEb1VWcGdDdzl4OEFicEk4VWJrMzFESmpFTUFRSDdkRmlzaVRm?oc=5",
+     "date": "2026-11-04",
+     "press": "교육연합신문",
+     "related": [
+      "화성신문"
+     ]
+    },
+    {
+     "title": "경기도교육청, 연천·양주 ‘교육혁신선도지역’ 선정… 경기 북부 교육격차 해소 추진 - 천지일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nRmVrUjJyUmpjSVY5ZzY4LVdGbVZhMk5UZ2V3eE1IWWVtX0hHNmJSS2dGdGJlRzRwZTU0MGlBMEpuYkdLS0VMZGZ4RGxlNzlXQnJ5TTBUXzNkSVdZeVhHVU1rQWRaYlJaX2c?oc=5",
+     "date": "2026-11-04",
+     "press": "천지일보",
+     "related": [
+      "비즈월드"
+     ]
+    },
+    {
+     "title": "연천·양주 교육혁신선도지역 선정…경기도교육청, 지역특성 반영 추진 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwbGV5RDFjSV8zSHJzdU9qVmxBdFI1U2tMNEhLVHpzWVdTZjVvbWZqWnd4M1lSS0FzTEUzcjVheWgyWUozMzZQSkhNNHBPSlNKNlQxc0NR?oc=5",
+     "date": "2026-11-04",
+     "press": "뉴스1",
+     "related": [
+      "파이낸셜뉴스"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "곡성교육지원청, 교육부「교육혁신선도지역」최종 선정! - 교육연합신문",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ldDR3X0p5SHpzY1VFUHB0SmJxQ3kzNXA5STlMTVpXZy1GQmRWa0NwajRKckpZRVZMZ0tlQmM1cEp2VVNXWlR3X24weVRxUTlhaFVldFpwXzhFblJH?oc=5",
+     "date": "2026-11-04",
+     "press": "교육연합신문",
+     "related": [
+      "더코리아",
+      "뉴스프리존",
+      "구미뉴스"
+     ]
+    },
+    {
+     "title": "이천경찰서, 신하초등학교 교통안전 및 학교폭력 예방 캠페인 실시 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ySWlTVUFGclFPVGFaMWZ3TlEtVE82TEtidW9qY1BMUTkyVDVmazFpOE00aXNnUjM4YnJaVF9tZ3lOVjR1aDc5UnMwejNfNzBvenpfMnhOek5IX2c?oc=5",
+     "date": "2026-11-04",
+     "press": "경기일보",
+     "related": [
+      "하나로신문/일보"
+     ]
+    },
+    {
+     "title": "용인특례시, 올해 교육 분야에 ‘845억 원’ 투자",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336039",
+     "date": "2026-11-05",
+     "press": "인천일보",
+     "related": [
+      "기호일보"
+     ]
+    },
+    {
+     "title": "\"스마트폰 잠시 두고 눈 맞추자\"… 오산 가수중, 관·학·민 합동 '폰프리스쿨' 캠페인 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SNlNWRDZxZ09kUnlWVUlJWEQ1b0ZDQzFNbHh0QXY5enp1TmUzQlhSenR3dEZpSzFkRWxYNnM5eE8zZ2RjWlpaQ0dmVFkxM09YTVhxVF9UOG93cXhBRkxzS2pn?oc=5",
+     "date": "2026-11-04",
+     "press": "경기신문",
+     "related": []
+    },
+    {
+     "title": "오산 가수중, 지역사회 연계 학교폭력예방 및 ‘폰프리스쿨’ 캠페인 전개 - 인천일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BbHJBVUlsbjlWblhNMWVaVnBXQ19RaU5Vc3VmX0RmcWRSeWZPd2t0c0FFZ3JTTFZjMnoyRGdBcHJQaTNlVXBlb0dOV01wTTNMTG1NWG5aZzZCbGx3aURaQmV3SEUwMjVXM2dlbExxTXo?oc=5",
+     "date": "2026-11-04",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "의정부호동초, 3U-RAS+로 열어가는 폰프리 호동스쿨! 학생자치회 주도‘꿈나래 시화전 감상하고 빙고하고!’전개 - 검경일보",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81R2JyZmFtbEI5SF9JTmZjbGw2cjRvblY0U3pqQklJaTh0NFdOaFFjV2QxX1VuXzF6clkyV3MwQ2hUTGVmZ1EwLWRLeDg2MnNJdE5aVklubEdINVo1LUpsT1Y5cU5tdw?oc=5",
+     "date": "2026-11-04",
+     "press": "검경일보",
+     "related": []
+    },
+    {
+     "title": "“스마트폰 끄고 친구들과”…수원 매탄중, 참여형 프로그램 호응 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zT3JiNFVQVmtIbXVyS3R3MkhjZ3NZUFltdThTTGZsS1hoQUFVc0FBMF9UQVVkOHI0eDM1ekxuYWYtaXN3cjFLZk44aS1PcDZGbXB1V0hnTU42TVk?oc=5",
+     "date": "2026-11-04",
+     "press": "경기일보",
+     "related": []
+    },
+    {
+     "title": "전국 교육감들, 교부금 개편 절충안 제시…증가분 일부 국가 투자에 활용 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyd2tRbnRvcmNFNnZ5ZGNyajhnOWVPMWtSdDVKTk42c0hzTWRUZDZPQlA4ODh2a1duZ2ltTHdQYV8yWVY3MDhVR3I2bThFTDdqZTE2V28zeW45dG9jZUdCLWFn?oc=5",
+     "date": "2026-11-04",
+     "press": "경기신문",
+     "related": []
+    },
+    {
+     "title": "고성교육지원청, 교육부 교육혁신선도지역 1유형 최종 선정 - 미디어투데이",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13aksyeWVsWjRvVFkxblN0S0N0R25mMm1qRGNqa19rMFAzSUl2Q3U3TEdad2I0enZOZ3RCalVWb1JjUHdhaG1tUlBn?oc=5",
+     "date": "2026-11-04",
+     "press": "미디어투데이",
+     "related": []
+    },
+    {
+     "title": "대전서부교육지원청 청사 신축 교육부 중투심 통과 - 아시아뉴스통신",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtbmhoS1lyMkcwOWhqUnNuaFJFdFNHeF9POHl5WDlranEzTFVBdXJrXzNwMXdGZXo0R3l0RG1OVThuLXlheEctY2ZOQTZnd04yd3ROTWZkZjFDSWhZSWVvMXlLZDJFNGpKRURmX3dyZDdFLW9X?oc=5",
+     "date": "2026-11-04",
+     "press": "아시아뉴스통신",
+     "related": []
+    },
+    {
+     "title": "강원특별자치도태백교육지원청, 교육부 2026년 ‘교육혁신선도지역’ 최종 선정 - 미디어투데이",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrcXNPajlFV29sem91TklWcUR3eFNRbExxUmM3ZkV3dUJEVS1OTTdUZ25QY0NHcDJsNFZJQ3JvNVYtNmx6VmVtUWhn?oc=5",
+     "date": "2026-11-04",
+     "press": "미디어투데이",
+     "related": []
+    },
+    {
+     "title": "대전서부교육지원청 청사 신축, 교육부 중앙투자심사 통과 - 모빅경제",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55V2lXZF9TZlpFbHVGSndzenV1TG93Vk9lNjk4RnRFSkpLMVpaNFpaTlAwVUt0cy1jUXBoa0MzRlJkbndyWW5QZ1ZBLVNOTTZoeTJmMnRMdVJ6c1BDd3A4SjlIMl9HZi1OcXRsRGJ6bmw?oc=5",
+     "date": "2026-11-04",
+     "press": "모빅경제",
+     "related": []
+    },
+    {
+     "title": "안성 청소년 3명 중 1명 학교폭력 피해 경험… 실태조사서 드러나 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jUlg4amdUenlMdjJadmdZQjRRS3ZsbjVsaUluM2UyRmdIdjlpam9xZE1JV0NqT2taQnNiWV9zb2tsNUt1Ulg4VW8wSGMzTk1DOEI2NzhJaE5QaXBxaG1iRFN3?oc=5",
+     "date": "2026-11-04",
+     "press": "경기신문",
+     "related": []
+    },
+    {
+     "title": "순천 금당중, 학교폭력 예방 캠페인 - 광주in",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQnZZSTlRN3ZuOHF0TDF3UWZ6WDhjbXlac1Zvb2xjT3RwdWhqWXQ0MnVnLURxbm1HWnJvZGhlaGxLVnNsbFpmVWpXZkV2WHR0ZVUxaVE3dXVyWlNFTDlycnV1SDctVUNpOXNhdw?oc=5",
+     "date": "2026-11-04",
+     "press": "광주in",
+     "related": []
+    },
+    {
+     "title": "이천경찰서, 신하초 통학로서 교통안전·학교폭력 예방 캠페인 - 서희신문",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zRVRVY1JtT1YwWE5wNUNfRlF4cnM3YXAtOXlDNFdRMGVWd3lObTNodDdkRzNzRFdsdGMwTHYxZjh1VmlOeDVFX2V6THR6dll2bjBZdk9QbG5YMTFyUF9JbXdrLUtqUU9wSkl3aw?oc=5",
+     "date": "2026-11-04",
+     "press": "서희신문",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "경기교육청, ‘2026년 을지연습 우수기관’ 선정 - 환경일보",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNEtvaUdNQ2M0UlEzU1BHUS1aa0RYOFg1WkJoTW9paFRuMWNDb21RcUF0SEttYzdRMjFNNnlpdGk4T0FrUG9xSnBSNTAxUlp4M2Qwd3E0RDA3VkpFTC1VNjRhT1ZMakpW?oc=5",
+     "date": "2026-11-04",
+     "press": "환경일보",
+     "related": [
+      "정도일보"
+     ]
+    },
+    {
+     "title": "'경기교육청 황현필 강연 논란' 두고 안민석-국힘 도의원 '설전' - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSUlyaUJvS3cwbi1wZFZVbzdqaF9GNTk2ZTN5bDJSYlBWRmtpOGQ1OTU2R09fRHB3UDZQUzRUSnpQTEUwRjQyRlBVMkhQY0Z3dFJMcGJWTzBiSG_SAWBBVV95cUxQeFZ5ZkRTVEctYjVfdVJmLXpGWElrdHN1dFBScjZFRGoydUt2MDh3UU00b2tuRGpMQU1FbFpZM05WTG9GZHRySVN6dmFPWnNuUzYzM1hRalRfNS1hc0V6a3I?oc=5",
+     "date": "2026-11-04",
+     "press": "연합뉴스",
+     "related": []
+    },
+    {
+     "title": "경기도 시·군, ‘교육예산 줄 세우기 논란’ 정면 비판’…도교육청은 “정정 계획 없어” - 중부일보",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90RE9RNkFnbHFOQkN0MHUzZFl2WFRuRGl2LTNHazlsazFKM0NfYkVYSFc3cU9zcDVrN1dNQXktX3RPNEszcjJBb1Zsc3dRUmdjUFgwMmtKX2xnWExWSGZoSm1Cb2R5VDFCYUpkV2U1SQ?oc=5",
+     "date": "2026-11-04",
+     "press": "중부일보",
+     "related": []
+    },
+    {
+     "title": "\"그거 틀렸습니다~\"…박승원 광명시장이 경기도교육청 발표에 반발한 이유는 - G밸리타임스",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11TzQ0bUYtQzZtcmh1VjFBWm9iTFc2eWQ2bzNNd0R6T3loN2xXUi1EUmZIdW5VS1NxWVRha3BULU14c3EwU2UwMVpPcVNrbnhseUx6S1VkN3Q1RWVneHpaVmluX1pwTGdhNWVMX0tR?oc=5",
+     "date": "2026-11-04",
+     "press": "G밸리타임스",
+     "related": []
+    },
+    {
+     "title": "경기도교육청 ‘교육예산 줄세우기’ 후폭풍… 도내 시·군 “통계 왜곡” 반발 - 뉴스체인지",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JdmpIZUwtdVFEQjdPUkl0Zk9MUW5DQVNlUUxMVWt2UXJINTRMSjFhYUxxSEI2aTkxS084LVNuWl9OM05uWUJaS21wTQ?oc=5",
+     "date": "2026-11-04",
+     "press": "뉴스체인지",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "대전고·대전이문고, 전국 학교예술교육 축제 교육부장관상 수상 - 백제뉴스",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRbzlIUlI4VG5Pc0xHYmxONXhrcE5ibVFIb3dsN2pscFVlaGMzV2JpTno1VUFsd3YxWlBtWEtXbVEtdlNieFV0SzQ4azFLRzIySmVBUEh6a3JNY3FwQ2xsMWIzMjZyVnZBVm5DMA?oc=5",
+     "date": "2026-11-05",
+     "press": "백제뉴스",
+     "related": [
+      "뉴스티앤티",
+      "위키트리",
+      "충청뉴스",
+      "아이뉴스24"
+     ]
+    },
+    {
+     "title": "순창군, 교육부 ‘2027년 교육혁신선도지역’ 선정 - 전북금강일보",
+     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMU2Z6ei04Mk9rMFNRR09ackJmcEcwQzRrdF9kcWpEb185N09nb2w4Vkg3Z0VmLUV5X3ExbXJzVS0?oc=5",
+     "date": "2026-11-04",
+     "press": "전북금강일보",
+     "related": [
+      "호남타임즈",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "대구 달성군, 교육부 '교육혁신선도지역' 최종 지정 - BBS불교방송",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QeWZyYmM5VHhIVDRidG55RlhUa2owVk1EOUNTdHNsZkw4MWZLZnB2NVJvX0t1a2wxRkdLQ1FaRlk4UldoeFpBMFp6aTQ2VEJwU181RWQyemJKaG5ZN000WUtISXkxVU92ODRz?oc=5",
+     "date": "2026-11-04",
+     "press": "BBS불교방송",
+     "related": [
+      "브릿지경제",
+      "한스경제"
+     ]
+    },
+    {
+     "title": "김현우 서울시의원, 신종 학교폭력 ‘야차룰’ 대응체계 점검... 교육청과 실효적 대책 마련 모색 - 문화매일신문",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjM2Z2UkdScDY5b3cxWGRGXzZhcTFNSmxhWklldE4xbGM2cTZVajR4a2R6dEdDbDc3TGNGUHpNQ0JTbDRlaHFfWVFR?oc=5",
+     "date": "2026-11-04",
+     "press": "문화매일신문",
+     "related": [
+      "서울신문",
+      "웹이코노미"
+     ]
+    },
+    {
+     "title": "교육감협의회, 교육교부금 분담 상생안 제안 - 경인일보",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01M19hQ0ZVMklScWZ5Q0o5RGxKbmpOUHRFVjdjVUpvcWloeEJIeU5CeFpwalBpUG1lcDBGZkdQdjN4b2w4eVJOaVp1UkdZVl9FMHc?oc=5",
+     "date": "2026-11-04",
+     "press": "경인일보",
+     "related": [
+      "동양일보"
+     ]
+    },
+    {
+     "title": "서울시교육청 내년 예산 11.8조…“교부금 개편에 사업 축소·조정 불가피” - 미주중앙일보",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSERxblcxUFg3QWp2N0RBaVcwcXdJYUcwMDYwM09xNExFdi1fWmxFVzR6THlwSlFNR3h1eFl6QXJEa1F6cHhVeDUtUThTbExJMm9LXzJ5YjZ1aHJCRmptNGV3?oc=5",
+     "date": "2026-11-04",
+     "press": "미주중앙일보",
+     "related": [
+      "중앙일보"
+     ]
+    },
+    {
+     "title": "교육감들 \"교부금 5% 넘게 늘면 초과분 국가와 분담\"…상생안 제시 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CMEFjMlVveHRFZmRfZmFKZ09FbXBaNHFkdjZ3blZKdXhrZ3JScHNTQWVWazJpaklNeWp6QURFMWxpMS01R2hKRFhyd3BCN3c0V0dBSUJ5VEZEUQ?oc=5",
+     "date": "2026-11-04",
+     "press": "뉴스1",
+     "related": [
+      "스마트비즈"
+     ]
+    },
+    {
+     "title": "대구시, '교육혁신선도지역' 선정…5년간 최대 40억 특별교부금 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wYlRIMkV5TVFBbnVQckVWaEJpOXVnVkkxM3liZWFwTnItMlZVNzRGV3dHYldXNEtmWkVpZUI2a0hnQzUzRUt1VFo4bFVFdEVwTnhZZklBUmJZMGxHYnJN?oc=5",
+     "date": "2026-11-04",
+     "press": "뉴스1",
+     "related": [
+      "이데일리"
+     ]
+    },
+    {
+     "title": "대구시, 교육부 교육혁신선도지역 공모 선정…5년 간 최대 200억 원 확보 - 이로운넷",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PT0dVbGZpamlDeEduMFh6YV9UazdhanN6dTZMaFItUHRZcXFGaE1NSG41WERKcmhqOW04Um00MzRNMlN6aUltdENPeDRwSGFtOG1JTGRfSnB6dGp6MlY5R3dGWkd2Zw?oc=5",
+     "date": "2026-11-04",
+     "press": "이로운넷",
+     "related": [
+      "아시아뉴스통신"
+     ]
+    },
+    {
+     "title": "영광교육지원, 교육부 ‘교육혁신선도지역’ 선정…영광교육 새 지평 연다 - 교육연합신문",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBscjduM3VVVk5KRjVFWlZ3cVVGejZibFF5a08zREVCd05VNVRwR0hnMDUwd3Jab0h0WV9XSWRRSGhuTGIweEUwaEdEcEN1ZFNDWVlfeE5mTzBZbVhs?oc=5",
+     "date": "2026-11-04",
+     "press": "교육연합신문",
+     "related": [
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경북교육청, 교육부 ‘농어촌 참 좋은 학교’ 공모서 도내 3개교 선정 - 이로운넷",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1INVdwQzlvTXdFNlJrLXFUT183VWhXMHhMbjFiU3BvYkJlSWx0M2F4OFdOWDdiWlJSZ2JUdG90d3N6Wm1uYzhsdmx5Rk0tUnNKQ25rVm5waUh5UTVudnhNaVdKVmcxUQ?oc=5",
+     "date": "2026-11-04",
+     "press": "이로운넷",
+     "related": [
+      "데일리대구경북뉴스"
+     ]
+    },
+    {
+     "title": "완주군, 교육부 '교육혁신선도지역' 선정…5년간 100억원 확보 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5INVM1REhnSUtFaHVnc1ZCa3BuUTRfay1FTHFmb3Z6WHh2TnpheGNaRk5hemNLUjI0UGlHY21oVkp1N1ItWFdzTVBlcHBXb2pyZ2I5cw?oc=5",
+     "date": "2026-11-04",
+     "press": "뉴스1",
+     "related": [
+      "펜앤마이크"
+     ]
+    },
+    {
+     "title": "대구시·교육청, 교육부 ‘교육혁신선도지역’ 공모 선정…5년간 최대 200억 확보 - 펜앤마이크",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQ0t2ZGxsZEpicE96Q0FwRjRiRFZyaEk1OWZINWxHSU15S2duamI4eFBKTVRwenNMQmJ2bXJqV1FEemg3VWRkNzhURnRGc1RzTndRbnJJd3pkZGpZRHQzYkxabHdrLTVWVzlB0gFvQVVfeXFMTS1LZjB0RFhuQ0xlSlR5WFNNVVVZeF9UbEpfREhPMjg0OFNKb3VDYmlGa2pQWVFQMFU4UmxDOU9hMG44NUVCcUotLWFVTHo2anhObW9YendELUhwLUZMaF9FNjZyZ2x4X1o5VVNwVEVB?oc=5",
+     "date": "2026-11-04",
+     "press": "펜앤마이크",
+     "related": [
+      "세계일보"
+     ]
+    },
+    {
+     "title": "남해군, 교육부 ‘교육혁신선도지역’ 최종 선정···최대 100억원 지원 - 스마트비즈",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IUnItMGF3WjNQUUZIM0tRRFlmUF85eHpERUZjU3o3SmlhZ0s1U0l4YmpqR01QMFhST1VvVGdpT3JqZVptekRiRGNobHBBemV5VHZfbUxLenVXeVc5VF9OejVEYk1FVGlfNFFzOQ?oc=5",
+     "date": "2026-11-04",
+     "press": "스마트비즈",
+     "related": [
+      "프레시안"
+     ]
+    },
+    {
+     "title": "박수형 도의원, ‘고교학점제 시행 2년차, 현장 목소리 듣는다’ - 전북도민일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xNjhua3NzM1ZsalZ1RGVtbVJPeHZESHZpVW44QXYyQkhlbW1zTFpVaXNRM2pqSzZZMHlWaEotSldjcnoyVmJMYTljNnc3TENiU3ZyVVB6ZWhLZzlOeVFFc0xoYmZRR2VpckE?oc=5",
+     "date": "2026-11-04",
+     "press": "전북도민일보",
+     "related": [
+      "전북엔비전"
+     ]
+    },
+    {
+     "title": "국립 공주대, 늘봄학교 전문인력 양성 2차 심화 연수 운영 - 충청매일",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00X3RYQ1RNaHpsT3gyMjl2T0UzTTQ4VWJhQ24xVnJmNkNqUml6QkVycmZfZnl1N0lwa0NLNG5DSTVIOUtRMDZBc3ZpbHU2QmtzM01zZ1V1UVhmUXRtT1JCTW1tY0tvVTUxOWc?oc=5",
+     "date": "2026-11-04",
+     "press": "충청매일",
+     "related": [
+      "중도일보"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[역사와 현실]파리는 불타고 있는가?",
+     "url": "https://www.khan.co.kr/article/202611042015015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-11-04",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[교육 돌아보기]우선 지원은 영유아 교육에, 대학은 공평하게",
+     "url": "https://www.khan.co.kr/article/202611042012015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-11-04",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[사설]청소년 SNS 제한, 플랫폼 책임 강화도 함께 논의하길",
+     "url": "https://www.khan.co.kr/article/202611041810001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-11-04",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[사설]냉장고 해킹 유럽서 확산… 韓도 ‘IoT 공격’ 일상화 대비를",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261104/134968328/2",
+     "date": "2026-11-04",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[사설] 교육혁신지역 탈락 후속책 잘 만들라 - 제민일보",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNGk2cm51WDZUU2pjNDlSREZJRTFRbUNBWVNkNG5ZZ0ZiVHR0VjB1bzVVWVpPdmtZMGV3MWFaVm9WbjVTOVozOUd5Z2hmeVpOTXVnNEdQYzVyTWI3MTNwUTJCRzV4bW8?oc=5",
+     "date": "2026-11-04",
+     "press": "제민일보",
+     "related": []
+    },
+    {
+     "title": "[청소년활동 릴레이 기고] 청소년에게 ‘오늘’을 돌려주자",
+     "url": "https://www.khan.co.kr/article/202611050925018/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-11-05",
+     "press": "경향신문",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
