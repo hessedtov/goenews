@@ -1,0 +1,416 @@
+{
+ "issue": "2026-11-20",
+ "built_at": "2026-11-20T12:01:49+09:00",
+ "sections": [
+  {
+   "name": "주요언론 헤드라인",
+   "note": null,
+   "items": [
+    {
+     "press": "서울신문(서울)",
+     "title": "산불에 잿더미 된 영양 숲…하늘다람쥐 6마리, 인공둥지서 새 보금자리",
+     "url": "https://www.seoul.co.kr/news/newsView.php?id=20261120500010",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도의회 의회운영委, 경기도의회·경기도교육청 행정사무감사 실시 - 경기뉴스광장",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yMmJ6LUxwVWozZUpUWnpuSlozS28tM1RjSU85M0tMYkYwZWQtcnpDUzIxazA4ZEhRbHB0Q0NWN0JLb0pSbURyeDV0VTc1V0U0RDdxSTQ5dmFONnhjSXoyeWtB?oc=5",
+     "date": "2026-11-19",
+     "press": "경기뉴스광장",
+     "related": [
+      "경기도뉴스포털",
+      "시사일보"
+     ]
+    },
+    {
+     "title": "경기도교육청, 제1형 당뇨병 학생 지원사업 전국 최우수 사례 선정 - 군포시민신문",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wLURPdXRUN3dqYmROR29aWkNUUTFtOUhJbkxtaW5FVDdraTdEZDZYOTVia1FTSWpLOVFqMUFUa0Y1OG9ReU9JOURR?oc=5",
+     "date": "2026-11-19",
+     "press": "군포시민신문",
+     "related": [
+      "웹이코노미",
+      "광교신문"
+     ]
+    },
+    {
+     "title": "경기도교육청, '제1형 당뇨병 학생 지원사업' 사회보장제도 사전협의 '전국 최우수 사례' 선정 - 컨슈머타임스",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjamE0LWVSZUJCelpSQUhibzBPSTVlejdXZkF3cm5kNERsTlNBV182aHBpUGE2TFJlNGJNTE5xTGxhSkEzRkxjRlczSnVxUmVlTmNzZ0hENVI3MDNUNkZYSlEwa2xXZzE4dFE?oc=5",
+     "date": "2026-11-20",
+     "press": "컨슈머타임스",
+     "related": [
+      "수원인터넷뉴스",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기도의회 김태희 의원, 경기도교육청 ‘벽깨기’ 정책, 협약 이후 실행계획 구체화 촉구 - 투데이경제",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRZWZhajNTaEw2bGFSRG9CaG1lYTJucFBjSkhFbzBNU0dvaVQxVDBYajl3Y1Z1QmdsYXd6M0NCQThWdENidjVnTHNwSDVKblhkaGw0LVBURGFUc3ZSM2p6NEhzeG9LeU5FdU0w?oc=5",
+     "date": "2026-11-19",
+     "press": "투데이경제",
+     "related": [
+      "경기종합뉴스"
+     ]
+    },
+    {
+     "title": "경기도교육청, 제1형 당뇨병 학생 지원 ‘전국 최우수’ - 뉴스타운",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42ZmNMM0VwS0VVNV9hMlBoeV84REpUTFRHV194TGJPUjJsWjUyS01pQUhDaWpsM1VCQ1N0Vl9JY2wtbUtIWHlRRTVaRlhNd1kzaVZEUGhhZEZvTjFCbzhSc29NVzdMcFl2VUR2M2R3?oc=5",
+     "date": "2026-11-19",
+     "press": "뉴스타운",
+     "related": [
+      "데일리경제"
+     ]
+    },
+    {
+     "title": "경기도의회, 2027년도 도·도교육청 예산안 토론회...재정건전성 확보 방안 모색 - 경기평화신문",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ia082QVI3SUZjazI1QzU1T2JhSXFqcHVIcmIybU9DUG5TRXRkdTlTVk5PUUV2WVo4cmhaN0FrbWhKLWQ1M1pSUjdB?oc=5",
+     "date": "2026-11-19",
+     "press": "경기평화신문",
+     "related": [
+      "서울Pn"
+     ]
+    },
+    {
+     "title": "경기도의회 교육행정위원회, 2026년 행정사무감사 마무리 - 수원인터넷뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1jMm5wMnpiaWNOaF81MUhETWd3RWltYVo4Xy15ZjMxMEt0c0FaWE5zNVVscUFHNVdFY3ZVRnJCNDJSdkE?oc=5",
+     "date": "2026-11-19",
+     "press": "수원인터넷뉴스",
+     "related": [
+      "시사 앤 뉴스"
+     ]
+    },
+    {
+     "title": "경기도의회 송규근 의원, “지축지구 주민들은 개교를 기다린다... 경기도교육청, 이제는 실행에 나서야” - 경기핫타임뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RcmY4WlhfLWRxUnQ0QmlkdDh4WldibDJ5N2NuUmQ1Vm1fa3JZVWlhNkZzRndVNzlnY3ZXNGNrMllOMFJZb0VqMHpkQkdxRzBFWV9jNlp5cmRvNm0ySlhSMzJ0RjQtb2s?oc=5",
+     "date": "2026-11-20",
+     "press": "경기핫타임뉴스",
+     "related": [
+      "서프라이즈뉴스"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "교육지원청 및 학교",
+   "note": null,
+   "items": [
+    {
+     "title": "김현석 경기도의원, ‘과천여고 배정 개선’ 위한 교육청 TF 구성 약속 이끌어내 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CbWZGR1hkaGhnczhYVkhrYS1la1MzbVVVcU1FdkhpNF90OU5paFgtaUdXR1AxeUwtR3hPZHNUd2d5RDh6MkNVY0VUbEZvRVlra2xDazNqSHNzMnc?oc=5",
+     "date": "2026-11-19",
+     "press": "경기일보",
+     "related": [
+      "성남포커스"
+     ]
+    },
+    {
+     "title": "경기도 수능 16만5천595명 응시…1교시 결시율 10.80%, 전년보다 상승 - 경기일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14NTF4Qk5tQy1QY2dLVTFCT0d4Zk9fY29fODl1d0dWa19qNUVJeGx1UEF3Q2ZYeml5X2dUYTF1R0c5U21SOG9Yd1RXWUJWNloyUXVlaHZESU5VMjA?oc=5",
+     "date": "2026-11-19",
+     "press": "경기일보",
+     "related": []
+    },
+    {
+     "title": "김현석 경기도의원, 과천여고 배정 문제 해결 물꼬, 교육청 TF 구성 확답 - 경기도민일보 미디어",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZLWdRcDBxbHBPczZTMUZiRVRUVlFpR2hkeDVWeEMwWUdOcWdpT0JVTGdGckJxZDZmYVpuOW45OWp6RU90RWZrU1ppQVh4dFdxT3VIOVVoWjJtdlVzMi14cXl3eGdtbUZVckE?oc=5",
+     "date": "2026-11-19",
+     "press": "경기도민일보 미디어",
+     "related": []
+    },
+    {
+     "title": "경기도교육청, 11개 교육지원청 교육장 공모 실시 - 교육언론[창]",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42MFFHd005TTJZRjV4Wjk2dVlsbXpVWFRtdkdaWGxOdnJMMjJrZGg5Q005enZRcGx0THM5Nk5IRE9kVVBpTEx0aUdSbzR2cHFNdTJOcnhvUmhSTEl4MFE5UXYyUldYaklWYTlCMNIBcEFVX3lxTE5HVFpJZDBnUkNqTW5yLWxQNG5SN2JrdVRiWjN3X2ZlT1huTWNiaTU1eGYteGlSaGV4N09oLUVYN08zTlhSRDhyNi1aejZnMnN1d05VZ3BSUXV4aTVNMFRBQ096THcxQWdtZGIwbzA3M2g?oc=5",
+     "date": "2026-11-19",
+     "press": "교육언론[창]",
+     "related": []
+    },
+    {
+     "title": "경기도교육청, 용인·평택 등 11개 교육지원청 교육장 공모…지역 교육공동체가 선발 참여 - 아시아타임즈",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53YmozUzFnZHJBOW4ycGNuSTZUYmgtSW9obkZLaXZPU3pHRzl6V2h5YWFvXzZZZFB0RlBHbDg2bHdzVVVxUDd1Q05OSkgtR1d5TEUwUG9tT3d5UFJoSnc?oc=5",
+     "date": "2026-11-19",
+     "press": "아시아타임즈",
+     "related": []
+    },
+    {
+     "title": "경기도교육청, 11개 교육지원청 교육장 공모…지역사회 참여 확대 - 메트로신문",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tLUl6TXZxc21ORHhQT21BYXgwaHhhRVRYV2I5SGpKWllMMGpDVUo4Qk1FSVhLTGdwV2dxWjMtU1NGelMtODdKYk1faVV0dExQbzdNaHl3VG4wQlZOTWk3Yw?oc=5",
+     "date": "2026-11-19",
+     "press": "메트로신문",
+     "related": []
+    },
+    {
+     "title": "신리초 학생 362명, 등굣길서 ‘폰프리 라스 온’ 실천 - 용인시민신문",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQVJEUFV3djI1RUsxanhnc3I2eW9FRURiTU5mdjVqZnZ3XzNXTmNBbXR1RHF1OUxYaWJEMkU1X0k4R25HR0tVRVdkY1hqai1Wd25TV1Q1LVZXUmhxR2p6Z0FQRXF0dzNnNEJ6WQ?oc=5",
+     "date": "2026-11-19",
+     "press": "용인시민신문",
+     "related": []
+    },
+    {
+     "title": "용인 신리초, “폰프리 라스 온” 등굣길 캠페인 운영 - 국민기자뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CMEZ5cFJMQU5mdnB1VUJRR3k5cDNPanRIdHJUYVFsdmFVajF5T1VJWDkyYXJUVVpOUHAwbjhNRGx6X1RVYXRqbVhyMnQ2djJ6aDc5Q0lZT29iOUVqZGwzUWttYlRVTHfSAWdBVV95cUxPQjBGeXBSTEFOZnZwdVVCUUd5OXAzT2p0SHRyVGFRbHZhVWoxeU9VSVg5MmFyVFVaTlBwMG44TURsel9UVWF0am1YcjJ0NnYyemg3OUNJWU9vYjlFamRsM1FrbWJUVUx3?oc=5",
+     "date": "2026-11-19",
+     "press": "국민기자뉴스",
+     "related": []
+    },
+    {
+     "title": "군외초, 관악오케스트라단 공연 등 ‘늘봄학교 성과 발표회’ 및 ‘급식 공개의 날’ 성황리 운영 - 전남광주교육통",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pRHJBei0tZkJSWU9IWEswdnFZM3E5NzM0UWhLSGd5Nkx2OXRDRTBBYjVrYi1vcFVmVlg5MnFhZ1kydHpILUxOZFJqYWJNRHR0ZUREUWpqZVE3dnhrSTgtSzVab2NVQzZm0gFsQVVfeXFMTXFkSFdwMEhCMG1hbEFhcF83RVZ0Mmg4VmV2M1dsNTUtUUhVWXRPRFphdHlBYlAzNmVqZHRJZ0g0Y3I5dHFjM0Zqc0lENlUxRWV5b0hjcXJVWVdnZXJJaWtRZFptMllwRWJrbktu?oc=5",
+     "date": "2026-11-19",
+     "press": "전남광주교육통",
+     "related": []
+    },
+    {
+     "title": "동부교육지원청, 학교 49곳 시설 정비 - 인천자치신문",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSeUU0ekdFQmtTRVdzRjQ2SEd1YlhWc3Q3M0VxVERMZGg3N0doZ0FRc3lGTkVaVUVBY2NxcjJDV1VOaEFOMGt1YjFqaFBpWU1YZ0k2RXpQd2RFUXZGZnpLWlNEeG9fbEE?oc=5",
+     "date": "2026-11-19",
+     "press": "인천자치신문",
+     "related": []
+    },
+    {
+     "title": "고령교육지원청, \"2022 개정 교육과정부터 진로교육까지, - 시사일보",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2LTU0ZDB6b0swSVJQYktja3dDVktSYTFXeU1yanRqWFNLQ2NCWUdiYlRKd3pZWUNDQWNyUzNYaUVnck8ydWNPbTItaFU?oc=5",
+     "date": "2026-11-19",
+     "press": "시사일보",
+     "related": []
+    },
+    {
+     "title": "영주교육지원청, 2027학년도 대학수학능력시험 대박 기원 격려! - 경기뉴스원",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HQXdqQ3plMWxYUm4zVEVPTjg2U0F5X1ZwQVQ4WFlTRG9hNEkwRmRmMlBSR05kem5tdzZkQjdNT2tRR1Q3Z1Fxa3NaUlY4RTB6ZUZjOVBVaHhJYzczbzdHbTVVSQ?oc=5",
+     "date": "2026-11-19",
+     "press": "경기뉴스원",
+     "related": []
+    },
+    {
+     "title": "성남교육지원청, 학교도서관을 지역의 열린 문화공간으로 - 뉴스Q",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VcVpXeEwwUzFmdnB0VzU4V3lnZEwyV1ZIZVoxSkVBLUtOQTJJYVN0QnVtVzY4ZWVSaC1XTERzTUtaTjUzY0otXzhjdVpVOEFOVEtDMURNclJoOG9Cd19hM2FpRGhwdw?oc=5",
+     "date": "2026-11-19",
+     "press": "뉴스Q",
+     "related": []
+    },
+    {
+     "title": "[안성소식]교육지원청, RAS+ 과학·디지털 체험놀이터 등 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wRFZXeEJxSmRZSWZRbEM2Y1JkdEU0bmRMWmF6QVdFZk1wYUIzdV8zSnlJeER3cUhVVG5LMzRMWnBlc2JZT1R3UGM4a0NqNVdqOS1fbXVCV1IxcjBVQ0NZetIBeEFVX3lxTE5yRlBWOW1GMkNNWGoxX0hLZWhrQWU1Y080MUNiODlWS2dMRTFZNE5YSjJxY2c0NXFCTFVjXzhTM3hSczJFaDBqQ2E2M0FhaGZPY3Fka0xDVGVhQVpmZ0JTblh6UlVES3ZFVlF4RG9aVUhhNmtVMjQ4Zw?oc=5",
+     "date": "2026-11-19",
+     "press": "뉴시스",
+     "related": []
+    },
+    {
+     "title": "안성교육지원청, 공도초에서 학교로 찾아가는 'RAS+ 과학·디지털 체험놀이터' 운영 - 뉴스Q",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KU0VINzRHQjRyZDY0VmlGQkw5cDlqWDJfcHd5cnI1clNMZnQ2UjlkWnNsYWhvNVpaR0xxdjZqOFhsWDVZaWtDbG5iZzNIZlBBSklSamR6TlBsUExXRXl6RXYwdlc?oc=5",
+     "date": "2026-11-19",
+     "press": "뉴스Q",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "경기교육 이런일이",
+   "note": null,
+   "items": [
+    {
+     "title": "경기도교육청, 빈틈없는 수능 시험 관리로 부정행위 조기 적발…즉시 비상대책 가동 - 광교신문",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xUVo5X282QV9faGp6UU04cDR0V0k1X1VxNlNiNXp1UjY4NmNrdWxUNXBJVGpmZUhjYXRZc2ZHMUFGQ3RTd0JCMzIzeUloWndqUGtOUnZvVE1wYlpKeDR2WWtYM1JNTktF?oc=5",
+     "date": "2026-11-20",
+     "press": "광교신문",
+     "related": [
+      "도민연합뉴스",
+      "매일타임즈",
+      "서울뉴스통신",
+      "더코리아"
+     ]
+    },
+    {
+     "title": "경기도의회 운영위 행감… 교육청 반복된 개인정보 유출·의정지원 실효성 지적 - 천지일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91Uklpby1GbWMtNld5bVl1OEdkQzRKcG92aHdhb2tGZGxxaXRDR3JyV3BNakRlcnFDcDR1Qk84Y21fNlZYR0lMQkpVVDNTVTdYS0lVdzk3ZVhjaGVXYnJBUWktQUdFQndkY2c?oc=5",
+     "date": "2026-11-19",
+     "press": "천지일보",
+     "related": []
+    },
+    {
+     "title": "경기도교육청, 수능 부정행위 적발 즉시 비상대책 가동 - 웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBObUxmUGp4MUNmZU1odjRFeW9YX2FFZHJCQndlejBNTkd3QWwxamxhaEdWM3RYa0NOenhmeTB4bUpLSDFkdHZVRDVWRlJ6S1BmcXRfakRwSEdPU21FTEVhWlhodWZiM2FaQmRnZnRpNS1Xdw?oc=5",
+     "date": "2026-11-19",
+     "press": "웹이코노미",
+     "related": []
+    },
+    {
+     "title": "경기도교육청 안민석 교육감, ‘수능비상대책본부’에서 직접 현장 지휘 - 경기청소년신문",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51ZE5kMm1WRTVvcm13VUlud2Z3MnFmd3NKTFgwUnpsVFNZaHEwNF9iSkRLVFlnN09UTmZXeDdBay1aQnYxLUthSEdiUmEzSW5uQWdFYUs4ZUs1azNoYjhvMkdtQ3VDelNU?oc=5",
+     "date": "2026-11-19",
+     "press": "경기청소년신문",
+     "related": []
+    },
+    {
+     "title": "[전국포커스] 경기도교육청, 장애인 교원 선발 늘려도 채용은 감소… 부담금 1228억 - 천지일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tZkRIV3NuNU5OOTZyV183UEVWN2xXdjF1WVJ6a0xVeXZVOHBQYS1VdUFMdTBBSV9kYWlmUGFvOUM5T281RDc5WXVOSjVIdl9mTTduYS1yUmNzd3pXbWQtRXUtd2JUMzZNNXc?oc=5",
+     "date": "2026-11-19",
+     "press": "천지일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "교육계",
+   "note": null,
+   "items": [
+    {
+     "title": "대한민국의 교육자치를 여는 2027년 3월 1일자 지역 추천 교육장 공모 실시 등 - 사회적경제뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9xbVctdk5RQTVKd2NVV0lnN0hkVHF1MFZCbGtFZFlrcjN5YVRCZGpYTjgxZEtuTmpJWUtqMnlZZw?oc=5",
+     "date": "2026-11-19",
+     "press": "사회적경제뉴스",
+     "related": []
+    },
+    {
+     "title": "수능 1·2교시 종료…1교시 결시율 10.80% - 인천일보",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mcld4cFFFeFNkdWNYaG1ta053dHM3VlN3cVM5cE9lVVNRM0FVVVFBSHM1OFJCdE5haGFFVXhVLVVvUnhDaTRsWUh0MGdVczRxLWNCRVZWVnJqTE8yZDZ6b1RKOEk4VVd3YXJCVG1SSEs?oc=5",
+     "date": "2026-11-19",
+     "press": "인천일보",
+     "related": []
+    },
+    {
+     "title": "손곡초, 학생자치회 주도 ‘폰 프리 스쿨’ 실천 - 한국교육신문",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KdTdRZVFwWUZIUi1QMlZsN2tVNEtDZjRMbTE0UEVZU0NiQUNGXzF4T0YyYUc3RW96UG1IazRPZ0ZWeG9fSDdfTlBzRDNXNUsxVW9lRExLSzBfQlJaU0Rr?oc=5",
+     "date": "2026-11-19",
+     "press": "한국교육신문",
+     "related": []
+    },
+    {
+     "title": "전국민 휴대폰서 일제히 “삐-!”…수능날 수신 거부 불가 재난문자 울린다 - 매일경제",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Jb3dYY0ZQdkJEdklWRTU2dVdSQmFOS3QxWXRnc0JzeDhQUkNlR0dSSk9XQlpZeVJONER0X2xuQWlBM0NfaUE?oc=5",
+     "date": "2026-11-19",
+     "press": "매일경제",
+     "related": []
+    },
+    {
+     "title": "[나라살림 Q&A] 교부금 개편의 오해와 진실 - 대한민국 정책브리핑",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wWVdMUURMNUZUZHY4ZGVPRlhMQlBTM3A1a3VhTGJibWtXZTdhNW1CQzNpQjBDZHNzX1ZucVRQU04yNEItamxjcFJJbjdzV08wbEdmQ1lEYlpGQVh0d0dVV0N1ZXd4UEtKWXd2NA?oc=5",
+     "date": "2026-11-19",
+     "press": "대한민국 정책브리핑",
+     "related": []
+    },
+    {
+     "title": "교부금법 개정안 국회 심의…교육단체들 “졸속 처리 중단” - 한국대학신문",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZ3JwYklhN2V3YWNBeUhoYUl5aU1ITmJPZ01PMUdWTGFIQ24weWJGZVFyX3oxVF9aZ3NBbjEyYmJnVENKVklnWVpNRkllbmxXSlVpV2hScTNUYkN5RzZzX1pvY2lKdw?oc=5",
+     "date": "2026-11-19",
+     "press": "한국대학신문",
+     "related": []
+    },
+    {
+     "title": "박상근·서울의회, 55년 교육재정 약속 교실·통학로서 지켜져야 - 오토투데이",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tSU1CYlN1azZPXzhSMU5VZV85UHdVMnhwUHJfZXFqcjJEZzFIWHI3d2N4UWxBN2dRczE4TEVtdjlLb1ZtQnZDTThlVU53MnNVMDlOaUs1dEJ0MnhmUG82Mlo0WTgtWlRxa1RGQmNpaw?oc=5",
+     "date": "2026-11-19",
+     "press": "오토투데이",
+     "related": []
+    },
+    {
+     "title": "청주 학운위협의회 “교육재정 안정성 지켜져야” - 중부매일",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iVnJ1TzJVRTg5WGxnM0NnZFcwYUthWEZwaFg3WHJkMkdkZ2dMejZ0ZDdrZlZ5WmtSQzhjV3J3STJGeUhsRzBoUHZFa29rdzV5a0JLUUw1Rm5idnJkNS1ia203V0dYSmI3MXfSAW5BVV95cUxNV3VjWmRlU3g1c0VzUy02YTlPWTk0WUVfRTZILWtwMC1VdlRaa0VRNWFVYlZuUlp0Q3p4czJIZWpoVEZjTkZuTy0tRkIxbkszbk9KYnlxWU1mT3BzUEotWHBEcGRvZkNQNmpsYjAyZw?oc=5",
+     "date": "2026-11-19",
+     "press": "중부매일",
+     "related": []
+    },
+    {
+     "title": "세종시교육청, 보통교부금 재정특례 2029년까지 3년 연장 기반 마련 - 뉴스워커",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VMFFUaGtkWG5PMUs1VU5tdV9JNl9LZXZwTldVMUFfbkpOYzVVN0IxSXV3NzJZVTQxRUJjWmo2d2g0WU5GUWQxRlRJODgxVTVnTksweW8xb3ktcTRuTFVJRmxXdUd1U0hiWXVpTmhEcWd6VTY30gF0QVVfeXFMTVUwUVRoa2RYbk8xSzVVTm11X0k2X0tldnBOV1UxQV9uSk5jNVU3QjFJdXc3MllVNDFFQmNaajZ3aDRZTkZRZDFGVEk4ODFVNWdOSzB5bzFveS1xNG5MVUlGbFd1R3VTSGJZdWlOaERxZ3pVNjc?oc=5",
+     "date": "2026-11-19",
+     "press": "뉴스워커",
+     "related": []
+    },
+    {
+     "title": "세종시교육청, 보통교부금 재정특례 3년 연장 청신호…안정적 교육재정 확보 기대 - 뉴스충청인",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90SWk0MDNFcUN1bHRoM1N1OENCcEZSRFlRRGhfNlhFOXo1Tjl6UmtNMWRWUFp3dk5qSGc1T2IzS1BIVElTZ2c?oc=5",
+     "date": "2026-11-19",
+     "press": "뉴스충청인",
+     "related": []
+    },
+    {
+     "title": "박상근 서울시의원, 교육재정·통학로 안전 대책 촉구 - 핀포인트뉴스",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vcktheXJQcHRUdTl0eDJxek1DOXJkVlBfVzU1NU53LTZscE9WeHZNVndDWWhEY0hGWHExa21IS1hwNVdCOHlFcXZrb2pOaGZqLUJ4bGNQb1RLS0l4bUVoWW40bFFROTRmd1lnY1ZkRm5QcXVSQ0dF0gF3QVVfeXFMTm9yS2F5clBwdFR1OXR4MnF6TUM5cmRWUF9XNTU1TnctNmxwT1Z4dk1Wd0NZaERjSEZYcTFrbUhLWHA1V0I4eUVxdmtvak5oZmotQnhsY1BvVEtLSXhtRWhZbjRsUVE5NGZ3WWdjVmRGblBxdVJDR0U?oc=5",
+     "date": "2026-11-19",
+     "press": "핀포인트뉴스",
+     "related": []
+    },
+    {
+     "title": "박상근 서울시의원, 교부금 개편 위기 속 예산 혁신·통학로 안전 촉구 - 서울신문",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOXzBGT1NPd3RVQkZhZTV3dU1CeG1rd2RpbC1qRGV5anlJZHNhRm1BUnltSjlSNjdOTnppSzhLMkFOTzAwZkJyQXRJdmlQQ2NEc2Nv?oc=5",
+     "date": "2026-11-19",
+     "press": "서울신문",
+     "related": []
+    },
+    {
+     "title": "세종시, 보통교부금 3년 연장 추진... 2029년까지 교육재정 특례 확보 - 충청뉴스큐",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wUU9hWlZfRkJrTkFHODNWQTVHWVpKbHlpcWt2MDUwRFhCM0NkMDllbWV4azF2bmJHcGJXS1c5UEVNYzJFNEFNTmJpV1JUUjVsWkxwYnhMNUc?oc=5",
+     "date": "2026-11-19",
+     "press": "충청뉴스큐",
+     "related": []
+    },
+    {
+     "title": "[단독] “보통교부금으로 달라” 교육청 요구 외면…디지털 특별교부금 3년 연장 - 교육플러스",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5STzM1eFBNdVl6ODNEQjczS0Fpd2dDU2hxTUk4bWdsdl9KNTRFaUVWeHdLMmtGSW1NOFBBTlNSbnlfeW96cGpwLWdhampMaDZ0Y3hYX2N2MzdkMTNVU0RlNk4wd1ZYQ1U?oc=5",
+     "date": "2026-11-19",
+     "press": "교육플러스",
+     "related": []
+    },
+    {
+     "title": "박상근 서울시의원, 교육재정·통학로 안전 등 서울교육 현안 점검 - 포인트데일리",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04RHZPUi1rV2ZrY3ZOX1ZUMlNVYWRQNGppQmpLV2lORm1hNk1sMlV3OFlsenk5R0tsNEppeHRfR2JCRVo1cWdKa092X1Zuam9mbmQ2TDdWYmpRTUZ3ckdsQUsyTDVCQzJPZjlhR1ZPNm_SAXRBVV95cUxNMFFjemVaVlVfbS1DZ3A4UXhEc0NWNExQckpES1VTMWRuSElydkxILUxRQzJKUGlYaGZDTkU4OWozLUFkRkVUY2JCeGdRMWpLOEVUd0tiTlQ1UTJ2MXJTZHVWVTZ2X0lNemVfZkVRY0ctLW1IUA?oc=5",
+     "date": "2026-11-19",
+     "press": "포인트데일리",
+     "related": []
+    },
+    {
+     "title": "충남도의회, ‘교권·학생인권 갈등’ 해법 찾는다… 충남형 교육인권 제도 추진 - 매일일보",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WVGc1YnM4ejQtUHVxcWJSUThSczdBSngxbTNuVjllakxVVV9jNjE4MnV1anhmM3pLS2RmV0pkRnJCeDRGcDhsM3ZRbHFVdzF6bmdiS2tPZERtX2U0YkRnWjc2dDU?oc=5",
+     "date": "2026-11-19",
+     "press": "매일일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "사설 및 칼럼",
+   "note": null,
+   "items": [
+    {
+     "title": "[사유와 성찰]죽음교육이 필요하다",
+     "url": "https://www.khan.co.kr/article/202611191959025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+     "date": "2026-11-19",
+     "press": "경향신문",
+     "related": []
+    },
+    {
+     "title": "[동아시론/이석재]AI에 흔들린 시험 공화국, 교육과 평가 다시 설계할 때",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261119/135057494/2",
+     "date": "2026-11-19",
+     "press": "동아일보",
+     "related": []
+    },
+    {
+     "title": "[사설] 재난 문자가 수능 부정 방지에 쓰인 기막힌 현실",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363743050",
+     "date": "2026-11-20",
+     "press": "중부일보",
+     "related": []
+    }
+   ]
+  },
+  {
+   "name": "[기획기사] 경기 교육",
+   "note": "경기신문 금요판 교육전문 섹션",
+   "items": [
+    {
+     "title": "[경기 교육] 스마트폰은 있어도 활용은 어려운 고령층…경기도교육청, 디지털 문해교육 확대 - 경기신문",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwRFRKQ3k2cXMzTmdOQ1FvNVBaemd1czAxaHZZNEE2WldCeEFtUnNPTjJSekVBTTRLcGppVXN2RjhfSkljM3dNb0twOGhMUW9mZlZsLTRMVWxybXhzUnpvX0J3?oc=5",
+     "date": "2026-11-19",
+     "press": "경기신문",
+     "related": []
+    }
+   ]
+  }
+ ]
+}
